@@ -1,0 +1,11 @@
+全池 282 事件；覆盖=窗口与桶相交，专属=窗口完全落在桶内
+
+桶	覆盖数	专属数	权重和	代表事件（按权重排序前 5）
+18-25	119	6	1208	rel_propose,pet_farewell_choice,ab_study,fame_viral,sib_memorial
+26-35	198	1	2047	rel_child_question,rel_propose,rel_parent_last_one,mc_layoff,mc_bench
+36-45	170	0	1749	rel_child_question,rel_propose,rel_parent_last_one,mc_layoff,mc_bench
+46-55	150	2	1534	rel_parent_last_one,late_mentor_young,rel_parent_funeral,late_memoir,rel_parent_deathbed
+56-65	116	6	1176	rel_parent_last_one,late_mentor_young,late_dream_legacy,rel_parent_funeral,late_memoir
+66-77	92	10	913	rel_parent_last_one,late_mentor_young,late_dream_legacy,rel_parent_funeral,late_memoir
+
+覆盖最薄的岁（当年窗口数 ≤12）：无

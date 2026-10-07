@@ -1,0 +1,7907 @@
+{
+ "games": 400,
+ "elapsedSec": 4.6,
+ "rows": [
+  {
+   "id": "ach_first_degree",
+   "name": "学有所成",
+   "defRarity": "rare",
+   "rate": 3.3,
+   "count": 13,
+   "suggested": "epic 珍稀",
+   "match": "✗"
+  },
+  {
+   "id": "ach_self_made",
+   "name": "大器晚成",
+   "defRarity": "rare",
+   "rate": 0,
+   "count": 0,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_fallen_and_risen",
+   "name": "落榜不落志",
+   "defRarity": "rare",
+   "rate": 0,
+   "count": 0,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_first_job",
+   "name": "初入职场",
+   "defRarity": "common",
+   "rate": 43.5,
+   "count": 174,
+   "suggested": "rare 少见",
+   "match": "✗"
+  },
+  {
+   "id": "ach_senior_level",
+   "name": "中层骨干",
+   "defRarity": "common",
+   "rate": 4,
+   "count": 16,
+   "suggested": "epic 珍稀",
+   "match": "✗"
+  },
+  {
+   "id": "ach_comeback",
+   "name": "东山再起",
+   "defRarity": "rare",
+   "rate": 16.8,
+   "count": 67,
+   "suggested": "epic 珍稀",
+   "match": "✗"
+  },
+  {
+   "id": "ach_100k",
+   "name": "第一个十万",
+   "defRarity": "common",
+   "rate": 62,
+   "count": 248,
+   "suggested": "common常见",
+   "match": "✓"
+  },
+  {
+   "id": "ach_debt_free",
+   "name": "无债一身轻",
+   "defRarity": "rare",
+   "rate": 42.8,
+   "count": 171,
+   "suggested": "rare 少见",
+   "match": "✓"
+  },
+  {
+   "id": "ach_landlord",
+   "name": "收租的人",
+   "defRarity": "rare",
+   "rate": 1.8,
+   "count": 7,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_family",
+   "name": "三口之家",
+   "defRarity": "rare",
+   "rate": 1,
+   "count": 4,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_pet",
+   "name": "铲屎官",
+   "defRarity": "common",
+   "rate": 40.3,
+   "count": 161,
+   "suggested": "rare 少见",
+   "match": "✗"
+  },
+  {
+   "id": "ach_reunion",
+   "name": "破镜重圆",
+   "defRarity": "rare",
+   "rate": 0,
+   "count": 0,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_iron_body",
+   "name": "老当益壮",
+   "defRarity": "rare",
+   "rate": 53.3,
+   "count": 213,
+   "suggested": "rare 少见",
+   "match": "✓"
+  },
+  {
+   "id": "ach_reborn",
+   "name": "重获新生",
+   "defRarity": "epic",
+   "rate": 0.5,
+   "count": 2,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_independent",
+   "name": "自己的门钥匙",
+   "defRarity": "common",
+   "rate": 1.5,
+   "count": 6,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_city_rooted",
+   "name": "在大城市站稳脚跟",
+   "defRarity": "rare",
+   "rate": 4.8,
+   "count": 19,
+   "suggested": "epic 珍稀",
+   "match": "✗"
+  },
+  {
+   "id": "ach_dream_kept",
+   "name": "热爱未熄",
+   "defRarity": "rare",
+   "rate": 0,
+   "count": 0,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_young_savings",
+   "name": "二十岁的积蓄",
+   "defRarity": "rare",
+   "rate": 1.3,
+   "count": 5,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_torch_passed",
+   "name": "薪火相传",
+   "defRarity": "rare",
+   "rate": 0.3,
+   "count": 1,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_early_wedding",
+   "name": "二十几岁的婚礼",
+   "defRarity": "rare",
+   "rate": 6.3,
+   "count": 25,
+   "suggested": "epic 珍稀",
+   "match": "✗"
+  },
+  {
+   "id": "ach_mid_pivot",
+   "name": "中年转身",
+   "defRarity": "epic",
+   "rate": 0,
+   "count": 0,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_pillar",
+   "name": "一家人的顶梁柱",
+   "defRarity": "epic",
+   "rate": 0.8,
+   "count": 3,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_warm_home",
+   "name": "烟火气",
+   "defRarity": "rare",
+   "rate": 0,
+   "count": 0,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_health_comeback",
+   "name": "旧伤不疼了",
+   "defRarity": "epic",
+   "rate": 0,
+   "count": 0,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_dream_lived",
+   "name": "把热爱过成日子",
+   "defRarity": "epic",
+   "rate": 5.5,
+   "count": 22,
+   "suggested": "epic 珍稀",
+   "match": "✓"
+  },
+  {
+   "id": "ach_silver_mentor",
+   "name": "桃李晚年",
+   "defRarity": "rare",
+   "rate": 0,
+   "count": 0,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_quit_smoking",
+   "name": "掐灭最后一支烟",
+   "defRarity": "rare",
+   "rate": 0.3,
+   "count": 1,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_single_golden",
+   "name": "一个人的丰盈",
+   "defRarity": "epic",
+   "rate": 8,
+   "count": 32,
+   "suggested": "epic 珍稀",
+   "match": "✓"
+  },
+  {
+   "id": "ach_grandparent",
+   "name": "隔代的疼爱",
+   "defRarity": "rare",
+   "rate": 0.3,
+   "count": 1,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_dream_passed_on",
+   "name": "热爱有了传人",
+   "defRarity": "epic",
+   "rate": 1.5,
+   "count": 6,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_memoir",
+   "name": "一本回忆录",
+   "defRarity": "rare",
+   "rate": 45.8,
+   "count": 183,
+   "suggested": "rare 少见",
+   "match": "✓"
+  },
+  {
+   "id": "ach_mortgage_cleared",
+   "name": "房贷结清",
+   "defRarity": "rare",
+   "rate": 0.5,
+   "count": 2,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_grow_old_together",
+   "name": "白头偕老",
+   "defRarity": "rare",
+   "rate": 32,
+   "count": 128,
+   "suggested": "rare 少见",
+   "match": "✓"
+  },
+  {
+   "id": "ach_three_generations",
+   "name": "三代同堂",
+   "defRarity": "rare",
+   "rate": 1,
+   "count": 4,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_full_lifespan",
+   "name": "岁月长河",
+   "defRarity": "common",
+   "rate": 87.8,
+   "count": 351,
+   "suggested": "common常见",
+   "match": "✓"
+  },
+  {
+   "id": "ach_top_level",
+   "name": "登峰造极",
+   "defRarity": "epic",
+   "rate": 4,
+   "count": 16,
+   "suggested": "epic 珍稀",
+   "match": "✓"
+  },
+  {
+   "id": "ach_dream_trilogy",
+   "name": "热爱成诗",
+   "defRarity": "epic",
+   "rate": 0,
+   "count": 0,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_phd",
+   "name": "学海无涯",
+   "defRarity": "epic",
+   "rate": 0,
+   "count": 0,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_million_home",
+   "name": "百万家财",
+   "defRarity": "legendary",
+   "rate": 3.8,
+   "count": 15,
+   "suggested": "epic 珍稀",
+   "match": "✗"
+  },
+  {
+   "id": "ach_old_friend",
+   "name": "莫逆之交",
+   "defRarity": "rare",
+   "rate": 0,
+   "count": 0,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_clean_living",
+   "name": "清风朗月",
+   "defRarity": "epic",
+   "rate": 33.8,
+   "count": 135,
+   "suggested": "rare 少见",
+   "match": "✗"
+  },
+  {
+   "id": "ach_final_sendoff",
+   "name": "送终",
+   "defRarity": "common",
+   "rate": 100,
+   "count": 400,
+   "suggested": "common常见",
+   "match": "✓"
+  },
+  {
+   "id": "ach_grandparent_time",
+   "name": "含饴弄孙",
+   "defRarity": "epic",
+   "rate": 1,
+   "count": 4,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_chronic_lived",
+   "name": "带病延年",
+   "defRarity": "common",
+   "rate": 39,
+   "count": 156,
+   "suggested": "rare 少见",
+   "match": "✗"
+  },
+  {
+   "id": "ach_match_made",
+   "name": "相识即缘分",
+   "defRarity": "rare",
+   "rate": 24,
+   "count": 96,
+   "suggested": "rare 少见",
+   "match": "✓"
+  },
+  {
+   "id": "ach_next_door",
+   "name": "远亲不如对门",
+   "defRarity": "common",
+   "rate": 87.8,
+   "count": 351,
+   "suggested": "common常见",
+   "match": "✓"
+  },
+  {
+   "id": "ach_sibling_bond",
+   "name": "手足情深",
+   "defRarity": "rare",
+   "rate": 0,
+   "count": 0,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_soul_buddy",
+   "name": "挚友如兄",
+   "defRarity": "epic",
+   "rate": 0,
+   "count": 0,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_grad_studies",
+   "name": "学无止境",
+   "defRarity": "rare",
+   "rate": 0,
+   "count": 0,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_marriage_mended",
+   "name": "雨过天晴",
+   "defRarity": "rare",
+   "rate": 0,
+   "count": 0,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_pet_forever",
+   "name": "它们的一生",
+   "defRarity": "rare",
+   "rate": 39.8,
+   "count": 159,
+   "suggested": "rare 少见",
+   "match": "✓"
+  },
+  {
+   "id": "ach_burnout_resilience",
+   "name": "倦怠突围",
+   "defRarity": "rare",
+   "rate": 6.5,
+   "count": 26,
+   "suggested": "epic 珍稀",
+   "match": "✗"
+  },
+  {
+   "id": "ach_civil_anchor",
+   "name": "上岸",
+   "defRarity": "rare",
+   "rate": 0,
+   "count": 0,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_home_kept",
+   "name": "安得广厦",
+   "defRarity": "rare",
+   "rate": 0.5,
+   "count": 2,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_monetized_fame",
+   "name": "流量时代",
+   "defRarity": "epic",
+   "rate": 0,
+   "count": 0,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_rebuilt_after_divorce",
+   "name": "破而后立",
+   "defRarity": "epic",
+   "rate": 0,
+   "count": 0,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_dink_life",
+   "name": "丁克一生",
+   "defRarity": "rare",
+   "rate": 5.5,
+   "count": 22,
+   "suggested": "epic 珍稀",
+   "match": "✗"
+  },
+  {
+   "id": "ach_returnee_studied",
+   "name": "负笈远游",
+   "defRarity": "epic",
+   "rate": 0,
+   "count": 0,
+   "suggested": "legendary 传奇",
+   "match": "✗"
+  },
+  {
+   "id": "ach_claim_paid",
+   "name": "有备无患",
+   "defRarity": "rare",
+   "rate": 13,
+   "count": 52,
+   "suggested": "epic 珍稀",
+   "match": "✗"
+  }
+ ],
+ "zero": [
+  "ach_self_made",
+  "ach_fallen_and_risen",
+  "ach_reunion",
+  "ach_dream_kept",
+  "ach_mid_pivot",
+  "ach_warm_home",
+  "ach_health_comeback",
+  "ach_silver_mentor",
+  "ach_dream_trilogy",
+  "ach_phd",
+  "ach_old_friend",
+  "ach_sibling_bond",
+  "ach_soul_buddy",
+  "ach_grad_studies",
+  "ach_marriage_mended",
+  "ach_civil_anchor",
+  "ach_monetized_fame",
+  "ach_rebuilt_after_divorce",
+  "ach_returnee_studied"
+ ],
+ "mismatch": [
+  "ach_first_degree",
+  "ach_self_made",
+  "ach_fallen_and_risen",
+  "ach_first_job",
+  "ach_senior_level",
+  "ach_comeback",
+  "ach_landlord",
+  "ach_family",
+  "ach_pet",
+  "ach_reunion",
+  "ach_reborn",
+  "ach_independent",
+  "ach_city_rooted",
+  "ach_dream_kept",
+  "ach_young_savings",
+  "ach_torch_passed",
+  "ach_early_wedding",
+  "ach_mid_pivot",
+  "ach_pillar",
+  "ach_warm_home",
+  "ach_health_comeback",
+  "ach_silver_mentor",
+  "ach_quit_smoking",
+  "ach_grandparent",
+  "ach_dream_passed_on",
+  "ach_mortgage_cleared",
+  "ach_three_generations",
+  "ach_dream_trilogy",
+  "ach_phd",
+  "ach_million_home",
+  "ach_old_friend",
+  "ach_clean_living",
+  "ach_grandparent_time",
+  "ach_chronic_lived",
+  "ach_sibling_bond",
+  "ach_soul_buddy",
+  "ach_grad_studies",
+  "ach_marriage_mended",
+  "ach_burnout_resilience",
+  "ach_civil_anchor",
+  "ach_home_kept",
+  "ach_monetized_fame",
+  "ach_rebuilt_after_divorce",
+  "ach_dink_life",
+  "ach_returnee_studied",
+  "ach_claim_paid"
+ ],
+ "perGame": [
+  {
+   "seed": 11,
+   "bg": "ordinary",
+   "trait": "studious",
+   "strategy": "rotate",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_first_job",
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_landlord",
+    "ach_million_home",
+    "ach_next_door",
+    "ach_burnout_resilience",
+    "ach_single_golden",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 20260917,
+   "bg": "ordinary",
+   "trait": "studious",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 77,
+   "bg": "ordinary",
+   "trait": "studious",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_first_job",
+    "ach_debt_free",
+    "ach_100k",
+    "ach_torch_passed",
+    "ach_final_sendoff",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 5,
+   "bg": "ordinary",
+   "trait": "studious",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_first_job",
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_quit_smoking",
+    "ach_claim_paid",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 902,
+   "bg": "ordinary",
+   "trait": "studious",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 5,
+   "achs": [
+    "ach_final_sendoff",
+    "ach_first_job",
+    "ach_comeback",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 314,
+   "bg": "ordinary",
+   "trait": "studious",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_first_job",
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 606,
+   "bg": "ordinary",
+   "trait": "studious",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_young_savings",
+    "ach_pet",
+    "ach_first_degree",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 808,
+   "bg": "ordinary",
+   "trait": "studious",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 11,
+   "achs": [
+    "ach_debt_free",
+    "ach_first_job",
+    "ach_pet",
+    "ach_comeback",
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_burnout_resilience",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 111,
+   "bg": "ordinary",
+   "trait": "studious",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 222,
+   "bg": "ordinary",
+   "trait": "studious",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_100k",
+    "ach_first_job",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1001,
+   "bg": "ordinary",
+   "trait": "studious",
+   "strategy": "rotate",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_first_job",
+    "ach_debt_free",
+    "ach_comeback",
+    "ach_100k",
+    "ach_senior_level",
+    "ach_top_level",
+    "ach_final_sendoff",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1002,
+   "bg": "ordinary",
+   "trait": "studious",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_pet",
+    "ach_first_job",
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_single_golden",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1003,
+   "bg": "ordinary",
+   "trait": "studious",
+   "strategy": "survival_best",
+   "age": 75,
+   "count": 6,
+   "achs": [
+    "ach_debt_free",
+    "ach_match_made",
+    "ach_dink_life",
+    "ach_final_sendoff",
+    "ach_grow_old_together",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1004,
+   "bg": "ordinary",
+   "trait": "studious",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 5,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_memoir",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1005,
+   "bg": "ordinary",
+   "trait": "studious",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 5,
+   "achs": [
+    "ach_debt_free",
+    "ach_claim_paid",
+    "ach_final_sendoff",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1006,
+   "bg": "ordinary",
+   "trait": "studious",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_pet",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_comeback",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1007,
+   "bg": "ordinary",
+   "trait": "studious",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_young_savings",
+    "ach_first_degree",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_first_job",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1008,
+   "bg": "ordinary",
+   "trait": "studious",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_first_job",
+    "ach_debt_free",
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1009,
+   "bg": "ordinary",
+   "trait": "studious",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1010,
+   "bg": "ordinary",
+   "trait": "studious",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1011,
+   "bg": "ordinary",
+   "trait": "studious",
+   "strategy": "rotate",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_first_job",
+    "ach_debt_free",
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_mortgage_cleared",
+    "ach_home_kept",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1012,
+   "bg": "ordinary",
+   "trait": "studious",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 6,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1013,
+   "bg": "ordinary",
+   "trait": "studious",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 11,
+   "achs": [
+    "ach_debt_free",
+    "ach_early_wedding",
+    "ach_match_made",
+    "ach_first_job",
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1014,
+   "bg": "ordinary",
+   "trait": "studious",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_full_lifespan",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1015,
+   "bg": "ordinary",
+   "trait": "studious",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_debt_free",
+    "ach_first_job",
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_grow_old_together",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1016,
+   "bg": "ordinary",
+   "trait": "studious",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 11,
+   "achs": [
+    "ach_debt_free",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_first_job",
+    "ach_100k",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1017,
+   "bg": "ordinary",
+   "trait": "studious",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 5,
+   "achs": [
+    "ach_final_sendoff",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1018,
+   "bg": "ordinary",
+   "trait": "studious",
+   "strategy": "friend_line",
+   "age": 76,
+   "count": 5,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived"
+   ]
+  },
+  {
+   "seed": 1019,
+   "bg": "ordinary",
+   "trait": "studious",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_grow_old_together",
+    "ach_next_door",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1020,
+   "bg": "ordinary",
+   "trait": "studious",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_first_job",
+    "ach_debt_free",
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_million_home",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 11,
+   "bg": "ordinary",
+   "trait": "sociable",
+   "strategy": "rotate",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_first_job",
+    "ach_100k",
+    "ach_match_made",
+    "ach_landlord",
+    "ach_final_sendoff",
+    "ach_grow_old_together",
+    "ach_million_home",
+    "ach_next_door",
+    "ach_burnout_resilience",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 20260917,
+   "bg": "ordinary",
+   "trait": "sociable",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 77,
+   "bg": "ordinary",
+   "trait": "sociable",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 5,
+   "bg": "ordinary",
+   "trait": "sociable",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 4,
+   "achs": [
+    "ach_final_sendoff",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 902,
+   "bg": "ordinary",
+   "trait": "sociable",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 5,
+   "achs": [
+    "ach_final_sendoff",
+    "ach_first_job",
+    "ach_comeback",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 314,
+   "bg": "ordinary",
+   "trait": "sociable",
+   "strategy": "family_line_v2",
+   "age": 75,
+   "count": 6,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_next_door",
+    "ach_memoir"
+   ]
+  },
+  {
+   "seed": 606,
+   "bg": "ordinary",
+   "trait": "sociable",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_dream_lived",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 808,
+   "bg": "ordinary",
+   "trait": "sociable",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 111,
+   "bg": "ordinary",
+   "trait": "sociable",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 222,
+   "bg": "ordinary",
+   "trait": "sociable",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_debt_free",
+    "ach_match_made",
+    "ach_dink_life",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_100k",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1001,
+   "bg": "ordinary",
+   "trait": "sociable",
+   "strategy": "rotate",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_first_job",
+    "ach_debt_free",
+    "ach_100k",
+    "ach_comeback",
+    "ach_final_sendoff",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1002,
+   "bg": "ordinary",
+   "trait": "sociable",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_match_made",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1003,
+   "bg": "ordinary",
+   "trait": "sociable",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_single_golden",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1004,
+   "bg": "ordinary",
+   "trait": "sociable",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 6,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_memoir",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1005,
+   "bg": "ordinary",
+   "trait": "sociable",
+   "strategy": "family_line",
+   "age": 56,
+   "count": 4,
+   "achs": [
+    "ach_debt_free",
+    "ach_first_job",
+    "ach_comeback",
+    "ach_final_sendoff"
+   ]
+  },
+  {
+   "seed": 1006,
+   "bg": "ordinary",
+   "trait": "sociable",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_first_job",
+    "ach_pet",
+    "ach_comeback",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1007,
+   "bg": "ordinary",
+   "trait": "sociable",
+   "strategy": "study_line",
+   "age": 68,
+   "count": 3,
+   "achs": [
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1008,
+   "bg": "ordinary",
+   "trait": "sociable",
+   "strategy": "friend_line",
+   "age": 73,
+   "count": 3,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1009,
+   "bg": "ordinary",
+   "trait": "sociable",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1010,
+   "bg": "ordinary",
+   "trait": "sociable",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_claim_paid",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1011,
+   "bg": "ordinary",
+   "trait": "sociable",
+   "strategy": "rotate",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_first_job",
+    "ach_debt_free",
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_landlord",
+    "ach_next_door",
+    "ach_burnout_resilience",
+    "ach_single_golden",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1012,
+   "bg": "ordinary",
+   "trait": "sociable",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_debt_free",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1013,
+   "bg": "ordinary",
+   "trait": "sociable",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_early_wedding",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1014,
+   "bg": "ordinary",
+   "trait": "sociable",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 6,
+   "achs": [
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_chronic_lived",
+    "ach_full_lifespan",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1015,
+   "bg": "ordinary",
+   "trait": "sociable",
+   "strategy": "family_line",
+   "age": 72,
+   "count": 5,
+   "achs": [
+    "ach_debt_free",
+    "ach_first_job",
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1016,
+   "bg": "ordinary",
+   "trait": "sociable",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_debt_free",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_pet",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1017,
+   "bg": "ordinary",
+   "trait": "sociable",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1018,
+   "bg": "ordinary",
+   "trait": "sociable",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 5,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1019,
+   "bg": "ordinary",
+   "trait": "sociable",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1020,
+   "bg": "ordinary",
+   "trait": "sociable",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_100k",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 11,
+   "bg": "ordinary",
+   "trait": "ambitious",
+   "strategy": "rotate",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_first_job",
+    "ach_100k",
+    "ach_match_made",
+    "ach_landlord",
+    "ach_final_sendoff",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_next_door",
+    "ach_burnout_resilience",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 20260917,
+   "bg": "ordinary",
+   "trait": "ambitious",
+   "strategy": "health_aware",
+   "age": 74,
+   "count": 4,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_next_door",
+    "ach_chronic_lived"
+   ]
+  },
+  {
+   "seed": 77,
+   "bg": "ordinary",
+   "trait": "ambitious",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 6,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 5,
+   "bg": "ordinary",
+   "trait": "ambitious",
+   "strategy": "balanced",
+   "age": 76,
+   "count": 3,
+   "achs": [
+    "ach_final_sendoff",
+    "ach_memoir",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 902,
+   "bg": "ordinary",
+   "trait": "ambitious",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 5,
+   "achs": [
+    "ach_final_sendoff",
+    "ach_first_job",
+    "ach_comeback",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 314,
+   "bg": "ordinary",
+   "trait": "ambitious",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 606,
+   "bg": "ordinary",
+   "trait": "ambitious",
+   "strategy": "study_line",
+   "age": 76,
+   "count": 4,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_memoir",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 808,
+   "bg": "ordinary",
+   "trait": "ambitious",
+   "strategy": "friend_line",
+   "age": 73,
+   "count": 6,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_chronic_lived"
+   ]
+  },
+  {
+   "seed": 111,
+   "bg": "ordinary",
+   "trait": "ambitious",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 222,
+   "bg": "ordinary",
+   "trait": "ambitious",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1001,
+   "bg": "ordinary",
+   "trait": "ambitious",
+   "strategy": "rotate",
+   "age": 68,
+   "count": 7,
+   "achs": [
+    "ach_first_job",
+    "ach_debt_free",
+    "ach_100k",
+    "ach_senior_level",
+    "ach_top_level",
+    "ach_final_sendoff",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1002,
+   "bg": "ordinary",
+   "trait": "ambitious",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_single_golden",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1003,
+   "bg": "ordinary",
+   "trait": "ambitious",
+   "strategy": "survival_best",
+   "age": 71,
+   "count": 7,
+   "achs": [
+    "ach_debt_free",
+    "ach_match_made",
+    "ach_dink_life",
+    "ach_final_sendoff",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1004,
+   "bg": "ordinary",
+   "trait": "ambitious",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_single_golden",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1005,
+   "bg": "ordinary",
+   "trait": "ambitious",
+   "strategy": "family_line",
+   "age": 56,
+   "count": 4,
+   "achs": [
+    "ach_debt_free",
+    "ach_first_job",
+    "ach_comeback",
+    "ach_final_sendoff"
+   ]
+  },
+  {
+   "seed": 1006,
+   "bg": "ordinary",
+   "trait": "ambitious",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_pet",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_comeback",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1007,
+   "bg": "ordinary",
+   "trait": "ambitious",
+   "strategy": "study_line",
+   "age": 74,
+   "count": 5,
+   "achs": [
+    "ach_debt_free",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_grow_old_together",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1008,
+   "bg": "ordinary",
+   "trait": "ambitious",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 4,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1009,
+   "bg": "ordinary",
+   "trait": "ambitious",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1010,
+   "bg": "ordinary",
+   "trait": "ambitious",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_claim_paid",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1011,
+   "bg": "ordinary",
+   "trait": "ambitious",
+   "strategy": "rotate",
+   "age": 77,
+   "count": 6,
+   "achs": [
+    "ach_first_job",
+    "ach_debt_free",
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1012,
+   "bg": "ordinary",
+   "trait": "ambitious",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 6,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1013,
+   "bg": "ordinary",
+   "trait": "ambitious",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_debt_free",
+    "ach_early_wedding",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1014,
+   "bg": "ordinary",
+   "trait": "ambitious",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_full_lifespan",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1015,
+   "bg": "ordinary",
+   "trait": "ambitious",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 6,
+   "achs": [
+    "ach_debt_free",
+    "ach_first_job",
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1016,
+   "bg": "ordinary",
+   "trait": "ambitious",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_debt_free",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1017,
+   "bg": "ordinary",
+   "trait": "ambitious",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_debt_free",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1018,
+   "bg": "ordinary",
+   "trait": "ambitious",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 5,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_memoir",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1019,
+   "bg": "ordinary",
+   "trait": "ambitious",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1020,
+   "bg": "ordinary",
+   "trait": "ambitious",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_first_job",
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_single_golden",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 11,
+   "bg": "ordinary",
+   "trait": "laid_back",
+   "strategy": "rotate",
+   "age": 69,
+   "count": 5,
+   "achs": [
+    "ach_first_job",
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_memoir",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 20260917,
+   "bg": "ordinary",
+   "trait": "laid_back",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 77,
+   "bg": "ordinary",
+   "trait": "laid_back",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 5,
+   "bg": "ordinary",
+   "trait": "laid_back",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 5,
+   "achs": [
+    "ach_final_sendoff",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 902,
+   "bg": "ordinary",
+   "trait": "laid_back",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 6,
+   "achs": [
+    "ach_final_sendoff",
+    "ach_first_job",
+    "ach_debt_free",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 314,
+   "bg": "ordinary",
+   "trait": "laid_back",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 606,
+   "bg": "ordinary",
+   "trait": "laid_back",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_dream_lived",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 808,
+   "bg": "ordinary",
+   "trait": "laid_back",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 111,
+   "bg": "ordinary",
+   "trait": "laid_back",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 222,
+   "bg": "ordinary",
+   "trait": "laid_back",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_match_made",
+    "ach_dink_life",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1001,
+   "bg": "ordinary",
+   "trait": "laid_back",
+   "strategy": "rotate",
+   "age": 60,
+   "count": 5,
+   "achs": [
+    "ach_first_job",
+    "ach_debt_free",
+    "ach_100k",
+    "ach_comeback",
+    "ach_final_sendoff"
+   ]
+  },
+  {
+   "seed": 1002,
+   "bg": "ordinary",
+   "trait": "laid_back",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1003,
+   "bg": "ordinary",
+   "trait": "laid_back",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_single_golden",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1004,
+   "bg": "ordinary",
+   "trait": "laid_back",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1005,
+   "bg": "ordinary",
+   "trait": "laid_back",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1006,
+   "bg": "ordinary",
+   "trait": "laid_back",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 11,
+   "achs": [
+    "ach_first_job",
+    "ach_match_made",
+    "ach_100k",
+    "ach_burnout_resilience",
+    "ach_final_sendoff",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_reborn",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1007,
+   "bg": "ordinary",
+   "trait": "laid_back",
+   "strategy": "study_line",
+   "age": 72,
+   "count": 3,
+   "achs": [
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1008,
+   "bg": "ordinary",
+   "trait": "laid_back",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 4,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1009,
+   "bg": "ordinary",
+   "trait": "laid_back",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1010,
+   "bg": "ordinary",
+   "trait": "laid_back",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_claim_paid",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1011,
+   "bg": "ordinary",
+   "trait": "laid_back",
+   "strategy": "rotate",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_first_job",
+    "ach_debt_free",
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_landlord",
+    "ach_next_door",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1012,
+   "bg": "ordinary",
+   "trait": "laid_back",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 6,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1013,
+   "bg": "ordinary",
+   "trait": "laid_back",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_debt_free",
+    "ach_early_wedding",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1014,
+   "bg": "ordinary",
+   "trait": "laid_back",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 6,
+   "achs": [
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_chronic_lived",
+    "ach_full_lifespan",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1015,
+   "bg": "ordinary",
+   "trait": "laid_back",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_debt_free",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_100k",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1016,
+   "bg": "ordinary",
+   "trait": "laid_back",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_debt_free",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_pet",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1017,
+   "bg": "ordinary",
+   "trait": "laid_back",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1018,
+   "bg": "ordinary",
+   "trait": "laid_back",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 4,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1019,
+   "bg": "ordinary",
+   "trait": "laid_back",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1020,
+   "bg": "ordinary",
+   "trait": "laid_back",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_100k",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 11,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "strategy": "rotate",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_first_job",
+    "ach_100k",
+    "ach_match_made",
+    "ach_landlord",
+    "ach_final_sendoff",
+    "ach_grow_old_together",
+    "ach_next_door",
+    "ach_burnout_resilience",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 20260917,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "strategy": "health_aware",
+   "age": 75,
+   "count": 7,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived"
+   ]
+  },
+  {
+   "seed": 77,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 5,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 4,
+   "achs": [
+    "ach_final_sendoff",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 902,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 5,
+   "achs": [
+    "ach_final_sendoff",
+    "ach_first_job",
+    "ach_comeback",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 314,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 606,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 808,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 111,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_grow_old_together",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 222,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1001,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "strategy": "rotate",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_first_job",
+    "ach_debt_free",
+    "ach_100k",
+    "ach_comeback",
+    "ach_final_sendoff",
+    "ach_pet",
+    "ach_next_door",
+    "ach_pet_forever",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1002,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_match_made",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1003,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 11,
+   "achs": [
+    "ach_debt_free",
+    "ach_match_made",
+    "ach_dink_life",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_final_sendoff",
+    "ach_100k",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1004,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1005,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_debt_free",
+    "ach_first_job",
+    "ach_comeback",
+    "ach_final_sendoff",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1006,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_comeback",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1007,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "strategy": "study_line",
+   "age": 69,
+   "count": 3,
+   "achs": [
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1008,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 4,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1009,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1010,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_claim_paid",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1011,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "strategy": "rotate",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_first_job",
+    "ach_debt_free",
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_pet",
+    "ach_burnout_resilience",
+    "ach_single_golden",
+    "ach_next_door",
+    "ach_pet_forever",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1012,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 6,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1013,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_early_wedding",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1014,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_full_lifespan",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1015,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 6,
+   "achs": [
+    "ach_debt_free",
+    "ach_first_job",
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1016,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_debt_free",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1017,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_debt_free",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1018,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 4,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1019,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1020,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_debt_free",
+    "ach_first_job",
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_next_door",
+    "ach_single_golden",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 11,
+   "bg": "ordinary",
+   "trait": "risk_taker",
+   "strategy": "rotate",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_first_job",
+    "ach_100k",
+    "ach_match_made",
+    "ach_landlord",
+    "ach_final_sendoff",
+    "ach_grow_old_together",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 20260917,
+   "bg": "ordinary",
+   "trait": "risk_taker",
+   "strategy": "health_aware",
+   "age": 73,
+   "count": 7,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived"
+   ]
+  },
+  {
+   "seed": 77,
+   "bg": "ordinary",
+   "trait": "risk_taker",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 5,
+   "bg": "ordinary",
+   "trait": "risk_taker",
+   "strategy": "balanced",
+   "age": 76,
+   "count": 3,
+   "achs": [
+    "ach_final_sendoff",
+    "ach_memoir",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 902,
+   "bg": "ordinary",
+   "trait": "risk_taker",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 5,
+   "achs": [
+    "ach_final_sendoff",
+    "ach_first_job",
+    "ach_comeback",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 314,
+   "bg": "ordinary",
+   "trait": "risk_taker",
+   "strategy": "family_line_v2",
+   "age": 76,
+   "count": 6,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_next_door",
+    "ach_memoir"
+   ]
+  },
+  {
+   "seed": 606,
+   "bg": "ordinary",
+   "trait": "risk_taker",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 808,
+   "bg": "ordinary",
+   "trait": "risk_taker",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 111,
+   "bg": "ordinary",
+   "trait": "risk_taker",
+   "strategy": "civ_line",
+   "age": 76,
+   "count": 7,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_grow_old_together",
+    "ach_next_door",
+    "ach_chronic_lived"
+   ]
+  },
+  {
+   "seed": 222,
+   "bg": "ordinary",
+   "trait": "risk_taker",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_debt_free",
+    "ach_match_made",
+    "ach_dink_life",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_100k",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1001,
+   "bg": "ordinary",
+   "trait": "risk_taker",
+   "strategy": "rotate",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_first_job",
+    "ach_debt_free",
+    "ach_100k",
+    "ach_comeback",
+    "ach_final_sendoff",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1002,
+   "bg": "ordinary",
+   "trait": "risk_taker",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_match_made",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1003,
+   "bg": "ordinary",
+   "trait": "risk_taker",
+   "strategy": "survival_best",
+   "age": 69,
+   "count": 6,
+   "achs": [
+    "ach_debt_free",
+    "ach_match_made",
+    "ach_dink_life",
+    "ach_final_sendoff",
+    "ach_grow_old_together",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1004,
+   "bg": "ordinary",
+   "trait": "risk_taker",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 5,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_memoir",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1005,
+   "bg": "ordinary",
+   "trait": "risk_taker",
+   "strategy": "family_line",
+   "age": 56,
+   "count": 4,
+   "achs": [
+    "ach_debt_free",
+    "ach_first_job",
+    "ach_comeback",
+    "ach_final_sendoff"
+   ]
+  },
+  {
+   "seed": 1006,
+   "bg": "ordinary",
+   "trait": "risk_taker",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_comeback",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1007,
+   "bg": "ordinary",
+   "trait": "risk_taker",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 6,
+   "achs": [
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_comeback",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1008,
+   "bg": "ordinary",
+   "trait": "risk_taker",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 4,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1009,
+   "bg": "ordinary",
+   "trait": "risk_taker",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1010,
+   "bg": "ordinary",
+   "trait": "risk_taker",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_claim_paid",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1011,
+   "bg": "ordinary",
+   "trait": "risk_taker",
+   "strategy": "rotate",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_first_job",
+    "ach_debt_free",
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_pet",
+    "ach_pet_forever",
+    "ach_next_door",
+    "ach_burnout_resilience",
+    "ach_single_golden",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1012,
+   "bg": "ordinary",
+   "trait": "risk_taker",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_debt_free",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1013,
+   "bg": "ordinary",
+   "trait": "risk_taker",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_debt_free",
+    "ach_early_wedding",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1014,
+   "bg": "ordinary",
+   "trait": "risk_taker",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_100k",
+    "ach_chronic_lived",
+    "ach_full_lifespan",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1015,
+   "bg": "ordinary",
+   "trait": "risk_taker",
+   "strategy": "family_line",
+   "age": 71,
+   "count": 5,
+   "achs": [
+    "ach_debt_free",
+    "ach_first_job",
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1016,
+   "bg": "ordinary",
+   "trait": "risk_taker",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_debt_free",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_pet",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1017,
+   "bg": "ordinary",
+   "trait": "risk_taker",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 5,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_memoir",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1018,
+   "bg": "ordinary",
+   "trait": "risk_taker",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 5,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_memoir",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1019,
+   "bg": "ordinary",
+   "trait": "risk_taker",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1020,
+   "bg": "ordinary",
+   "trait": "risk_taker",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_debt_free",
+    "ach_first_job",
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_burnout_resilience",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 11,
+   "bg": "wealthy",
+   "trait": "studious",
+   "strategy": "rotate",
+   "age": 77,
+   "count": 11,
+   "achs": [
+    "ach_100k",
+    "ach_city_rooted",
+    "ach_first_job",
+    "ach_independent",
+    "ach_match_made",
+    "ach_burnout_resilience",
+    "ach_final_sendoff",
+    "ach_grow_old_together",
+    "ach_next_door",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 20260917,
+   "bg": "wealthy",
+   "trait": "studious",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_million_home",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 77,
+   "bg": "wealthy",
+   "trait": "studious",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 6,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 5,
+   "bg": "wealthy",
+   "trait": "studious",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 902,
+   "bg": "wealthy",
+   "trait": "studious",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_early_wedding",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 314,
+   "bg": "wealthy",
+   "trait": "studious",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 606,
+   "bg": "wealthy",
+   "trait": "studious",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 11,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_first_degree",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_first_job",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 808,
+   "bg": "wealthy",
+   "trait": "studious",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 11,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_pet",
+    "ach_comeback",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_burnout_resilience",
+    "ach_iron_body",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 111,
+   "bg": "wealthy",
+   "trait": "studious",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 222,
+   "bg": "wealthy",
+   "trait": "studious",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_100k",
+    "ach_match_made",
+    "ach_dink_life",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1001,
+   "bg": "wealthy",
+   "trait": "studious",
+   "strategy": "rotate",
+   "age": 77,
+   "count": 11,
+   "achs": [
+    "ach_100k",
+    "ach_city_rooted",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_comeback",
+    "ach_senior_level",
+    "ach_top_level",
+    "ach_burnout_resilience",
+    "ach_million_home",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1002,
+   "bg": "wealthy",
+   "trait": "studious",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_comeback",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1003,
+   "bg": "wealthy",
+   "trait": "studious",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_100k",
+    "ach_match_made",
+    "ach_dink_life",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_claim_paid",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1004,
+   "bg": "wealthy",
+   "trait": "studious",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_single_golden",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1005,
+   "bg": "wealthy",
+   "trait": "studious",
+   "strategy": "family_line",
+   "age": 65,
+   "count": 4,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1006,
+   "bg": "wealthy",
+   "trait": "studious",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_million_home",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1007,
+   "bg": "wealthy",
+   "trait": "studious",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_first_degree",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1008,
+   "bg": "wealthy",
+   "trait": "studious",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1009,
+   "bg": "wealthy",
+   "trait": "studious",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_single_golden",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1010,
+   "bg": "wealthy",
+   "trait": "studious",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 11,
+   "achs": [
+    "ach_100k",
+    "ach_match_made",
+    "ach_first_job",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1011,
+   "bg": "wealthy",
+   "trait": "studious",
+   "strategy": "rotate",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_100k",
+    "ach_city_rooted",
+    "ach_first_job",
+    "ach_comeback",
+    "ach_burnout_resilience",
+    "ach_final_sendoff",
+    "ach_next_door",
+    "ach_single_golden",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1012,
+   "bg": "wealthy",
+   "trait": "studious",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_single_golden",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1013,
+   "bg": "wealthy",
+   "trait": "studious",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_match_made",
+    "ach_comeback",
+    "ach_burnout_resilience",
+    "ach_final_sendoff",
+    "ach_grow_old_together",
+    "ach_next_door",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1014,
+   "bg": "wealthy",
+   "trait": "studious",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_100k",
+    "ach_match_made",
+    "ach_dink_life",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_full_lifespan",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1015,
+   "bg": "wealthy",
+   "trait": "studious",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1016,
+   "bg": "wealthy",
+   "trait": "studious",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_match_made",
+    "ach_grow_old_together",
+    "ach_next_door",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1017,
+   "bg": "wealthy",
+   "trait": "studious",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_first_job",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1018,
+   "bg": "wealthy",
+   "trait": "studious",
+   "strategy": "friend_line",
+   "age": 75,
+   "count": 6,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_dream_lived",
+    "ach_final_sendoff",
+    "ach_next_door",
+    "ach_chronic_lived"
+   ]
+  },
+  {
+   "seed": 1019,
+   "bg": "wealthy",
+   "trait": "studious",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 11,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1020,
+   "bg": "wealthy",
+   "trait": "studious",
+   "strategy": "survival_best",
+   "age": 71,
+   "count": 5,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_memoir",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 11,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "strategy": "rotate",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_100k",
+    "ach_city_rooted",
+    "ach_first_job",
+    "ach_independent",
+    "ach_final_sendoff",
+    "ach_comeback",
+    "ach_debt_free",
+    "ach_next_door",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 20260917,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 77,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_comeback",
+    "ach_iron_body",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 5,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 902,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_100k",
+    "ach_early_wedding",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 314,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_first_job",
+    "ach_dream_lived",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_comeback",
+    "ach_dream_passed_on",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 606,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_dream_lived",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 808,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_comeback",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 111,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 13,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_family",
+    "ach_pillar",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_three_generations",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_grandparent_time",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 222,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 11,
+   "achs": [
+    "ach_100k",
+    "ach_match_made",
+    "ach_dink_life",
+    "ach_final_sendoff",
+    "ach_first_job",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1001,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "strategy": "rotate",
+   "age": 50,
+   "count": 7,
+   "achs": [
+    "ach_100k",
+    "ach_city_rooted",
+    "ach_first_job",
+    "ach_comeback",
+    "ach_senior_level",
+    "ach_top_level",
+    "ach_final_sendoff"
+   ]
+  },
+  {
+   "seed": 1002,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 12,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_pet",
+    "ach_comeback",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_million_home",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1003,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 12,
+   "achs": [
+    "ach_100k",
+    "ach_early_wedding",
+    "ach_pet",
+    "ach_dink_life",
+    "ach_dream_lived",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_claim_paid",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1004,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1005,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 6,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_comeback",
+    "ach_final_sendoff",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1006,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "strategy": "family_line_v2",
+   "age": 73,
+   "count": 7,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_memoir",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1007,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_100k",
+    "ach_early_wedding",
+    "ach_match_made",
+    "ach_dream_lived",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1008,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_dream_lived",
+    "ach_iron_body",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1009,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1010,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_single_golden",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1011,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "strategy": "rotate",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_100k",
+    "ach_city_rooted",
+    "ach_first_job",
+    "ach_comeback",
+    "ach_final_sendoff",
+    "ach_next_door",
+    "ach_burnout_resilience",
+    "ach_single_golden",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1012,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 6,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1013,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 11,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1014,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 12,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_pet",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_million_home",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_full_lifespan",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1015,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_first_job",
+    "ach_grow_old_together",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1016,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_match_made",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1017,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1018,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_single_golden",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1019,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1020,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_comeback",
+    "ach_iron_body",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 11,
+   "bg": "wealthy",
+   "trait": "ambitious",
+   "strategy": "rotate",
+   "age": 65,
+   "count": 6,
+   "achs": [
+    "ach_100k",
+    "ach_city_rooted",
+    "ach_first_job",
+    "ach_independent",
+    "ach_final_sendoff",
+    "ach_comeback"
+   ]
+  },
+  {
+   "seed": 20260917,
+   "bg": "wealthy",
+   "trait": "ambitious",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 77,
+   "bg": "wealthy",
+   "trait": "ambitious",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 5,
+   "bg": "wealthy",
+   "trait": "ambitious",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 902,
+   "bg": "wealthy",
+   "trait": "ambitious",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_100k",
+    "ach_early_wedding",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 314,
+   "bg": "wealthy",
+   "trait": "ambitious",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_first_job",
+    "ach_dream_lived",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_comeback",
+    "ach_next_door",
+    "ach_dream_passed_on",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 606,
+   "bg": "wealthy",
+   "trait": "ambitious",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 11,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_first_degree",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_first_job",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 808,
+   "bg": "wealthy",
+   "trait": "ambitious",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_pet",
+    "ach_comeback",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 111,
+   "bg": "wealthy",
+   "trait": "ambitious",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 222,
+   "bg": "wealthy",
+   "trait": "ambitious",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 11,
+   "achs": [
+    "ach_100k",
+    "ach_match_made",
+    "ach_dink_life",
+    "ach_final_sendoff",
+    "ach_first_job",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1001,
+   "bg": "wealthy",
+   "trait": "ambitious",
+   "strategy": "rotate",
+   "age": 65,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_city_rooted",
+    "ach_first_job",
+    "ach_comeback",
+    "ach_senior_level",
+    "ach_top_level",
+    "ach_final_sendoff",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1002,
+   "bg": "wealthy",
+   "trait": "ambitious",
+   "strategy": "health_aware",
+   "age": 74,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_memoir",
+    "ach_chronic_lived",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1003,
+   "bg": "wealthy",
+   "trait": "ambitious",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 12,
+   "achs": [
+    "ach_100k",
+    "ach_early_wedding",
+    "ach_pet",
+    "ach_dink_life",
+    "ach_dream_lived",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_claim_paid",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1004,
+   "bg": "wealthy",
+   "trait": "ambitious",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1005,
+   "bg": "wealthy",
+   "trait": "ambitious",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 6,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_comeback",
+    "ach_final_sendoff",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1006,
+   "bg": "wealthy",
+   "trait": "ambitious",
+   "strategy": "family_line_v2",
+   "age": 72,
+   "count": 7,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_memoir",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1007,
+   "bg": "wealthy",
+   "trait": "ambitious",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_100k",
+    "ach_first_degree",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1008,
+   "bg": "wealthy",
+   "trait": "ambitious",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_dream_lived",
+    "ach_iron_body",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1009,
+   "bg": "wealthy",
+   "trait": "ambitious",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1010,
+   "bg": "wealthy",
+   "trait": "ambitious",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_single_golden",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1011,
+   "bg": "wealthy",
+   "trait": "ambitious",
+   "strategy": "rotate",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_100k",
+    "ach_city_rooted",
+    "ach_first_job",
+    "ach_comeback",
+    "ach_final_sendoff",
+    "ach_next_door",
+    "ach_burnout_resilience",
+    "ach_single_golden",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1012,
+   "bg": "wealthy",
+   "trait": "ambitious",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 6,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1013,
+   "bg": "wealthy",
+   "trait": "ambitious",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 11,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1014,
+   "bg": "wealthy",
+   "trait": "ambitious",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 12,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_pet",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_million_home",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_full_lifespan",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1015,
+   "bg": "wealthy",
+   "trait": "ambitious",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_first_job",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_iron_body",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1016,
+   "bg": "wealthy",
+   "trait": "ambitious",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_match_made",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1017,
+   "bg": "wealthy",
+   "trait": "ambitious",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_first_job",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1018,
+   "bg": "wealthy",
+   "trait": "ambitious",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_single_golden",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1019,
+   "bg": "wealthy",
+   "trait": "ambitious",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1020,
+   "bg": "wealthy",
+   "trait": "ambitious",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_comeback",
+    "ach_iron_body",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 11,
+   "bg": "wealthy",
+   "trait": "laid_back",
+   "strategy": "rotate",
+   "age": 77,
+   "count": 13,
+   "achs": [
+    "ach_100k",
+    "ach_city_rooted",
+    "ach_first_job",
+    "ach_independent",
+    "ach_match_made",
+    "ach_comeback",
+    "ach_final_sendoff",
+    "ach_senior_level",
+    "ach_top_level",
+    "ach_grow_old_together",
+    "ach_next_door",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 20260917,
+   "bg": "wealthy",
+   "trait": "laid_back",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 77,
+   "bg": "wealthy",
+   "trait": "laid_back",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_comeback",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 5,
+   "bg": "wealthy",
+   "trait": "laid_back",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 902,
+   "bg": "wealthy",
+   "trait": "laid_back",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_100k",
+    "ach_early_wedding",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 314,
+   "bg": "wealthy",
+   "trait": "laid_back",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 13,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_first_job",
+    "ach_dream_lived",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_comeback",
+    "ach_iron_body",
+    "ach_single_golden",
+    "ach_dream_passed_on",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 606,
+   "bg": "wealthy",
+   "trait": "laid_back",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_dream_lived",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 808,
+   "bg": "wealthy",
+   "trait": "laid_back",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_burnout_resilience",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 111,
+   "bg": "wealthy",
+   "trait": "laid_back",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 13,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_family",
+    "ach_pillar",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_three_generations",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_grandparent_time",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 222,
+   "bg": "wealthy",
+   "trait": "laid_back",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 11,
+   "achs": [
+    "ach_100k",
+    "ach_match_made",
+    "ach_dink_life",
+    "ach_final_sendoff",
+    "ach_first_job",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1001,
+   "bg": "wealthy",
+   "trait": "laid_back",
+   "strategy": "rotate",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_100k",
+    "ach_city_rooted",
+    "ach_first_job",
+    "ach_comeback",
+    "ach_senior_level",
+    "ach_top_level",
+    "ach_final_sendoff",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1002,
+   "bg": "wealthy",
+   "trait": "laid_back",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 13,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_pet",
+    "ach_comeback",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_match_made",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1003,
+   "bg": "wealthy",
+   "trait": "laid_back",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 12,
+   "achs": [
+    "ach_100k",
+    "ach_early_wedding",
+    "ach_pet",
+    "ach_dink_life",
+    "ach_dream_lived",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_claim_paid",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1004,
+   "bg": "wealthy",
+   "trait": "laid_back",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1005,
+   "bg": "wealthy",
+   "trait": "laid_back",
+   "strategy": "family_line",
+   "age": 69,
+   "count": 4,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_comeback",
+    "ach_final_sendoff"
+   ]
+  },
+  {
+   "seed": 1006,
+   "bg": "wealthy",
+   "trait": "laid_back",
+   "strategy": "family_line_v2",
+   "age": 75,
+   "count": 7,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_memoir",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1007,
+   "bg": "wealthy",
+   "trait": "laid_back",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_100k",
+    "ach_early_wedding",
+    "ach_match_made",
+    "ach_dream_lived",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1008,
+   "bg": "wealthy",
+   "trait": "laid_back",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_dream_lived",
+    "ach_iron_body",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1009,
+   "bg": "wealthy",
+   "trait": "laid_back",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1010,
+   "bg": "wealthy",
+   "trait": "laid_back",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_single_golden",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1011,
+   "bg": "wealthy",
+   "trait": "laid_back",
+   "strategy": "rotate",
+   "age": 77,
+   "count": 11,
+   "achs": [
+    "ach_100k",
+    "ach_city_rooted",
+    "ach_first_job",
+    "ach_comeback",
+    "ach_burnout_resilience",
+    "ach_final_sendoff",
+    "ach_mortgage_cleared",
+    "ach_home_kept",
+    "ach_next_door",
+    "ach_dream_passed_on",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1012,
+   "bg": "wealthy",
+   "trait": "laid_back",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 6,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1013,
+   "bg": "wealthy",
+   "trait": "laid_back",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 11,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_first_job",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1014,
+   "bg": "wealthy",
+   "trait": "laid_back",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 12,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_pet",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_million_home",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_full_lifespan",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1015,
+   "bg": "wealthy",
+   "trait": "laid_back",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1016,
+   "bg": "wealthy",
+   "trait": "laid_back",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_match_made",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1017,
+   "bg": "wealthy",
+   "trait": "laid_back",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1018,
+   "bg": "wealthy",
+   "trait": "laid_back",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_single_golden",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1019,
+   "bg": "wealthy",
+   "trait": "laid_back",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1020,
+   "bg": "wealthy",
+   "trait": "laid_back",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 6,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 11,
+   "bg": "wealthy",
+   "trait": "frugal",
+   "strategy": "rotate",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_100k",
+    "ach_city_rooted",
+    "ach_first_job",
+    "ach_independent",
+    "ach_final_sendoff",
+    "ach_comeback",
+    "ach_debt_free",
+    "ach_next_door",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 20260917,
+   "bg": "wealthy",
+   "trait": "frugal",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 77,
+   "bg": "wealthy",
+   "trait": "frugal",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_comeback",
+    "ach_iron_body",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 5,
+   "bg": "wealthy",
+   "trait": "frugal",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 902,
+   "bg": "wealthy",
+   "trait": "frugal",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_100k",
+    "ach_early_wedding",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 314,
+   "bg": "wealthy",
+   "trait": "frugal",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 11,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_first_job",
+    "ach_dream_lived",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_comeback",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_dream_passed_on",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 606,
+   "bg": "wealthy",
+   "trait": "frugal",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 11,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_first_degree",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_first_job",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 808,
+   "bg": "wealthy",
+   "trait": "frugal",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_pet",
+    "ach_comeback",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_burnout_resilience",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 111,
+   "bg": "wealthy",
+   "trait": "frugal",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 222,
+   "bg": "wealthy",
+   "trait": "frugal",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 11,
+   "achs": [
+    "ach_100k",
+    "ach_match_made",
+    "ach_dink_life",
+    "ach_final_sendoff",
+    "ach_first_job",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1001,
+   "bg": "wealthy",
+   "trait": "frugal",
+   "strategy": "rotate",
+   "age": 50,
+   "count": 7,
+   "achs": [
+    "ach_100k",
+    "ach_city_rooted",
+    "ach_first_job",
+    "ach_comeback",
+    "ach_senior_level",
+    "ach_top_level",
+    "ach_final_sendoff"
+   ]
+  },
+  {
+   "seed": 1002,
+   "bg": "wealthy",
+   "trait": "frugal",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 12,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_pet",
+    "ach_comeback",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_million_home",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1003,
+   "bg": "wealthy",
+   "trait": "frugal",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 12,
+   "achs": [
+    "ach_100k",
+    "ach_early_wedding",
+    "ach_pet",
+    "ach_dink_life",
+    "ach_dream_lived",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_claim_paid",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1004,
+   "bg": "wealthy",
+   "trait": "frugal",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1005,
+   "bg": "wealthy",
+   "trait": "frugal",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 6,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_comeback",
+    "ach_final_sendoff",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1006,
+   "bg": "wealthy",
+   "trait": "frugal",
+   "strategy": "family_line_v2",
+   "age": 75,
+   "count": 7,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_memoir",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1007,
+   "bg": "wealthy",
+   "trait": "frugal",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_first_degree",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1008,
+   "bg": "wealthy",
+   "trait": "frugal",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_dream_lived",
+    "ach_iron_body",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1009,
+   "bg": "wealthy",
+   "trait": "frugal",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1010,
+   "bg": "wealthy",
+   "trait": "frugal",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_single_golden",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1011,
+   "bg": "wealthy",
+   "trait": "frugal",
+   "strategy": "rotate",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_100k",
+    "ach_city_rooted",
+    "ach_first_job",
+    "ach_comeback",
+    "ach_burnout_resilience",
+    "ach_final_sendoff",
+    "ach_next_door",
+    "ach_single_golden",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1012,
+   "bg": "wealthy",
+   "trait": "frugal",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 6,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1013,
+   "bg": "wealthy",
+   "trait": "frugal",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 11,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1014,
+   "bg": "wealthy",
+   "trait": "frugal",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 12,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_pet",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_million_home",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_full_lifespan",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1015,
+   "bg": "wealthy",
+   "trait": "frugal",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_first_job",
+    "ach_grow_old_together",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1016,
+   "bg": "wealthy",
+   "trait": "frugal",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_match_made",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1017,
+   "bg": "wealthy",
+   "trait": "frugal",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_first_job",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1018,
+   "bg": "wealthy",
+   "trait": "frugal",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_single_golden",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1019,
+   "bg": "wealthy",
+   "trait": "frugal",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1020,
+   "bg": "wealthy",
+   "trait": "frugal",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_comeback",
+    "ach_iron_body",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 11,
+   "bg": "wealthy",
+   "trait": "risk_taker",
+   "strategy": "rotate",
+   "age": 65,
+   "count": 6,
+   "achs": [
+    "ach_100k",
+    "ach_city_rooted",
+    "ach_first_job",
+    "ach_independent",
+    "ach_final_sendoff",
+    "ach_comeback"
+   ]
+  },
+  {
+   "seed": 20260917,
+   "bg": "wealthy",
+   "trait": "risk_taker",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 77,
+   "bg": "wealthy",
+   "trait": "risk_taker",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 5,
+   "bg": "wealthy",
+   "trait": "risk_taker",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 902,
+   "bg": "wealthy",
+   "trait": "risk_taker",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_100k",
+    "ach_early_wedding",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 314,
+   "bg": "wealthy",
+   "trait": "risk_taker",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_first_job",
+    "ach_dream_lived",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_comeback",
+    "ach_next_door",
+    "ach_dream_passed_on",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 606,
+   "bg": "wealthy",
+   "trait": "risk_taker",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 11,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_first_degree",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_first_job",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 808,
+   "bg": "wealthy",
+   "trait": "risk_taker",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 11,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_pet",
+    "ach_comeback",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_burnout_resilience",
+    "ach_memoir",
+    "ach_single_golden",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 111,
+   "bg": "wealthy",
+   "trait": "risk_taker",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 222,
+   "bg": "wealthy",
+   "trait": "risk_taker",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 11,
+   "achs": [
+    "ach_100k",
+    "ach_match_made",
+    "ach_dink_life",
+    "ach_final_sendoff",
+    "ach_first_job",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1001,
+   "bg": "wealthy",
+   "trait": "risk_taker",
+   "strategy": "rotate",
+   "age": 64,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_city_rooted",
+    "ach_first_job",
+    "ach_comeback",
+    "ach_senior_level",
+    "ach_top_level",
+    "ach_final_sendoff",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1002,
+   "bg": "wealthy",
+   "trait": "risk_taker",
+   "strategy": "health_aware",
+   "age": 74,
+   "count": 7,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_memoir",
+    "ach_chronic_lived"
+   ]
+  },
+  {
+   "seed": 1003,
+   "bg": "wealthy",
+   "trait": "risk_taker",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 12,
+   "achs": [
+    "ach_100k",
+    "ach_early_wedding",
+    "ach_pet",
+    "ach_dink_life",
+    "ach_dream_lived",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_claim_paid",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1004,
+   "bg": "wealthy",
+   "trait": "risk_taker",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1005,
+   "bg": "wealthy",
+   "trait": "risk_taker",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 6,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_comeback",
+    "ach_final_sendoff",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1006,
+   "bg": "wealthy",
+   "trait": "risk_taker",
+   "strategy": "family_line_v2",
+   "age": 72,
+   "count": 6,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1007,
+   "bg": "wealthy",
+   "trait": "risk_taker",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_100k",
+    "ach_first_degree",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1008,
+   "bg": "wealthy",
+   "trait": "risk_taker",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_dream_lived",
+    "ach_iron_body",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1009,
+   "bg": "wealthy",
+   "trait": "risk_taker",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1010,
+   "bg": "wealthy",
+   "trait": "risk_taker",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_single_golden",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1011,
+   "bg": "wealthy",
+   "trait": "risk_taker",
+   "strategy": "rotate",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_city_rooted",
+    "ach_first_job",
+    "ach_comeback",
+    "ach_burnout_resilience",
+    "ach_final_sendoff",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1012,
+   "bg": "wealthy",
+   "trait": "risk_taker",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 6,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1013,
+   "bg": "wealthy",
+   "trait": "risk_taker",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1014,
+   "bg": "wealthy",
+   "trait": "risk_taker",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 12,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_pet",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_million_home",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_full_lifespan",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1015,
+   "bg": "wealthy",
+   "trait": "risk_taker",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_first_job",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_iron_body",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1016,
+   "bg": "wealthy",
+   "trait": "risk_taker",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_match_made",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1017,
+   "bg": "wealthy",
+   "trait": "risk_taker",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_first_job",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1018,
+   "bg": "wealthy",
+   "trait": "risk_taker",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_single_golden",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1019,
+   "bg": "wealthy",
+   "trait": "risk_taker",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_100k",
+    "ach_pet",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1020,
+   "bg": "wealthy",
+   "trait": "risk_taker",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_100k",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_comeback",
+    "ach_iron_body",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 11,
+   "bg": "rural",
+   "trait": "studious",
+   "strategy": "rotate",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_first_job",
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_million_home",
+    "ach_next_door",
+    "ach_reborn",
+    "ach_pet",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 20260917,
+   "bg": "rural",
+   "trait": "studious",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_first_job",
+    "ach_debt_free",
+    "ach_100k",
+    "ach_senior_level",
+    "ach_top_level",
+    "ach_final_sendoff",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 77,
+   "bg": "rural",
+   "trait": "studious",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 13,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_first_job",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_100k",
+    "ach_senior_level",
+    "ach_top_level",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 5,
+   "bg": "rural",
+   "trait": "studious",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 902,
+   "bg": "rural",
+   "trait": "studious",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_early_wedding",
+    "ach_final_sendoff",
+    "ach_100k",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 314,
+   "bg": "rural",
+   "trait": "studious",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 13,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_first_job",
+    "ach_100k",
+    "ach_senior_level",
+    "ach_top_level",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_burnout_resilience",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 606,
+   "bg": "rural",
+   "trait": "studious",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_young_savings",
+    "ach_pet",
+    "ach_first_degree",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_first_job",
+    "ach_iron_body",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 808,
+   "bg": "rural",
+   "trait": "studious",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 111,
+   "bg": "rural",
+   "trait": "studious",
+   "strategy": "civ_line",
+   "age": 71,
+   "count": 10,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_family",
+    "ach_pillar",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_three_generations",
+    "ach_grandparent_time"
+   ]
+  },
+  {
+   "seed": 222,
+   "bg": "rural",
+   "trait": "studious",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_match_made",
+    "ach_dink_life",
+    "ach_final_sendoff",
+    "ach_100k",
+    "ach_grow_old_together",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1001,
+   "bg": "rural",
+   "trait": "studious",
+   "strategy": "rotate",
+   "age": 63,
+   "count": 7,
+   "achs": [
+    "ach_first_job",
+    "ach_debt_free",
+    "ach_100k",
+    "ach_senior_level",
+    "ach_top_level",
+    "ach_final_sendoff",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1002,
+   "bg": "rural",
+   "trait": "studious",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 11,
+   "achs": [
+    "ach_pet",
+    "ach_first_job",
+    "ach_100k",
+    "ach_senior_level",
+    "ach_top_level",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_single_golden",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1003,
+   "bg": "rural",
+   "trait": "studious",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_match_made",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1004,
+   "bg": "rural",
+   "trait": "studious",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_single_golden",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1005,
+   "bg": "rural",
+   "trait": "studious",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_early_wedding",
+    "ach_match_made",
+    "ach_claim_paid",
+    "ach_final_sendoff",
+    "ach_grow_old_together",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1006,
+   "bg": "rural",
+   "trait": "studious",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 6,
+   "achs": [
+    "ach_debt_free",
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1007,
+   "bg": "rural",
+   "trait": "studious",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_young_savings",
+    "ach_first_degree",
+    "ach_early_wedding",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1008,
+   "bg": "rural",
+   "trait": "studious",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1009,
+   "bg": "rural",
+   "trait": "studious",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 6,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1010,
+   "bg": "rural",
+   "trait": "studious",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_debt_free",
+    "ach_100k",
+    "ach_first_job",
+    "ach_pet",
+    "ach_claim_paid",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1011,
+   "bg": "rural",
+   "trait": "studious",
+   "strategy": "rotate",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_first_job",
+    "ach_debt_free",
+    "ach_city_rooted",
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1012,
+   "bg": "rural",
+   "trait": "studious",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 6,
+   "achs": [
+    "ach_debt_free",
+    "ach_first_job",
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1013,
+   "bg": "rural",
+   "trait": "studious",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_early_wedding",
+    "ach_match_made",
+    "ach_first_job",
+    "ach_final_sendoff",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1014,
+   "bg": "rural",
+   "trait": "studious",
+   "strategy": "balanced",
+   "age": 77,
+   "count": 11,
+   "achs": [
+    "ach_early_wedding",
+    "ach_match_made",
+    "ach_dink_life",
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_claim_paid",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_full_lifespan",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 1015,
+   "bg": "rural",
+   "trait": "studious",
+   "strategy": "family_line",
+   "age": 77,
+   "count": 11,
+   "achs": [
+    "ach_debt_free",
+    "ach_first_job",
+    "ach_100k",
+    "ach_senior_level",
+    "ach_top_level",
+    "ach_final_sendoff",
+    "ach_burnout_resilience",
+    "ach_million_home",
+    "ach_next_door",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1016,
+   "bg": "rural",
+   "trait": "studious",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 11,
+   "achs": [
+    "ach_debt_free",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_first_job",
+    "ach_100k",
+    "ach_claim_paid",
+    "ach_burnout_resilience",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1017,
+   "bg": "rural",
+   "trait": "studious",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 6,
+   "achs": [
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1018,
+   "bg": "rural",
+   "trait": "studious",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_debt_free",
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1019,
+   "bg": "rural",
+   "trait": "studious",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_debt_free",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_grow_old_together",
+    "ach_next_door",
+    "ach_100k",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 1020,
+   "bg": "rural",
+   "trait": "studious",
+   "strategy": "survival_best",
+   "age": 70,
+   "count": 7,
+   "achs": [
+    "ach_first_job",
+    "ach_debt_free",
+    "ach_100k",
+    "ach_senior_level",
+    "ach_top_level",
+    "ach_final_sendoff",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 11,
+   "bg": "rural",
+   "trait": "sociable",
+   "strategy": "rotate",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_first_job",
+    "ach_debt_free",
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_comeback",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_pet",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 20260917,
+   "bg": "rural",
+   "trait": "sociable",
+   "strategy": "health_aware",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_first_job",
+    "ach_debt_free",
+    "ach_100k",
+    "ach_comeback",
+    "ach_final_sendoff",
+    "ach_memoir",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 77,
+   "bg": "rural",
+   "trait": "sociable",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 7,
+   "achs": [
+    "ach_debt_free",
+    "ach_match_made",
+    "ach_final_sendoff",
+    "ach_iron_body",
+    "ach_grow_old_together",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 5,
+   "bg": "rural",
+   "trait": "sociable",
+   "strategy": "balanced",
+   "age": 72,
+   "count": 5,
+   "achs": [
+    "ach_first_job",
+    "ach_100k",
+    "ach_final_sendoff",
+    "ach_memoir",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 902,
+   "bg": "rural",
+   "trait": "sociable",
+   "strategy": "family_line",
+   "age": 73,
+   "count": 10,
+   "achs": [
+    "ach_debt_free",
+    "ach_early_wedding",
+    "ach_family",
+    "ach_final_sendoff",
+    "ach_grandparent",
+    "ach_three_generations",
+    "ach_memoir",
+    "ach_grow_old_together",
+    "ach_grandparent_time",
+    "ach_next_door"
+   ]
+  },
+  {
+   "seed": 314,
+   "bg": "rural",
+   "trait": "sociable",
+   "strategy": "family_line_v2",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 606,
+   "bg": "rural",
+   "trait": "sociable",
+   "strategy": "study_line",
+   "age": 77,
+   "count": 11,
+   "achs": [
+    "ach_young_savings",
+    "ach_pet",
+    "ach_first_degree",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_first_job",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 808,
+   "bg": "rural",
+   "trait": "sociable",
+   "strategy": "friend_line",
+   "age": 77,
+   "count": 10,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_iron_body",
+    "ach_memoir",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_100k",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 111,
+   "bg": "rural",
+   "trait": "sociable",
+   "strategy": "civ_line",
+   "age": 77,
+   "count": 8,
+   "achs": [
+    "ach_debt_free",
+    "ach_pet",
+    "ach_final_sendoff",
+    "ach_pet_forever",
+    "ach_grow_old_together",
+    "ach_next_door",
+    "ach_chronic_lived",
+    "ach_full_lifespan"
+   ]
+  },
+  {
+   "seed": 222,
+   "bg": "rural",
+   "trait": "sociable",
+   "strategy": "survival_best",
+   "age": 77,
+   "count": 9,
+   "achs": [
+    "ach_debt_free",
+    "ach_final_sendoff",
+    "ach_100k",
+    "ach_first_job",
+    "ach_iron_body",
+    "ach_clean_living",
+    "ach_next_door",
+    "ach_memoir",
+    "ach_full_lifespan"
+   ]
+  }
+ ]
+}

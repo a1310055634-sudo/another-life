@@ -1,0 +1,20 @@
+局 0 ordinary/studious/seed11/rotate：年数=60 位移=0
+局 1 ordinary/studious/seed20260917/study_line：年数=60 位移=0
+局 2 ordinary/studious/seed77/civ_line：年数=60 位移=0
+局 3 ordinary/studious/seed5/balanced：年数=60 位移=0
+局 4 ordinary/studious/seed902/survival_best：年数=60 位移=0
+局 5 ordinary/sociable/seed11/family_line_v2：年数=60 位移=0
+局 6 ordinary/sociable/seed20260917/health_aware：年数=60 位移=0
+局 7 ordinary/sociable/seed77/friend_line：年数=60 位移=0
+局 8 ordinary/sociable/seed5/family_line：年数=58 位移=0
+局 9 ordinary/sociable/seed902/study_line：年数=60 位移=0
+局10 ordinary/ambitious/seed11/rotate：年数=60 位移=0
+局11 ordinary/ambitious/seed20260917/study_line：年数=60 位移=0
+局12 ordinary/ambitious/seed77/civ_line：年数=60 位移=0
+局13 ordinary/ambitious/seed5/balanced：年数=59 位移=0
+局14 ordinary/ambitious/seed902/survival_best：年数=60 位移=0
+局15 ordinary/laid_back/seed11/family_line_v2：年数=60 位移=0
+局16 ordinary/laid_back/seed20260917/health_aware：年数=60 位移=0
+局17 ordinary/laid_back/seed77/friend_line：年数=60 位移=0
+
+位移局数= 0/18

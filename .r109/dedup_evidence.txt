@@ -1,0 +1,7 @@
+dupLine(1-based)=819
+keptLine(1-based)=821
+dupLen=669
+keptLen=642
+dupStartsWithKept=true
+orphanFragment= 世代传承——血脉延续（第 94 轮，V5 旗舰特性）
+orphanFragmentLen=27

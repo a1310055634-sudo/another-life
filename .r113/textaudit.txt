@@ -1,0 +1,89 @@
+=== ① 年代一致性候选（触发年代 < 词普及年代 → 人工复核） ===
+  [youth_night_class] 19-32 触发年≈2009 < 「短视频」普及 2016（词）
+  [youth_night_stall] 18-30 触发年≈2008 < 「朋友圈」普及 2012（词）
+  [edu_adult_selfexam] 25-45 触发年≈2015 < 「短视频」普及 2016（词）
+  [car_job_board] 18-60 触发年≈2008 < 「外卖」普及 2013（外卖平台普及）
+  [car_first_paycheck] 18-30 触发年≈2008 < 「短视频」普及 2016（词）
+  [car_first_paycheck] 18-30 触发年≈2008 < 「网课」普及 2013（大规模网课 2020）
+  [fin_side_hustle] 20-45 触发年≈2010 < 「刷手机」普及 2012（智能手机普及）
+  [fin_side_hustle] 20-45 触发年≈2010 < 「网课」普及 2013（大规模网课 2020）
+  [rel_parent_greeting] 20-60 触发年≈2010 < 「外卖」普及 2013（外卖平台普及）
+  [hlt_desk_years] 22-34 触发年≈2012 < 「外卖」普及 2013（外卖平台普及）
+  [youth_holiday_dilemma] 20-30 触发年≈2010 < 「微信」普及 2011（词）
+  [youth_holiday_dilemma] 20-30 触发年≈2010 < 「外卖」普及 2013（外卖平台普及）
+  [youth_friend_startup] 21-30 触发年≈2011 < 「朋友圈」普及 2012（词）
+  [youth_friend_startup] 21-30 触发年≈2011 < 「扫码」普及 2015（扫码支付普及）
+  [fame_start] 18-45 触发年≈2008 < 「刷手机」普及 2012（智能手机普及）
+  [mood_self_care] 18-70 触发年≈2008 < 「刷手机」普及 2012（智能手机普及）
+  候选 16 条
+
+=== ② 同质化候选 ===
+  开头「{name}…」× 6: mar_handwritten_letter,pet_companion,ins_declined,fin_fund_take_profit,mood_professional,mood_clear_sky
+  意象「体检」× 14: mid_parent_health,late_health_screen,hlt_overwork_warning,hlt_partner_checkup,hlt_checkup_mild_flags,hlt_checkup_red_flags,hlt_desk_years,hlt_verge_fever,yk_sudden,mid_checkup_arrows
+  意象「手机」× 47: youth_first_salary_splurge,late_hobby_club,car_job_board,car_old_boss_call,car_workaholic_bill,fin_side_hustle,fin_invest_pitch,fin_debt_calls,fin_scam_aftermath,rel_reconnect_friend
+  意象「公园」× 9: youth_gym_card,youth_gym_renew,fam_grandchild_time,hlt_old_body_maintenance,mid_child_interest,late_late_companion,late_burnout_rekindle,late_old_phone_decade,late_peer_gap
+  意象「医院」× 14: car_campus_recruit,car_old_boss_call,car_nurse_certificate,hlt_gym_injury,hlt_partner_checkup,hlt_old_body_maintenance,hlt_chronic_onset,hlt_chronic_checkup,late_growing_old_together,late_health_debt
+  意象「加班」× 9: car_industry_winter,rel_app_match,hlt_overwork_warning,youth_holiday_dilemma,youth_overtime_culture,mid_smoke_break,mid_burnout_slump,mid_rideshare_story,city_drift_tired
+
+=== ③ 金额分布（≥1000 即时支出，检查物价感知一致性） ===
+  -250000 元 × 2: mid_house_down_payment/攒够了全款，一步到位 | fin_shopfront/全款盘下，安安稳稳收
+  -200000 元 × 1: ab_choice/自费去读，一年磨一剑
+  -130000 元 × 1: mid_school_district/咬牙买下学区房
+  -100000 元 × 3: mid_house_down_payment/掏空积蓄，上车大两居 | youth_study_abroad/全额自费，出去读硕士 | late_donation/捐 100,000，
+  -80000 元 × 1: fin_shopfront/贷款盘下，赌未来的现
+  -70000 元 × 1: mid_house_down_payment/买个小户型，少贷点款
+  -60000 元 × 1: mid_hometown_house/出钱翻新，接父母住进
+  -50000 元 × 1: fin_invest_pitch/大手笔投进去，搏一把
+  -40000 元 × 1: youth_study_abroad/申请奖学金，半奖也去
+  -30000 元 × 11: mid_parent_health/花钱请最好的护工 | fin_relative_borrow/借他三万，救急如救火 | rel_propose/办一场体面的婚礼，把 | fam_child_wedding/彩礼嫁妆都备上，风光 …
+  -25000 元 × 3: mid_industry_shift/盘个小店，换种活法 | mid_old_injury/彻底手术，跟旧伤做个 | late_health_debt/做个全面检查，把债一
+  -24000 元 × 2: mid_school_district/在学校附近租房陪读 | late_growing_old_together/请个专业护工，两人轮
+  -20000 元 × 12: late_health_screen/听医生的，住院系统治 | fin_compound_habit/分成三份：应急、稳健 | rel_old_friend_success/入伙，投两万进去 | hlt_body_intensive/听医生的，住院系统调 …
+  -18000 元 × 2: youth_move_out/搬出去，一个人住 | rel_parents_tender_years/请个住家护工，自己常
+  -15000 元 × 10: mid_parent_health/出钱但顾不上多过问 | car_nurse_shifts/辞职，拿积蓄开个社区 | fin_relative_borrow/包个一万五的红包，不 | fin_molar_root_canal/一步到位做种植，省了 …
+  -12000 元 × 10: youth_dorm_conflict/搬出去校外合租 | fin_compound_habit/取一笔出来，带家里人 | fam_child_gaokao/学费生活费一力承担 | hlt_chronic_onset/住一段院，把指标一口 …
+  -10000 元 × 7: youth_first_salary_splurge/给爸妈包个大红包 | fin_invest_pitch/只拿小钱试水，输了就 | youth_friend_startup/只出钱不出力，算我一 | mid_dream_rekindle/辞职，全职去创作 …
+  -9000 元 × 7: youth_night_class/报个培训班，考个有用 | youth_first_salary_splurge/奖励自己惦记了很久的 | edu_adult_upgrade/报个职业资格班，考个 | fam_grandchild/出钱请个月嫂搭把手 …
+  -8000 元 × 12: youth_first_salary_splurge/存进理财，让钱慢慢生 | youth_move_out/和好朋友合租，分摊房 | mid_parent_health/请长假，亲自陪护 | rel_propose/旅行结婚，两个人说走 …
+  -6000 元 × 17: edu_adult_upgrade/在职考研，辞了工作去 | edu_admit_master/辞掉工作，全日制去读 | car_first_paycheck/咬牙买台好电脑，给自 | fin_broken_scooter/咬牙换辆新的 …
+  -5000 元 × 10: youth_friend_loan/二话不说，转了过去 | rel_child_question/要个孩子吧 | hlt_old_body_maintenance/办正规理疗年卡，按疗 | youth_city_or_hometown/先去闯两年，不行就回 …
+  -4800 元 × 1: late_widow_living_alone/装扶手、买呼叫器，把
+  -4000 元 × 9: edu_adult_selfexam/报自考大专，把学历补 | fin_molar_root_canal/正规治疗，一次解决 | hlt_gym_injury/去医院康复科，认真治 | mid_marriage_flat/报个双人班，一起学点 …
+  -3200 元 × 1: late_teeth/咬牙上活动假牙，吃饭
+  -3000 元 × 29: youth_gap_decision/复读一年，再冲一次高 | youth_gym_card/办年卡，并且真的坚持 | youth_gym_card/办年卡，去了三次 | youth_pet_stray/带回家，收养它 …
+  -2800 元 × 1: mid_sandwich/护工照旧，孩子的班减
+  -2500 元 × 8: car_office_recruit/报个面试培训班，把简 | rel_parent_frail/转一笔钱过去，让他们 | fam_child_gaokao/助学贷款加家里贴补生 | hlt_chronic_flare/门诊加药，把嘴管住 …
+  -2400 元 × 1: hlt_chronic_onset/规范用药，按时复查
+  -2200 元 × 2: youth_gym_renew/续上，这一年练出了感 | youth_gym_renew/再给自己一次机会，这
+  -2000 元 × 34: youth_gap_decision/去读大专，早两年进入 | youth_friend_loan/借两千，聊表心意 | late_hobby_club/报名书法班，一笔一划 | car_campus_recruit/先休息一年，想清楚再 …
+  -1600 元 × 1: ins_buy_mid/咬咬牙投了，一年 1
+  -1500 元 × 14: car_first_paycheck/请同事吃饭，把人缘处 | rel_single_fullness/报个夜校，给自己充电 | youth_holiday_dilemma/回家，年只有父母能一 | youth_group_dinner/主动张罗，把局攒起来 …
+  -1200 元 × 9: fin_broken_scooter/换个二手电机凑合用 | rel_single_fullness/把日子过成自己喜欢的 | hlt_desk_years/咬牙换升降桌，每小时 | mid_sandwich/老的先拖一拖，小的不 …
+  -1000 元 × 10: youth_old_friend_wedding/推掉安排，盛装赴宴 | late_reunion/挨个约老友单独喝茶 | youth_night_stall/入伙！摊位费一人一半 | rel_parent_low/寄一箱老家的东西回去 …
+
+=== ④ 错字/标点候选 ===
+  [mid_house_down_payment] 疑似重复字「观望观望」: 再观望观望，钱放理财
+  [late_reunion] 疑似重复字「清静清静」: 婉拒，一个人清静清静
+  [edu_exam_prep] 疑似重复字「一点一点」: 下班的疲惫还没散，{name}把台灯拧亮了一档。桌上摊开的，
+  [edu_exam_prep] 疑似重复字「记越记越」: {name}的周末被课程表填满，笔记越记越厚
+  [fam_child_first_job] 疑似重复字「意思意思」: 塞一张购物卡意思意思
+  [hlt_drink_toast] 疑似重复字「意思意思」: 抿一口意思意思
+  [hlt_chronic_onset] 疑似重复字「一笔一笔」: 社区医院的随访电话打到了家里：血压、血糖，两项都过了线，正式
+  [hlt_chronic_flare] 疑似重复字「一个一个」: 脚上的小口子两个星期不收口，看东西也开始发糊。医生把化验单推
+  [youth_first_project] 疑似重复字「一页一页」: {name}把项目一页一页啃了下来，结项那天的汇报赢得了整间
+  [mid_sandwich] 疑似重复字「没事没事」: 父亲的复查又推了半年，电话里说"没事没事"，{name}挂了
+  [late_retirement_paperwork] 疑似重复字「考虑考虑」: 人事把一张退休申请表放在{name}桌上："这个可以提前办，
+  [late_teeth] 疑似重复字「一颗一颗」: 先补能补的，一颗一颗来
+  [late_teeth] 疑似重复字「凑合凑合」: 再凑合凑合，烂就烂吧
+  [late_solo_birthday] 疑似重复字「笑着笑着」: 电话那头唱了首跑调的生日歌，{name}笑着笑着眼眶就热了
+  [late_care_home_visit] 疑似重复字「一盏一盏」: 话说得硬朗，返程的车上窗外的路灯一盏一盏往后退，谁也没再接话
+  [late_elevator_wait] 疑似重复字「一层一层」: 慢慢下，一层一层扶着
+  [rel_parent_relics] 疑似重复字「一件一件、一件一件」: 老屋要腾出来了。樟木箱里是叠得整整齐齐的旧衣裳，缝纫机的抽屉
+  [frd_care_watch] 疑似重复字「一格一格」: 病房走廊的灯有一半坏了。{name}把陪护椅往后挪了挪，看着
+  [civ_exam_prep] 疑似重复字「一页一页」: {name}从网上扒了十年真题，一页一页啃了下来
+  [civ_office_politics] 疑似重复字「走动走动」: 科长要退了，位置空出来一个。办公室里表面风平浪静，饭桌上的座
+  [civ_office_politics] 疑似重复字「走动走动」: 硬着头皮走动走动
+  [ab_gap] 疑似重复字「一步一步」: {name}把简历上的「海归」二字删了，从力所能及的岗位重新
+  候选 22 条
+
+全池 297 事件扫描完成

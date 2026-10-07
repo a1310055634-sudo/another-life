@@ -1,0 +1,7027 @@
+{
+ "label": "r98c",
+ "capturedAt": "2026-10-04T05:26:40.821Z",
+ "runs": [
+  {
+   "seed": 11,
+   "bg": "ordinary",
+   "trait": "studious",
+   "ending": "debt_shadow",
+   "age": 77,
+   "money": -144117,
+   "achCount": 6,
+   "maxStress": 100,
+   "yearsGE80": 20,
+   "everBurnout": false,
+   "years": [
+    {
+     "age": 19,
+     "stressStart": 25,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 22
+    },
+    {
+     "age": 20,
+     "stressStart": 22,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 25
+    },
+    {
+     "age": 21,
+     "stressStart": 25,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 26
+    },
+    {
+     "age": 22,
+     "stressStart": 26,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 27
+    },
+    {
+     "age": 23,
+     "stressStart": 27,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 28
+    },
+    {
+     "age": 24,
+     "stressStart": 28,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 29
+    },
+    {
+     "age": 25,
+     "stressStart": 29,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 34
+    },
+    {
+     "age": 26,
+     "stressStart": 34,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 35
+    },
+    {
+     "age": 27,
+     "stressStart": 35,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 37
+    },
+    {
+     "age": 28,
+     "stressStart": 37,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 37
+    },
+    {
+     "age": 29,
+     "stressStart": 37,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 37
+    },
+    {
+     "age": 30,
+     "stressStart": 37,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 37
+    },
+    {
+     "age": 31,
+     "stressStart": 37,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 40
+    },
+    {
+     "age": 32,
+     "stressStart": 40,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 43
+    },
+    {
+     "age": 33,
+     "stressStart": 43,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 44
+    },
+    {
+     "age": 34,
+     "stressStart": 44,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 46
+    },
+    {
+     "age": 35,
+     "stressStart": 46,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 46
+    },
+    {
+     "age": 36,
+     "stressStart": 46,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 48
+    },
+    {
+     "age": 37,
+     "stressStart": 48,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 48
+    },
+    {
+     "age": 38,
+     "stressStart": 48,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 51
+    },
+    {
+     "age": 39,
+     "stressStart": 51,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 54
+    },
+    {
+     "age": 40,
+     "stressStart": 54,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 59
+    },
+    {
+     "age": 41,
+     "stressStart": 59,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 60
+    },
+    {
+     "age": 42,
+     "stressStart": 60,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 62
+    },
+    {
+     "age": 43,
+     "stressStart": 62,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 62
+    },
+    {
+     "age": 44,
+     "stressStart": 62,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 65
+    },
+    {
+     "age": 45,
+     "stressStart": 65,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 65
+    },
+    {
+     "age": 46,
+     "stressStart": 65,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 72
+    },
+    {
+     "age": 47,
+     "stressStart": 72,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 81
+    },
+    {
+     "age": 48,
+     "stressStart": 81,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 91
+    },
+    {
+     "age": 49,
+     "stressStart": 91,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 50,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 51,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 52,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 53,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 54,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 55,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 56,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 57,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 58,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 59,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 60,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 61,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 62,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 63,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 64,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 65,
+     "stressStart": 100,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 93
+    },
+    {
+     "age": 66,
+     "stressStart": 93,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 83
+    },
+    {
+     "age": 67,
+     "stressStart": 83,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 76
+    },
+    {
+     "age": 68,
+     "stressStart": 76,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 66
+    },
+    {
+     "age": 69,
+     "stressStart": 66,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 60
+    },
+    {
+     "age": 70,
+     "stressStart": 60,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 54
+    },
+    {
+     "age": 71,
+     "stressStart": 54,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 53
+    },
+    {
+     "age": 72,
+     "stressStart": 53,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 50
+    },
+    {
+     "age": 73,
+     "stressStart": 50,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 48
+    },
+    {
+     "age": 74,
+     "stressStart": 48,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 46
+    },
+    {
+     "age": 75,
+     "stressStart": 46,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 43
+    },
+    {
+     "age": 76,
+     "stressStart": 43,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 41
+    },
+    {
+     "age": 77,
+     "stressStart": 41,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 39
+    }
+   ]
+  },
+  {
+   "seed": 20260917,
+   "bg": "ordinary",
+   "trait": "studious",
+   "ending": "debt_shadow",
+   "age": 77,
+   "money": -120983,
+   "achCount": 7,
+   "maxStress": 100,
+   "yearsGE80": 20,
+   "everBurnout": false,
+   "years": [
+    {
+     "age": 19,
+     "stressStart": 25,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 22
+    },
+    {
+     "age": 20,
+     "stressStart": 22,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 25
+    },
+    {
+     "age": 21,
+     "stressStart": 25,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 26
+    },
+    {
+     "age": 22,
+     "stressStart": 26,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 27
+    },
+    {
+     "age": 23,
+     "stressStart": 27,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 28
+    },
+    {
+     "age": 24,
+     "stressStart": 28,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 29
+    },
+    {
+     "age": 25,
+     "stressStart": 29,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 34
+    },
+    {
+     "age": 26,
+     "stressStart": 34,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 35
+    },
+    {
+     "age": 27,
+     "stressStart": 35,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 37
+    },
+    {
+     "age": 28,
+     "stressStart": 37,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 37
+    },
+    {
+     "age": 29,
+     "stressStart": 37,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 37
+    },
+    {
+     "age": 30,
+     "stressStart": 37,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 37
+    },
+    {
+     "age": 31,
+     "stressStart": 37,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 40
+    },
+    {
+     "age": 32,
+     "stressStart": 40,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 43
+    },
+    {
+     "age": 33,
+     "stressStart": 43,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 44
+    },
+    {
+     "age": 34,
+     "stressStart": 44,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 46
+    },
+    {
+     "age": 35,
+     "stressStart": 46,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 46
+    },
+    {
+     "age": 36,
+     "stressStart": 46,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 48
+    },
+    {
+     "age": 37,
+     "stressStart": 48,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 48
+    },
+    {
+     "age": 38,
+     "stressStart": 48,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 51
+    },
+    {
+     "age": 39,
+     "stressStart": 51,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 54
+    },
+    {
+     "age": 40,
+     "stressStart": 54,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 59
+    },
+    {
+     "age": 41,
+     "stressStart": 59,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 60
+    },
+    {
+     "age": 42,
+     "stressStart": 60,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 62
+    },
+    {
+     "age": 43,
+     "stressStart": 62,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 62
+    },
+    {
+     "age": 44,
+     "stressStart": 62,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 65
+    },
+    {
+     "age": 45,
+     "stressStart": 65,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 65
+    },
+    {
+     "age": 46,
+     "stressStart": 65,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 72
+    },
+    {
+     "age": 47,
+     "stressStart": 72,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 81
+    },
+    {
+     "age": 48,
+     "stressStart": 81,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 91
+    },
+    {
+     "age": 49,
+     "stressStart": 91,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 50,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 51,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 52,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 53,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 54,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 55,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 56,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 57,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 58,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 59,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 99
+    },
+    {
+     "age": 60,
+     "stressStart": 99,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 99
+    },
+    {
+     "age": 61,
+     "stressStart": 99,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 62,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 63,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 64,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 65,
+     "stressStart": 100,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 93
+    },
+    {
+     "age": 66,
+     "stressStart": 93,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 83
+    },
+    {
+     "age": 67,
+     "stressStart": 83,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 78
+    },
+    {
+     "age": 68,
+     "stressStart": 78,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 71
+    },
+    {
+     "age": 69,
+     "stressStart": 71,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 68
+    },
+    {
+     "age": 70,
+     "stressStart": 68,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 63
+    },
+    {
+     "age": 71,
+     "stressStart": 63,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 58
+    },
+    {
+     "age": 72,
+     "stressStart": 58,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 51
+    },
+    {
+     "age": 73,
+     "stressStart": 51,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 49
+    },
+    {
+     "age": 74,
+     "stressStart": 49,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 48
+    },
+    {
+     "age": 75,
+     "stressStart": 48,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 49
+    },
+    {
+     "age": 76,
+     "stressStart": 49,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 47
+    },
+    {
+     "age": 77,
+     "stressStart": 47,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 45
+    }
+   ]
+  },
+  {
+   "seed": 77,
+   "bg": "ordinary",
+   "trait": "studious",
+   "ending": "debt_shadow",
+   "age": 77,
+   "money": -73169,
+   "achCount": 9,
+   "maxStress": 100,
+   "yearsGE80": 20,
+   "everBurnout": false,
+   "years": [
+    {
+     "age": 19,
+     "stressStart": 25,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 22
+    },
+    {
+     "age": 20,
+     "stressStart": 22,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 25
+    },
+    {
+     "age": 21,
+     "stressStart": 25,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 26
+    },
+    {
+     "age": 22,
+     "stressStart": 26,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 27
+    },
+    {
+     "age": 23,
+     "stressStart": 27,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 28
+    },
+    {
+     "age": 24,
+     "stressStart": 28,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 29
+    },
+    {
+     "age": 25,
+     "stressStart": 29,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 34
+    },
+    {
+     "age": 26,
+     "stressStart": 34,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 35
+    },
+    {
+     "age": 27,
+     "stressStart": 35,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 37
+    },
+    {
+     "age": 28,
+     "stressStart": 37,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 37
+    },
+    {
+     "age": 29,
+     "stressStart": 37,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 37
+    },
+    {
+     "age": 30,
+     "stressStart": 37,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 37
+    },
+    {
+     "age": 31,
+     "stressStart": 37,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 40
+    },
+    {
+     "age": 32,
+     "stressStart": 40,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 43
+    },
+    {
+     "age": 33,
+     "stressStart": 43,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 44
+    },
+    {
+     "age": 34,
+     "stressStart": 44,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 46
+    },
+    {
+     "age": 35,
+     "stressStart": 46,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 46
+    },
+    {
+     "age": 36,
+     "stressStart": 46,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 48
+    },
+    {
+     "age": 37,
+     "stressStart": 48,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 48
+    },
+    {
+     "age": 38,
+     "stressStart": 48,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 51
+    },
+    {
+     "age": 39,
+     "stressStart": 51,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 54
+    },
+    {
+     "age": 40,
+     "stressStart": 54,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 59
+    },
+    {
+     "age": 41,
+     "stressStart": 59,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 60
+    },
+    {
+     "age": 42,
+     "stressStart": 60,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 62
+    },
+    {
+     "age": 43,
+     "stressStart": 62,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 62
+    },
+    {
+     "age": 44,
+     "stressStart": 62,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 65
+    },
+    {
+     "age": 45,
+     "stressStart": 65,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 65
+    },
+    {
+     "age": 46,
+     "stressStart": 65,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 72
+    },
+    {
+     "age": 47,
+     "stressStart": 72,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 81
+    },
+    {
+     "age": 48,
+     "stressStart": 81,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 91
+    },
+    {
+     "age": 49,
+     "stressStart": 91,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 50,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 51,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 52,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 53,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 54,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 55,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 56,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 57,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 58,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 59,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 60,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 61,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 62,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 63,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 64,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 65,
+     "stressStart": 100,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 93
+    },
+    {
+     "age": 66,
+     "stressStart": 93,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 83
+    },
+    {
+     "age": 67,
+     "stressStart": 83,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 76
+    },
+    {
+     "age": 68,
+     "stressStart": 76,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 69
+    },
+    {
+     "age": 69,
+     "stressStart": 69,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 62
+    },
+    {
+     "age": 70,
+     "stressStart": 62,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 54
+    },
+    {
+     "age": 71,
+     "stressStart": 54,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 51
+    },
+    {
+     "age": 72,
+     "stressStart": 51,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 46
+    },
+    {
+     "age": 73,
+     "stressStart": 46,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 42
+    },
+    {
+     "age": 74,
+     "stressStart": 42,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 38
+    },
+    {
+     "age": 75,
+     "stressStart": 38,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 35
+    },
+    {
+     "age": 76,
+     "stressStart": 35,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 33
+    },
+    {
+     "age": 77,
+     "stressStart": 33,
+     "careerKind": "retired",
+     "careerStress": -4,
+     "stressEnd": 31
+    }
+   ]
+  },
+  {
+   "seed": 11,
+   "bg": "rural",
+   "trait": "ambitious",
+   "ending": "debt_shadow",
+   "age": 77,
+   "money": -773704,
+   "achCount": 7,
+   "maxStress": 100,
+   "yearsGE80": 33,
+   "everBurnout": false,
+   "years": [
+    {
+     "age": 19,
+     "stressStart": 40,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 37
+    },
+    {
+     "age": 20,
+     "stressStart": 37,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 40
+    },
+    {
+     "age": 21,
+     "stressStart": 40,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 41
+    },
+    {
+     "age": 22,
+     "stressStart": 41,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 43
+    },
+    {
+     "age": 23,
+     "stressStart": 43,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 44
+    },
+    {
+     "age": 24,
+     "stressStart": 44,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 45
+    },
+    {
+     "age": 25,
+     "stressStart": 45,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 48
+    },
+    {
+     "age": 26,
+     "stressStart": 48,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 48
+    },
+    {
+     "age": 27,
+     "stressStart": 48,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 49
+    },
+    {
+     "age": 28,
+     "stressStart": 49,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 52
+    },
+    {
+     "age": 29,
+     "stressStart": 52,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 54
+    },
+    {
+     "age": 30,
+     "stressStart": 54,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 55
+    },
+    {
+     "age": 31,
+     "stressStart": 55,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 60
+    },
+    {
+     "age": 32,
+     "stressStart": 60,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 61
+    },
+    {
+     "age": 33,
+     "stressStart": 61,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 58
+    },
+    {
+     "age": 34,
+     "stressStart": 58,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 59
+    },
+    {
+     "age": 35,
+     "stressStart": 59,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 60
+    },
+    {
+     "age": 36,
+     "stressStart": 60,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 61
+    },
+    {
+     "age": 37,
+     "stressStart": 61,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 60
+    },
+    {
+     "age": 38,
+     "stressStart": 60,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 61
+    },
+    {
+     "age": 39,
+     "stressStart": 61,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 62
+    },
+    {
+     "age": 40,
+     "stressStart": 62,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 66
+    },
+    {
+     "age": 41,
+     "stressStart": 66,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 67
+    },
+    {
+     "age": 42,
+     "stressStart": 67,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 66
+    },
+    {
+     "age": 43,
+     "stressStart": 66,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 70
+    },
+    {
+     "age": 44,
+     "stressStart": 70,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 78
+    },
+    {
+     "age": 45,
+     "stressStart": 78,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 80
+    },
+    {
+     "age": 46,
+     "stressStart": 80,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 84
+    },
+    {
+     "age": 47,
+     "stressStart": 84,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 87
+    },
+    {
+     "age": 48,
+     "stressStart": 87,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 91
+    },
+    {
+     "age": 49,
+     "stressStart": 91,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 95
+    },
+    {
+     "age": 50,
+     "stressStart": 95,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 51,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 52,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 53,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 54,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 55,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 56,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 57,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 58,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 59,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 60,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 61,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 62,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 63,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 64,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 65,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 66,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 67,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 68,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 69,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 95
+    },
+    {
+     "age": 70,
+     "stressStart": 95,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 71,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 72,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 73,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 74,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 95
+    },
+    {
+     "age": 75,
+     "stressStart": 95,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 98
+    },
+    {
+     "age": 76,
+     "stressStart": 98,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 77,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    }
+   ]
+  },
+  {
+   "seed": 20260917,
+   "bg": "rural",
+   "trait": "ambitious",
+   "ending": "debt_shadow",
+   "age": 77,
+   "money": -778469,
+   "achCount": 7,
+   "maxStress": 100,
+   "yearsGE80": 33,
+   "everBurnout": false,
+   "years": [
+    {
+     "age": 19,
+     "stressStart": 40,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 37
+    },
+    {
+     "age": 20,
+     "stressStart": 37,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 40
+    },
+    {
+     "age": 21,
+     "stressStart": 40,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 41
+    },
+    {
+     "age": 22,
+     "stressStart": 41,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 43
+    },
+    {
+     "age": 23,
+     "stressStart": 43,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 44
+    },
+    {
+     "age": 24,
+     "stressStart": 44,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 45
+    },
+    {
+     "age": 25,
+     "stressStart": 45,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 48
+    },
+    {
+     "age": 26,
+     "stressStart": 48,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 48
+    },
+    {
+     "age": 27,
+     "stressStart": 48,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 49
+    },
+    {
+     "age": 28,
+     "stressStart": 49,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 52
+    },
+    {
+     "age": 29,
+     "stressStart": 52,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 54
+    },
+    {
+     "age": 30,
+     "stressStart": 54,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 55
+    },
+    {
+     "age": 31,
+     "stressStart": 55,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 60
+    },
+    {
+     "age": 32,
+     "stressStart": 60,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 61
+    },
+    {
+     "age": 33,
+     "stressStart": 61,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 58
+    },
+    {
+     "age": 34,
+     "stressStart": 58,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 59
+    },
+    {
+     "age": 35,
+     "stressStart": 59,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 60
+    },
+    {
+     "age": 36,
+     "stressStart": 60,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 61
+    },
+    {
+     "age": 37,
+     "stressStart": 61,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 60
+    },
+    {
+     "age": 38,
+     "stressStart": 60,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 61
+    },
+    {
+     "age": 39,
+     "stressStart": 61,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 62
+    },
+    {
+     "age": 40,
+     "stressStart": 62,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 66
+    },
+    {
+     "age": 41,
+     "stressStart": 66,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 67
+    },
+    {
+     "age": 42,
+     "stressStart": 67,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 66
+    },
+    {
+     "age": 43,
+     "stressStart": 66,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 70
+    },
+    {
+     "age": 44,
+     "stressStart": 70,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 78
+    },
+    {
+     "age": 45,
+     "stressStart": 78,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 80
+    },
+    {
+     "age": 46,
+     "stressStart": 80,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 84
+    },
+    {
+     "age": 47,
+     "stressStart": 84,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 87
+    },
+    {
+     "age": 48,
+     "stressStart": 87,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 91
+    },
+    {
+     "age": 49,
+     "stressStart": 91,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 95
+    },
+    {
+     "age": 50,
+     "stressStart": 95,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 51,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 52,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 53,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 54,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 55,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 56,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 57,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 58,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 59,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 60,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 61,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 62,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 63,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 64,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 65,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 66,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 67,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 68,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 69,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 95
+    },
+    {
+     "age": 70,
+     "stressStart": 95,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 71,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 72,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 73,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 74,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 95
+    },
+    {
+     "age": 75,
+     "stressStart": 95,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 98
+    },
+    {
+     "age": 76,
+     "stressStart": 98,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 77,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    }
+   ]
+  },
+  {
+   "seed": 77,
+   "bg": "rural",
+   "trait": "ambitious",
+   "ending": "debt_shadow",
+   "age": 77,
+   "money": -773661,
+   "achCount": 7,
+   "maxStress": 100,
+   "yearsGE80": 33,
+   "everBurnout": false,
+   "years": [
+    {
+     "age": 19,
+     "stressStart": 40,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 37
+    },
+    {
+     "age": 20,
+     "stressStart": 37,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 40
+    },
+    {
+     "age": 21,
+     "stressStart": 40,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 41
+    },
+    {
+     "age": 22,
+     "stressStart": 41,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 43
+    },
+    {
+     "age": 23,
+     "stressStart": 43,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 44
+    },
+    {
+     "age": 24,
+     "stressStart": 44,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 45
+    },
+    {
+     "age": 25,
+     "stressStart": 45,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 48
+    },
+    {
+     "age": 26,
+     "stressStart": 48,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 48
+    },
+    {
+     "age": 27,
+     "stressStart": 48,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 49
+    },
+    {
+     "age": 28,
+     "stressStart": 49,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 52
+    },
+    {
+     "age": 29,
+     "stressStart": 52,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 54
+    },
+    {
+     "age": 30,
+     "stressStart": 54,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 55
+    },
+    {
+     "age": 31,
+     "stressStart": 55,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 60
+    },
+    {
+     "age": 32,
+     "stressStart": 60,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 61
+    },
+    {
+     "age": 33,
+     "stressStart": 61,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 58
+    },
+    {
+     "age": 34,
+     "stressStart": 58,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 59
+    },
+    {
+     "age": 35,
+     "stressStart": 59,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 60
+    },
+    {
+     "age": 36,
+     "stressStart": 60,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 61
+    },
+    {
+     "age": 37,
+     "stressStart": 61,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 60
+    },
+    {
+     "age": 38,
+     "stressStart": 60,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 61
+    },
+    {
+     "age": 39,
+     "stressStart": 61,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 62
+    },
+    {
+     "age": 40,
+     "stressStart": 62,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 66
+    },
+    {
+     "age": 41,
+     "stressStart": 66,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 67
+    },
+    {
+     "age": 42,
+     "stressStart": 67,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 66
+    },
+    {
+     "age": 43,
+     "stressStart": 66,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 70
+    },
+    {
+     "age": 44,
+     "stressStart": 70,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 78
+    },
+    {
+     "age": 45,
+     "stressStart": 78,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 80
+    },
+    {
+     "age": 46,
+     "stressStart": 80,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 84
+    },
+    {
+     "age": 47,
+     "stressStart": 84,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 87
+    },
+    {
+     "age": 48,
+     "stressStart": 87,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 91
+    },
+    {
+     "age": 49,
+     "stressStart": 91,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 95
+    },
+    {
+     "age": 50,
+     "stressStart": 95,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 51,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 52,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 53,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 54,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 55,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 56,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 57,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 58,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 59,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 60,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 61,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 62,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 63,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 64,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 65,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 66,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 67,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 68,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 69,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 95
+    },
+    {
+     "age": 70,
+     "stressStart": 95,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 71,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 72,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 73,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 74,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 95
+    },
+    {
+     "age": 75,
+     "stressStart": 95,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 98
+    },
+    {
+     "age": 76,
+     "stressStart": 98,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    },
+    {
+     "age": 77,
+     "stressStart": 100,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 100
+    }
+   ]
+  },
+  {
+   "seed": 11,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "ending": "quiet_life",
+   "age": 77,
+   "money": 347528,
+   "achCount": 8,
+   "maxStress": 69,
+   "yearsGE80": 0,
+   "everBurnout": false,
+   "years": [
+    {
+     "age": 19,
+     "stressStart": 15,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 12
+    },
+    {
+     "age": 20,
+     "stressStart": 12,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 15
+    },
+    {
+     "age": 21,
+     "stressStart": 15,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 16
+    },
+    {
+     "age": 22,
+     "stressStart": 16,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 17
+    },
+    {
+     "age": 23,
+     "stressStart": 17,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 18
+    },
+    {
+     "age": 24,
+     "stressStart": 18,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 21
+    },
+    {
+     "age": 25,
+     "stressStart": 21,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 24
+    },
+    {
+     "age": 26,
+     "stressStart": 24,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 25
+    },
+    {
+     "age": 27,
+     "stressStart": 25,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 24
+    },
+    {
+     "age": 28,
+     "stressStart": 24,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 25
+    },
+    {
+     "age": 29,
+     "stressStart": 25,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 25
+    },
+    {
+     "age": 30,
+     "stressStart": 25,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 28
+    },
+    {
+     "age": 31,
+     "stressStart": 28,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 29
+    },
+    {
+     "age": 32,
+     "stressStart": 29,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 32
+    },
+    {
+     "age": 33,
+     "stressStart": 32,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 33
+    },
+    {
+     "age": 34,
+     "stressStart": 33,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 31
+    },
+    {
+     "age": 35,
+     "stressStart": 31,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 30
+    },
+    {
+     "age": 36,
+     "stressStart": 30,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 31
+    },
+    {
+     "age": 37,
+     "stressStart": 31,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 32
+    },
+    {
+     "age": 38,
+     "stressStart": 32,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 31
+    },
+    {
+     "age": 39,
+     "stressStart": 31,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 35
+    },
+    {
+     "age": 40,
+     "stressStart": 35,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 35
+    },
+    {
+     "age": 41,
+     "stressStart": 35,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 37
+    },
+    {
+     "age": 42,
+     "stressStart": 37,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 38
+    },
+    {
+     "age": 43,
+     "stressStart": 38,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 39
+    },
+    {
+     "age": 44,
+     "stressStart": 39,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 39
+    },
+    {
+     "age": 45,
+     "stressStart": 39,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 44
+    },
+    {
+     "age": 46,
+     "stressStart": 44,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 49
+    },
+    {
+     "age": 47,
+     "stressStart": 49,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 52
+    },
+    {
+     "age": 48,
+     "stressStart": 52,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 54
+    },
+    {
+     "age": 49,
+     "stressStart": 54,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 56
+    },
+    {
+     "age": 50,
+     "stressStart": 56,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 57
+    },
+    {
+     "age": 51,
+     "stressStart": 57,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 60
+    },
+    {
+     "age": 52,
+     "stressStart": 60,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 59
+    },
+    {
+     "age": 53,
+     "stressStart": 59,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 60
+    },
+    {
+     "age": 54,
+     "stressStart": 60,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 58
+    },
+    {
+     "age": 55,
+     "stressStart": 58,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 62
+    },
+    {
+     "age": 56,
+     "stressStart": 62,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 63
+    },
+    {
+     "age": 57,
+     "stressStart": 63,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 62
+    },
+    {
+     "age": 58,
+     "stressStart": 62,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 66
+    },
+    {
+     "age": 59,
+     "stressStart": 66,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 66
+    },
+    {
+     "age": 60,
+     "stressStart": 66,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 63
+    },
+    {
+     "age": 61,
+     "stressStart": 63,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 65
+    },
+    {
+     "age": 62,
+     "stressStart": 65,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 65
+    },
+    {
+     "age": 63,
+     "stressStart": 65,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 66
+    },
+    {
+     "age": 64,
+     "stressStart": 66,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 68
+    },
+    {
+     "age": 65,
+     "stressStart": 68,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 68
+    },
+    {
+     "age": 66,
+     "stressStart": 68,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 65
+    },
+    {
+     "age": 67,
+     "stressStart": 65,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 65
+    },
+    {
+     "age": 68,
+     "stressStart": 65,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 65
+    },
+    {
+     "age": 69,
+     "stressStart": 65,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 66
+    },
+    {
+     "age": 70,
+     "stressStart": 66,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 66
+    },
+    {
+     "age": 71,
+     "stressStart": 66,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 66
+    },
+    {
+     "age": 72,
+     "stressStart": 66,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 67
+    },
+    {
+     "age": 73,
+     "stressStart": 67,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 69
+    },
+    {
+     "age": 74,
+     "stressStart": 69,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 69
+    },
+    {
+     "age": 75,
+     "stressStart": 69,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 67
+    },
+    {
+     "age": 76,
+     "stressStart": 67,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 66
+    },
+    {
+     "age": 77,
+     "stressStart": 66,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 66
+    }
+   ]
+  },
+  {
+   "seed": 20260917,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "ending": "gray_dusk",
+   "age": 77,
+   "money": 376897,
+   "achCount": 7,
+   "maxStress": 73,
+   "yearsGE80": 0,
+   "everBurnout": false,
+   "years": [
+    {
+     "age": 19,
+     "stressStart": 15,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 12
+    },
+    {
+     "age": 20,
+     "stressStart": 12,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 15
+    },
+    {
+     "age": 21,
+     "stressStart": 15,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 16
+    },
+    {
+     "age": 22,
+     "stressStart": 16,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 17
+    },
+    {
+     "age": 23,
+     "stressStart": 17,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 18
+    },
+    {
+     "age": 24,
+     "stressStart": 18,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 21
+    },
+    {
+     "age": 25,
+     "stressStart": 21,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 24
+    },
+    {
+     "age": 26,
+     "stressStart": 24,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 25
+    },
+    {
+     "age": 27,
+     "stressStart": 25,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 24
+    },
+    {
+     "age": 28,
+     "stressStart": 24,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 25
+    },
+    {
+     "age": 29,
+     "stressStart": 25,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 25
+    },
+    {
+     "age": 30,
+     "stressStart": 25,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 28
+    },
+    {
+     "age": 31,
+     "stressStart": 28,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 29
+    },
+    {
+     "age": 32,
+     "stressStart": 29,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 32
+    },
+    {
+     "age": 33,
+     "stressStart": 32,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 33
+    },
+    {
+     "age": 34,
+     "stressStart": 33,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 31
+    },
+    {
+     "age": 35,
+     "stressStart": 31,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 30
+    },
+    {
+     "age": 36,
+     "stressStart": 30,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 31
+    },
+    {
+     "age": 37,
+     "stressStart": 31,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 32
+    },
+    {
+     "age": 38,
+     "stressStart": 32,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 31
+    },
+    {
+     "age": 39,
+     "stressStart": 31,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 35
+    },
+    {
+     "age": 40,
+     "stressStart": 35,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 35
+    },
+    {
+     "age": 41,
+     "stressStart": 35,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 37
+    },
+    {
+     "age": 42,
+     "stressStart": 37,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 38
+    },
+    {
+     "age": 43,
+     "stressStart": 38,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 39
+    },
+    {
+     "age": 44,
+     "stressStart": 39,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 39
+    },
+    {
+     "age": 45,
+     "stressStart": 39,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 44
+    },
+    {
+     "age": 46,
+     "stressStart": 44,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 49
+    },
+    {
+     "age": 47,
+     "stressStart": 49,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 52
+    },
+    {
+     "age": 48,
+     "stressStart": 52,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 55
+    },
+    {
+     "age": 49,
+     "stressStart": 55,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 57
+    },
+    {
+     "age": 50,
+     "stressStart": 57,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 58
+    },
+    {
+     "age": 51,
+     "stressStart": 58,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 61
+    },
+    {
+     "age": 52,
+     "stressStart": 61,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 63
+    },
+    {
+     "age": 53,
+     "stressStart": 63,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 64
+    },
+    {
+     "age": 54,
+     "stressStart": 64,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 62
+    },
+    {
+     "age": 55,
+     "stressStart": 62,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 66
+    },
+    {
+     "age": 56,
+     "stressStart": 66,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 67
+    },
+    {
+     "age": 57,
+     "stressStart": 67,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 66
+    },
+    {
+     "age": 58,
+     "stressStart": 66,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 70
+    },
+    {
+     "age": 59,
+     "stressStart": 70,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 70
+    },
+    {
+     "age": 60,
+     "stressStart": 70,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 67
+    },
+    {
+     "age": 61,
+     "stressStart": 67,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 69
+    },
+    {
+     "age": 62,
+     "stressStart": 69,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 69
+    },
+    {
+     "age": 63,
+     "stressStart": 69,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 70
+    },
+    {
+     "age": 64,
+     "stressStart": 70,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 72
+    },
+    {
+     "age": 65,
+     "stressStart": 72,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 72
+    },
+    {
+     "age": 66,
+     "stressStart": 72,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 69
+    },
+    {
+     "age": 67,
+     "stressStart": 69,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 69
+    },
+    {
+     "age": 68,
+     "stressStart": 69,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 69
+    },
+    {
+     "age": 69,
+     "stressStart": 69,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 70
+    },
+    {
+     "age": 70,
+     "stressStart": 70,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 70
+    },
+    {
+     "age": 71,
+     "stressStart": 70,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 70
+    },
+    {
+     "age": 72,
+     "stressStart": 70,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 71
+    },
+    {
+     "age": 73,
+     "stressStart": 71,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 73
+    },
+    {
+     "age": 74,
+     "stressStart": 73,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 73
+    },
+    {
+     "age": 75,
+     "stressStart": 73,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 71
+    },
+    {
+     "age": 76,
+     "stressStart": 71,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 70
+    },
+    {
+     "age": 77,
+     "stressStart": 70,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 70
+    }
+   ]
+  },
+  {
+   "seed": 77,
+   "bg": "wealthy",
+   "trait": "sociable",
+   "ending": "quiet_life",
+   "age": 77,
+   "money": 369861,
+   "achCount": 7,
+   "maxStress": 67,
+   "yearsGE80": 0,
+   "everBurnout": false,
+   "years": [
+    {
+     "age": 19,
+     "stressStart": 15,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 12
+    },
+    {
+     "age": 20,
+     "stressStart": 12,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 15
+    },
+    {
+     "age": 21,
+     "stressStart": 15,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 16
+    },
+    {
+     "age": 22,
+     "stressStart": 16,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 17
+    },
+    {
+     "age": 23,
+     "stressStart": 17,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 18
+    },
+    {
+     "age": 24,
+     "stressStart": 18,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 21
+    },
+    {
+     "age": 25,
+     "stressStart": 21,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 24
+    },
+    {
+     "age": 26,
+     "stressStart": 24,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 25
+    },
+    {
+     "age": 27,
+     "stressStart": 25,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 24
+    },
+    {
+     "age": 28,
+     "stressStart": 24,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 25
+    },
+    {
+     "age": 29,
+     "stressStart": 25,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 25
+    },
+    {
+     "age": 30,
+     "stressStart": 25,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 28
+    },
+    {
+     "age": 31,
+     "stressStart": 28,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 29
+    },
+    {
+     "age": 32,
+     "stressStart": 29,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 32
+    },
+    {
+     "age": 33,
+     "stressStart": 32,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 33
+    },
+    {
+     "age": 34,
+     "stressStart": 33,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 31
+    },
+    {
+     "age": 35,
+     "stressStart": 31,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 30
+    },
+    {
+     "age": 36,
+     "stressStart": 30,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 31
+    },
+    {
+     "age": 37,
+     "stressStart": 31,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 32
+    },
+    {
+     "age": 38,
+     "stressStart": 32,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 31
+    },
+    {
+     "age": 39,
+     "stressStart": 31,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 35
+    },
+    {
+     "age": 40,
+     "stressStart": 35,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 35
+    },
+    {
+     "age": 41,
+     "stressStart": 35,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 37
+    },
+    {
+     "age": 42,
+     "stressStart": 37,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 38
+    },
+    {
+     "age": 43,
+     "stressStart": 38,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 39
+    },
+    {
+     "age": 44,
+     "stressStart": 39,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 39
+    },
+    {
+     "age": 45,
+     "stressStart": 39,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 44
+    },
+    {
+     "age": 46,
+     "stressStart": 44,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 49
+    },
+    {
+     "age": 47,
+     "stressStart": 49,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 52
+    },
+    {
+     "age": 48,
+     "stressStart": 52,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 55
+    },
+    {
+     "age": 49,
+     "stressStart": 55,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 57
+    },
+    {
+     "age": 50,
+     "stressStart": 57,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 58
+    },
+    {
+     "age": 51,
+     "stressStart": 58,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 61
+    },
+    {
+     "age": 52,
+     "stressStart": 61,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 63
+    },
+    {
+     "age": 53,
+     "stressStart": 63,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 64
+    },
+    {
+     "age": 54,
+     "stressStart": 64,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 62
+    },
+    {
+     "age": 55,
+     "stressStart": 62,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 66
+    },
+    {
+     "age": 56,
+     "stressStart": 66,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 67
+    },
+    {
+     "age": 57,
+     "stressStart": 67,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 66
+    },
+    {
+     "age": 58,
+     "stressStart": 66,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 64
+    },
+    {
+     "age": 59,
+     "stressStart": 64,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 64
+    },
+    {
+     "age": 60,
+     "stressStart": 64,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 64
+    },
+    {
+     "age": 61,
+     "stressStart": 64,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 64
+    },
+    {
+     "age": 62,
+     "stressStart": 64,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 64
+    },
+    {
+     "age": 63,
+     "stressStart": 64,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 65
+    },
+    {
+     "age": 64,
+     "stressStart": 65,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 63
+    },
+    {
+     "age": 65,
+     "stressStart": 63,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 63
+    },
+    {
+     "age": 66,
+     "stressStart": 63,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 60
+    },
+    {
+     "age": 67,
+     "stressStart": 60,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 62
+    },
+    {
+     "age": 68,
+     "stressStart": 62,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 62
+    },
+    {
+     "age": 69,
+     "stressStart": 62,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 62
+    },
+    {
+     "age": 70,
+     "stressStart": 62,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 62
+    },
+    {
+     "age": 71,
+     "stressStart": 62,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 62
+    },
+    {
+     "age": 72,
+     "stressStart": 62,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 63
+    },
+    {
+     "age": 73,
+     "stressStart": 63,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 65
+    },
+    {
+     "age": 74,
+     "stressStart": 65,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 65
+    },
+    {
+     "age": 75,
+     "stressStart": 65,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 63
+    },
+    {
+     "age": 76,
+     "stressStart": 63,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 62
+    },
+    {
+     "age": 77,
+     "stressStart": 62,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 62
+    }
+   ]
+  },
+  {
+   "seed": 11,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "ending": "gray_dusk",
+   "age": 77,
+   "money": 98638,
+   "achCount": 9,
+   "maxStress": 86,
+   "yearsGE80": 14,
+   "everBurnout": false,
+   "years": [
+    {
+     "age": 19,
+     "stressStart": 22,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 19
+    },
+    {
+     "age": 20,
+     "stressStart": 19,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 22
+    },
+    {
+     "age": 21,
+     "stressStart": 22,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 23
+    },
+    {
+     "age": 22,
+     "stressStart": 23,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 26
+    },
+    {
+     "age": 23,
+     "stressStart": 26,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 27
+    },
+    {
+     "age": 24,
+     "stressStart": 27,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 28
+    },
+    {
+     "age": 25,
+     "stressStart": 28,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 33
+    },
+    {
+     "age": 26,
+     "stressStart": 33,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 33
+    },
+    {
+     "age": 27,
+     "stressStart": 33,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 33
+    },
+    {
+     "age": 28,
+     "stressStart": 33,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 36
+    },
+    {
+     "age": 29,
+     "stressStart": 36,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 38
+    },
+    {
+     "age": 30,
+     "stressStart": 38,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 39
+    },
+    {
+     "age": 31,
+     "stressStart": 39,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 43
+    },
+    {
+     "age": 32,
+     "stressStart": 43,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 42
+    },
+    {
+     "age": 33,
+     "stressStart": 42,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 43
+    },
+    {
+     "age": 34,
+     "stressStart": 43,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 47
+    },
+    {
+     "age": 35,
+     "stressStart": 47,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 48
+    },
+    {
+     "age": 36,
+     "stressStart": 48,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 50
+    },
+    {
+     "age": 37,
+     "stressStart": 50,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 54
+    },
+    {
+     "age": 38,
+     "stressStart": 54,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 56
+    },
+    {
+     "age": 39,
+     "stressStart": 56,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 60
+    },
+    {
+     "age": 40,
+     "stressStart": 60,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 59
+    },
+    {
+     "age": 41,
+     "stressStart": 59,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 60
+    },
+    {
+     "age": 42,
+     "stressStart": 60,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 61
+    },
+    {
+     "age": 43,
+     "stressStart": 61,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 63
+    },
+    {
+     "age": 44,
+     "stressStart": 63,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 65
+    },
+    {
+     "age": 45,
+     "stressStart": 65,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 68
+    },
+    {
+     "age": 46,
+     "stressStart": 68,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 67
+    },
+    {
+     "age": 47,
+     "stressStart": 67,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 67
+    },
+    {
+     "age": 48,
+     "stressStart": 67,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 69
+    },
+    {
+     "age": 49,
+     "stressStart": 69,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 69
+    },
+    {
+     "age": 50,
+     "stressStart": 69,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 70
+    },
+    {
+     "age": 51,
+     "stressStart": 70,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 69
+    },
+    {
+     "age": 52,
+     "stressStart": 69,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 69
+    },
+    {
+     "age": 53,
+     "stressStart": 69,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 70
+    },
+    {
+     "age": 54,
+     "stressStart": 70,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 68
+    },
+    {
+     "age": 55,
+     "stressStart": 68,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 72
+    },
+    {
+     "age": 56,
+     "stressStart": 72,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 70
+    },
+    {
+     "age": 57,
+     "stressStart": 70,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 71
+    },
+    {
+     "age": 58,
+     "stressStart": 71,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 73
+    },
+    {
+     "age": 59,
+     "stressStart": 73,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 74
+    },
+    {
+     "age": 60,
+     "stressStart": 74,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 76
+    },
+    {
+     "age": 61,
+     "stressStart": 76,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 77
+    },
+    {
+     "age": 62,
+     "stressStart": 77,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 78
+    },
+    {
+     "age": 63,
+     "stressStart": 78,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 79
+    },
+    {
+     "age": 64,
+     "stressStart": 79,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 85
+    },
+    {
+     "age": 65,
+     "stressStart": 85,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 86
+    },
+    {
+     "age": 66,
+     "stressStart": 86,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 85
+    },
+    {
+     "age": 67,
+     "stressStart": 85,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 84
+    },
+    {
+     "age": 68,
+     "stressStart": 84,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 84
+    },
+    {
+     "age": 69,
+     "stressStart": 84,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 84
+    },
+    {
+     "age": 70,
+     "stressStart": 84,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 84
+    },
+    {
+     "age": 71,
+     "stressStart": 84,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 84
+    },
+    {
+     "age": 72,
+     "stressStart": 84,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 83
+    },
+    {
+     "age": 73,
+     "stressStart": 83,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 82
+    },
+    {
+     "age": 74,
+     "stressStart": 82,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 82
+    },
+    {
+     "age": 75,
+     "stressStart": 82,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 83
+    },
+    {
+     "age": 76,
+     "stressStart": 83,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 85
+    },
+    {
+     "age": 77,
+     "stressStart": 85,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 85
+    }
+   ]
+  },
+  {
+   "seed": 20260917,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "ending": "gray_dusk",
+   "age": 77,
+   "money": 92095,
+   "achCount": 9,
+   "maxStress": 91,
+   "yearsGE80": 15,
+   "everBurnout": false,
+   "years": [
+    {
+     "age": 19,
+     "stressStart": 22,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 19
+    },
+    {
+     "age": 20,
+     "stressStart": 19,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 22
+    },
+    {
+     "age": 21,
+     "stressStart": 22,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 23
+    },
+    {
+     "age": 22,
+     "stressStart": 23,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 26
+    },
+    {
+     "age": 23,
+     "stressStart": 26,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 27
+    },
+    {
+     "age": 24,
+     "stressStart": 27,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 28
+    },
+    {
+     "age": 25,
+     "stressStart": 28,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 33
+    },
+    {
+     "age": 26,
+     "stressStart": 33,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 33
+    },
+    {
+     "age": 27,
+     "stressStart": 33,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 33
+    },
+    {
+     "age": 28,
+     "stressStart": 33,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 36
+    },
+    {
+     "age": 29,
+     "stressStart": 36,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 38
+    },
+    {
+     "age": 30,
+     "stressStart": 38,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 39
+    },
+    {
+     "age": 31,
+     "stressStart": 39,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 43
+    },
+    {
+     "age": 32,
+     "stressStart": 43,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 42
+    },
+    {
+     "age": 33,
+     "stressStart": 42,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 43
+    },
+    {
+     "age": 34,
+     "stressStart": 43,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 47
+    },
+    {
+     "age": 35,
+     "stressStart": 47,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 48
+    },
+    {
+     "age": 36,
+     "stressStart": 48,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 50
+    },
+    {
+     "age": 37,
+     "stressStart": 50,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 54
+    },
+    {
+     "age": 38,
+     "stressStart": 54,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 56
+    },
+    {
+     "age": 39,
+     "stressStart": 56,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 60
+    },
+    {
+     "age": 40,
+     "stressStart": 60,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 59
+    },
+    {
+     "age": 41,
+     "stressStart": 59,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 60
+    },
+    {
+     "age": 42,
+     "stressStart": 60,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 61
+    },
+    {
+     "age": 43,
+     "stressStart": 61,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 63
+    },
+    {
+     "age": 44,
+     "stressStart": 63,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 65
+    },
+    {
+     "age": 45,
+     "stressStart": 65,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 68
+    },
+    {
+     "age": 46,
+     "stressStart": 68,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 67
+    },
+    {
+     "age": 47,
+     "stressStart": 67,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 67
+    },
+    {
+     "age": 48,
+     "stressStart": 67,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 69
+    },
+    {
+     "age": 49,
+     "stressStart": 69,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 69
+    },
+    {
+     "age": 50,
+     "stressStart": 69,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 70
+    },
+    {
+     "age": 51,
+     "stressStart": 70,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 69
+    },
+    {
+     "age": 52,
+     "stressStart": 69,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 69
+    },
+    {
+     "age": 53,
+     "stressStart": 69,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 70
+    },
+    {
+     "age": 54,
+     "stressStart": 70,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 68
+    },
+    {
+     "age": 55,
+     "stressStart": 68,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 73
+    },
+    {
+     "age": 56,
+     "stressStart": 73,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 71
+    },
+    {
+     "age": 57,
+     "stressStart": 71,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 72
+    },
+    {
+     "age": 58,
+     "stressStart": 72,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 74
+    },
+    {
+     "age": 59,
+     "stressStart": 74,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 75
+    },
+    {
+     "age": 60,
+     "stressStart": 75,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 77
+    },
+    {
+     "age": 61,
+     "stressStart": 77,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 78
+    },
+    {
+     "age": 62,
+     "stressStart": 78,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 79
+    },
+    {
+     "age": 63,
+     "stressStart": 79,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 80
+    },
+    {
+     "age": 64,
+     "stressStart": 80,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 86
+    },
+    {
+     "age": 65,
+     "stressStart": 86,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 83
+    },
+    {
+     "age": 66,
+     "stressStart": 83,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 81
+    },
+    {
+     "age": 67,
+     "stressStart": 81,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 84
+    },
+    {
+     "age": 68,
+     "stressStart": 84,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 85
+    },
+    {
+     "age": 69,
+     "stressStart": 85,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 85
+    },
+    {
+     "age": 70,
+     "stressStart": 85,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 86
+    },
+    {
+     "age": 71,
+     "stressStart": 86,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 87
+    },
+    {
+     "age": 72,
+     "stressStart": 87,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 87
+    },
+    {
+     "age": 73,
+     "stressStart": 87,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 90
+    },
+    {
+     "age": 74,
+     "stressStart": 90,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 91
+    },
+    {
+     "age": 75,
+     "stressStart": 91,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 90
+    },
+    {
+     "age": 76,
+     "stressStart": 90,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 89
+    },
+    {
+     "age": 77,
+     "stressStart": 89,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 89
+    }
+   ]
+  },
+  {
+   "seed": 77,
+   "bg": "ordinary",
+   "trait": "frugal",
+   "ending": "gray_dusk",
+   "age": 77,
+   "money": 50040,
+   "achCount": 9,
+   "maxStress": 83,
+   "yearsGE80": 7,
+   "everBurnout": false,
+   "years": [
+    {
+     "age": 19,
+     "stressStart": 22,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 19
+    },
+    {
+     "age": 20,
+     "stressStart": 19,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 22
+    },
+    {
+     "age": 21,
+     "stressStart": 22,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 23
+    },
+    {
+     "age": 22,
+     "stressStart": 23,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 26
+    },
+    {
+     "age": 23,
+     "stressStart": 26,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 27
+    },
+    {
+     "age": 24,
+     "stressStart": 27,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 28
+    },
+    {
+     "age": 25,
+     "stressStart": 28,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 33
+    },
+    {
+     "age": 26,
+     "stressStart": 33,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 33
+    },
+    {
+     "age": 27,
+     "stressStart": 33,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 33
+    },
+    {
+     "age": 28,
+     "stressStart": 33,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 36
+    },
+    {
+     "age": 29,
+     "stressStart": 36,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 38
+    },
+    {
+     "age": 30,
+     "stressStart": 38,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 39
+    },
+    {
+     "age": 31,
+     "stressStart": 39,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 43
+    },
+    {
+     "age": 32,
+     "stressStart": 43,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 42
+    },
+    {
+     "age": 33,
+     "stressStart": 42,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 43
+    },
+    {
+     "age": 34,
+     "stressStart": 43,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 47
+    },
+    {
+     "age": 35,
+     "stressStart": 47,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 48
+    },
+    {
+     "age": 36,
+     "stressStart": 48,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 50
+    },
+    {
+     "age": 37,
+     "stressStart": 50,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 54
+    },
+    {
+     "age": 38,
+     "stressStart": 54,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 56
+    },
+    {
+     "age": 39,
+     "stressStart": 56,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 60
+    },
+    {
+     "age": 40,
+     "stressStart": 60,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 59
+    },
+    {
+     "age": 41,
+     "stressStart": 59,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 60
+    },
+    {
+     "age": 42,
+     "stressStart": 60,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 61
+    },
+    {
+     "age": 43,
+     "stressStart": 61,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 63
+    },
+    {
+     "age": 44,
+     "stressStart": 63,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 65
+    },
+    {
+     "age": 45,
+     "stressStart": 65,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 68
+    },
+    {
+     "age": 46,
+     "stressStart": 68,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 67
+    },
+    {
+     "age": 47,
+     "stressStart": 67,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 67
+    },
+    {
+     "age": 48,
+     "stressStart": 67,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 69
+    },
+    {
+     "age": 49,
+     "stressStart": 69,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 69
+    },
+    {
+     "age": 50,
+     "stressStart": 69,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 70
+    },
+    {
+     "age": 51,
+     "stressStart": 70,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 69
+    },
+    {
+     "age": 52,
+     "stressStart": 69,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 69
+    },
+    {
+     "age": 53,
+     "stressStart": 69,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 70
+    },
+    {
+     "age": 54,
+     "stressStart": 70,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 68
+    },
+    {
+     "age": 55,
+     "stressStart": 68,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 72
+    },
+    {
+     "age": 56,
+     "stressStart": 72,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 73
+    },
+    {
+     "age": 57,
+     "stressStart": 73,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 77
+    },
+    {
+     "age": 58,
+     "stressStart": 77,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 78
+    },
+    {
+     "age": 59,
+     "stressStart": 78,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 79
+    },
+    {
+     "age": 60,
+     "stressStart": 79,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 81
+    },
+    {
+     "age": 61,
+     "stressStart": 81,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 82
+    },
+    {
+     "age": 62,
+     "stressStart": 82,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 83
+    },
+    {
+     "age": 63,
+     "stressStart": 83,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 82
+    },
+    {
+     "age": 64,
+     "stressStart": 82,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 83
+    },
+    {
+     "age": 65,
+     "stressStart": 83,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 83
+    },
+    {
+     "age": 66,
+     "stressStart": 83,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 80
+    },
+    {
+     "age": 67,
+     "stressStart": 80,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 79
+    },
+    {
+     "age": 68,
+     "stressStart": 79,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 79
+    },
+    {
+     "age": 69,
+     "stressStart": 79,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 79
+    },
+    {
+     "age": 70,
+     "stressStart": 79,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 77
+    },
+    {
+     "age": 71,
+     "stressStart": 77,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 76
+    },
+    {
+     "age": 72,
+     "stressStart": 76,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 75
+    },
+    {
+     "age": 73,
+     "stressStart": 75,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 78
+    },
+    {
+     "age": 74,
+     "stressStart": 78,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 78
+    },
+    {
+     "age": 75,
+     "stressStart": 78,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 77
+    },
+    {
+     "age": 76,
+     "stressStart": 77,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 76
+    },
+    {
+     "age": 77,
+     "stressStart": 76,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 76
+    }
+   ]
+  },
+  {
+   "seed": 11,
+   "bg": "single_parent",
+   "trait": "studious",
+   "ending": "death_ill",
+   "age": 44,
+   "money": 225377,
+   "achCount": 4,
+   "maxStress": 100,
+   "yearsGE80": 14,
+   "everBurnout": false,
+   "years": [
+    {
+     "age": 19,
+     "stressStart": 40,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 37
+    },
+    {
+     "age": 20,
+     "stressStart": 37,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 40
+    },
+    {
+     "age": 21,
+     "stressStart": 40,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 41
+    },
+    {
+     "age": 22,
+     "stressStart": 41,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 43
+    },
+    {
+     "age": 23,
+     "stressStart": 43,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 44
+    },
+    {
+     "age": 24,
+     "stressStart": 44,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 45
+    },
+    {
+     "age": 25,
+     "stressStart": 45,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 51
+    },
+    {
+     "age": 26,
+     "stressStart": 51,
+     "careerKind": "unemployed",
+     "careerStress": 4,
+     "stressEnd": 52
+    },
+    {
+     "age": 27,
+     "stressStart": 52,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 58
+    },
+    {
+     "age": 28,
+     "stressStart": 58,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 66
+    },
+    {
+     "age": 29,
+     "stressStart": 66,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 70
+    },
+    {
+     "age": 30,
+     "stressStart": 70,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 76
+    },
+    {
+     "age": 31,
+     "stressStart": 76,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 80
+    },
+    {
+     "age": 32,
+     "stressStart": 80,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 87
+    },
+    {
+     "age": 33,
+     "stressStart": 87,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 91
+    },
+    {
+     "age": 34,
+     "stressStart": 91,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 90
+    },
+    {
+     "age": 35,
+     "stressStart": 90,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 94
+    },
+    {
+     "age": 36,
+     "stressStart": 94,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 98
+    },
+    {
+     "age": 37,
+     "stressStart": 98,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 99
+    },
+    {
+     "age": 38,
+     "stressStart": 99,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 39,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 40,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 41,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 42,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 43,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 44,
+     "stressStart": 100,
+     "careerKind": "unemployed",
+     "careerStress": 4,
+     "stressEnd": 100
+    }
+   ]
+  },
+  {
+   "seed": 20260917,
+   "bg": "single_parent",
+   "trait": "studious",
+   "ending": "death_ill",
+   "age": 48,
+   "money": 161820,
+   "achCount": 4,
+   "maxStress": 100,
+   "yearsGE80": 18,
+   "everBurnout": false,
+   "years": [
+    {
+     "age": 19,
+     "stressStart": 40,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 37
+    },
+    {
+     "age": 20,
+     "stressStart": 37,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 40
+    },
+    {
+     "age": 21,
+     "stressStart": 40,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 41
+    },
+    {
+     "age": 22,
+     "stressStart": 41,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 43
+    },
+    {
+     "age": 23,
+     "stressStart": 43,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 44
+    },
+    {
+     "age": 24,
+     "stressStart": 44,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 45
+    },
+    {
+     "age": 25,
+     "stressStart": 45,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 51
+    },
+    {
+     "age": 26,
+     "stressStart": 51,
+     "careerKind": "unemployed",
+     "careerStress": 4,
+     "stressEnd": 52
+    },
+    {
+     "age": 27,
+     "stressStart": 52,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 58
+    },
+    {
+     "age": 28,
+     "stressStart": 58,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 66
+    },
+    {
+     "age": 29,
+     "stressStart": 66,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 70
+    },
+    {
+     "age": 30,
+     "stressStart": 70,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 76
+    },
+    {
+     "age": 31,
+     "stressStart": 76,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 80
+    },
+    {
+     "age": 32,
+     "stressStart": 80,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 87
+    },
+    {
+     "age": 33,
+     "stressStart": 87,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 91
+    },
+    {
+     "age": 34,
+     "stressStart": 91,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 90
+    },
+    {
+     "age": 35,
+     "stressStart": 90,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 94
+    },
+    {
+     "age": 36,
+     "stressStart": 94,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 98
+    },
+    {
+     "age": 37,
+     "stressStart": 98,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 99
+    },
+    {
+     "age": 38,
+     "stressStart": 99,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 39,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 40,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 41,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 42,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 43,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 44,
+     "stressStart": 100,
+     "careerKind": "unemployed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 45,
+     "stressStart": 100,
+     "careerKind": "unemployed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 46,
+     "stressStart": 100,
+     "careerKind": "unemployed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 47,
+     "stressStart": 100,
+     "careerKind": "unemployed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 48,
+     "stressStart": 100,
+     "careerKind": "unemployed",
+     "careerStress": 4,
+     "stressEnd": 100
+    }
+   ]
+  },
+  {
+   "seed": 77,
+   "bg": "single_parent",
+   "trait": "studious",
+   "ending": "death_ill",
+   "age": 44,
+   "money": 161525,
+   "achCount": 5,
+   "maxStress": 100,
+   "yearsGE80": 14,
+   "everBurnout": false,
+   "years": [
+    {
+     "age": 19,
+     "stressStart": 40,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 37
+    },
+    {
+     "age": 20,
+     "stressStart": 37,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 40
+    },
+    {
+     "age": 21,
+     "stressStart": 40,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 41
+    },
+    {
+     "age": 22,
+     "stressStart": 41,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 43
+    },
+    {
+     "age": 23,
+     "stressStart": 43,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 44
+    },
+    {
+     "age": 24,
+     "stressStart": 44,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 45
+    },
+    {
+     "age": 25,
+     "stressStart": 45,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 51
+    },
+    {
+     "age": 26,
+     "stressStart": 51,
+     "careerKind": "unemployed",
+     "careerStress": 4,
+     "stressEnd": 52
+    },
+    {
+     "age": 27,
+     "stressStart": 52,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 58
+    },
+    {
+     "age": 28,
+     "stressStart": 58,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 66
+    },
+    {
+     "age": 29,
+     "stressStart": 66,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 70
+    },
+    {
+     "age": 30,
+     "stressStart": 70,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 76
+    },
+    {
+     "age": 31,
+     "stressStart": 76,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 80
+    },
+    {
+     "age": 32,
+     "stressStart": 80,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 87
+    },
+    {
+     "age": 33,
+     "stressStart": 87,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 91
+    },
+    {
+     "age": 34,
+     "stressStart": 91,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 90
+    },
+    {
+     "age": 35,
+     "stressStart": 90,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 94
+    },
+    {
+     "age": 36,
+     "stressStart": 94,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 98
+    },
+    {
+     "age": 37,
+     "stressStart": 98,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 38,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 39,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 40,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 41,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 42,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    },
+    {
+     "age": 43,
+     "stressStart": 100,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 99
+    },
+    {
+     "age": 44,
+     "stressStart": 99,
+     "careerKind": "employed",
+     "careerStress": 4,
+     "stressEnd": 100
+    }
+   ]
+  },
+  {
+   "seed": 11,
+   "bg": "rural",
+   "trait": "frugal",
+   "ending": "gray_dusk",
+   "age": 77,
+   "money": 64328,
+   "achCount": 9,
+   "maxStress": 90,
+   "yearsGE80": 23,
+   "everBurnout": false,
+   "years": [
+    {
+     "age": 19,
+     "stressStart": 32,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 29
+    },
+    {
+     "age": 20,
+     "stressStart": 29,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 32
+    },
+    {
+     "age": 21,
+     "stressStart": 32,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 33
+    },
+    {
+     "age": 22,
+     "stressStart": 33,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 35
+    },
+    {
+     "age": 23,
+     "stressStart": 35,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 36
+    },
+    {
+     "age": 24,
+     "stressStart": 36,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 37
+    },
+    {
+     "age": 25,
+     "stressStart": 37,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 40
+    },
+    {
+     "age": 26,
+     "stressStart": 40,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 40
+    },
+    {
+     "age": 27,
+     "stressStart": 40,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 41
+    },
+    {
+     "age": 28,
+     "stressStart": 41,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 44
+    },
+    {
+     "age": 29,
+     "stressStart": 44,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 46
+    },
+    {
+     "age": 30,
+     "stressStart": 46,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 47
+    },
+    {
+     "age": 31,
+     "stressStart": 47,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 52
+    },
+    {
+     "age": 32,
+     "stressStart": 52,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 54
+    },
+    {
+     "age": 33,
+     "stressStart": 54,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 58
+    },
+    {
+     "age": 34,
+     "stressStart": 58,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 60
+    },
+    {
+     "age": 35,
+     "stressStart": 60,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 62
+    },
+    {
+     "age": 36,
+     "stressStart": 62,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 64
+    },
+    {
+     "age": 37,
+     "stressStart": 64,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 69
+    },
+    {
+     "age": 38,
+     "stressStart": 69,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 73
+    },
+    {
+     "age": 39,
+     "stressStart": 73,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 71
+    },
+    {
+     "age": 40,
+     "stressStart": 71,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 71
+    },
+    {
+     "age": 41,
+     "stressStart": 71,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 73
+    },
+    {
+     "age": 42,
+     "stressStart": 73,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 76
+    },
+    {
+     "age": 43,
+     "stressStart": 76,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 74
+    },
+    {
+     "age": 44,
+     "stressStart": 74,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 75
+    },
+    {
+     "age": 45,
+     "stressStart": 75,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 77
+    },
+    {
+     "age": 46,
+     "stressStart": 77,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 76
+    },
+    {
+     "age": 47,
+     "stressStart": 76,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 76
+    },
+    {
+     "age": 48,
+     "stressStart": 76,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 76
+    },
+    {
+     "age": 49,
+     "stressStart": 76,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 77
+    },
+    {
+     "age": 50,
+     "stressStart": 77,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 77
+    },
+    {
+     "age": 51,
+     "stressStart": 77,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 75
+    },
+    {
+     "age": 52,
+     "stressStart": 75,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 75
+    },
+    {
+     "age": 53,
+     "stressStart": 75,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 75
+    },
+    {
+     "age": 54,
+     "stressStart": 75,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 79
+    },
+    {
+     "age": 55,
+     "stressStart": 79,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 82
+    },
+    {
+     "age": 56,
+     "stressStart": 82,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 82
+    },
+    {
+     "age": 57,
+     "stressStart": 82,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 82
+    },
+    {
+     "age": 58,
+     "stressStart": 82,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 82
+    },
+    {
+     "age": 59,
+     "stressStart": 82,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 82
+    },
+    {
+     "age": 60,
+     "stressStart": 82,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 83
+    },
+    {
+     "age": 61,
+     "stressStart": 83,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 85
+    },
+    {
+     "age": 62,
+     "stressStart": 85,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 85
+    },
+    {
+     "age": 63,
+     "stressStart": 85,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 89
+    },
+    {
+     "age": 64,
+     "stressStart": 89,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 87
+    },
+    {
+     "age": 65,
+     "stressStart": 87,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 87
+    },
+    {
+     "age": 66,
+     "stressStart": 87,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 86
+    },
+    {
+     "age": 67,
+     "stressStart": 86,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 89
+    },
+    {
+     "age": 68,
+     "stressStart": 89,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 89
+    },
+    {
+     "age": 69,
+     "stressStart": 89,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 86
+    },
+    {
+     "age": 70,
+     "stressStart": 86,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 86
+    },
+    {
+     "age": 71,
+     "stressStart": 86,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 86
+    },
+    {
+     "age": 72,
+     "stressStart": 86,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 85
+    },
+    {
+     "age": 73,
+     "stressStart": 85,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 85
+    },
+    {
+     "age": 74,
+     "stressStart": 85,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 85
+    },
+    {
+     "age": 75,
+     "stressStart": 85,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 90
+    },
+    {
+     "age": 76,
+     "stressStart": 90,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 89
+    },
+    {
+     "age": 77,
+     "stressStart": 89,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 89
+    }
+   ]
+  },
+  {
+   "seed": 20260917,
+   "bg": "rural",
+   "trait": "frugal",
+   "ending": "gray_dusk",
+   "age": 77,
+   "money": 57003,
+   "achCount": 9,
+   "maxStress": 86,
+   "yearsGE80": 17,
+   "everBurnout": false,
+   "years": [
+    {
+     "age": 19,
+     "stressStart": 32,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 29
+    },
+    {
+     "age": 20,
+     "stressStart": 29,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 32
+    },
+    {
+     "age": 21,
+     "stressStart": 32,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 33
+    },
+    {
+     "age": 22,
+     "stressStart": 33,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 35
+    },
+    {
+     "age": 23,
+     "stressStart": 35,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 36
+    },
+    {
+     "age": 24,
+     "stressStart": 36,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 37
+    },
+    {
+     "age": 25,
+     "stressStart": 37,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 40
+    },
+    {
+     "age": 26,
+     "stressStart": 40,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 40
+    },
+    {
+     "age": 27,
+     "stressStart": 40,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 41
+    },
+    {
+     "age": 28,
+     "stressStart": 41,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 44
+    },
+    {
+     "age": 29,
+     "stressStart": 44,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 46
+    },
+    {
+     "age": 30,
+     "stressStart": 46,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 47
+    },
+    {
+     "age": 31,
+     "stressStart": 47,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 52
+    },
+    {
+     "age": 32,
+     "stressStart": 52,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 54
+    },
+    {
+     "age": 33,
+     "stressStart": 54,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 58
+    },
+    {
+     "age": 34,
+     "stressStart": 58,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 60
+    },
+    {
+     "age": 35,
+     "stressStart": 60,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 62
+    },
+    {
+     "age": 36,
+     "stressStart": 62,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 64
+    },
+    {
+     "age": 37,
+     "stressStart": 64,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 69
+    },
+    {
+     "age": 38,
+     "stressStart": 69,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 73
+    },
+    {
+     "age": 39,
+     "stressStart": 73,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 71
+    },
+    {
+     "age": 40,
+     "stressStart": 71,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 71
+    },
+    {
+     "age": 41,
+     "stressStart": 71,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 73
+    },
+    {
+     "age": 42,
+     "stressStart": 73,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 76
+    },
+    {
+     "age": 43,
+     "stressStart": 76,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 74
+    },
+    {
+     "age": 44,
+     "stressStart": 74,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 75
+    },
+    {
+     "age": 45,
+     "stressStart": 75,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 77
+    },
+    {
+     "age": 46,
+     "stressStart": 77,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 76
+    },
+    {
+     "age": 47,
+     "stressStart": 76,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 76
+    },
+    {
+     "age": 48,
+     "stressStart": 76,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 76
+    },
+    {
+     "age": 49,
+     "stressStart": 76,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 77
+    },
+    {
+     "age": 50,
+     "stressStart": 77,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 77
+    },
+    {
+     "age": 51,
+     "stressStart": 77,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 75
+    },
+    {
+     "age": 52,
+     "stressStart": 75,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 75
+    },
+    {
+     "age": 53,
+     "stressStart": 75,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 75
+    },
+    {
+     "age": 54,
+     "stressStart": 75,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 79
+    },
+    {
+     "age": 55,
+     "stressStart": 79,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 77
+    },
+    {
+     "age": 56,
+     "stressStart": 77,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 77
+    },
+    {
+     "age": 57,
+     "stressStart": 77,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 80
+    },
+    {
+     "age": 58,
+     "stressStart": 80,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 80
+    },
+    {
+     "age": 59,
+     "stressStart": 80,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 80
+    },
+    {
+     "age": 60,
+     "stressStart": 80,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 80
+    },
+    {
+     "age": 61,
+     "stressStart": 80,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 79
+    },
+    {
+     "age": 62,
+     "stressStart": 79,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 79
+    },
+    {
+     "age": 63,
+     "stressStart": 79,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 78
+    },
+    {
+     "age": 64,
+     "stressStart": 78,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 81
+    },
+    {
+     "age": 65,
+     "stressStart": 81,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 81
+    },
+    {
+     "age": 66,
+     "stressStart": 81,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 78
+    },
+    {
+     "age": 67,
+     "stressStart": 78,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 81
+    },
+    {
+     "age": 68,
+     "stressStart": 81,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 81
+    },
+    {
+     "age": 69,
+     "stressStart": 81,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 81
+    },
+    {
+     "age": 70,
+     "stressStart": 81,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 86
+    },
+    {
+     "age": 71,
+     "stressStart": 86,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 86
+    },
+    {
+     "age": 72,
+     "stressStart": 86,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 83
+    },
+    {
+     "age": 73,
+     "stressStart": 83,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 86
+    },
+    {
+     "age": 74,
+     "stressStart": 86,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 86
+    },
+    {
+     "age": 75,
+     "stressStart": 86,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 85
+    },
+    {
+     "age": 76,
+     "stressStart": 85,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 85
+    },
+    {
+     "age": 77,
+     "stressStart": 85,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 85
+    }
+   ]
+  },
+  {
+   "seed": 77,
+   "bg": "rural",
+   "trait": "frugal",
+   "ending": "gray_dusk",
+   "age": 77,
+   "money": 111899,
+   "achCount": 10,
+   "maxStress": 86,
+   "yearsGE80": 19,
+   "everBurnout": false,
+   "years": [
+    {
+     "age": 19,
+     "stressStart": 32,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 29
+    },
+    {
+     "age": 20,
+     "stressStart": 29,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 32
+    },
+    {
+     "age": 21,
+     "stressStart": 32,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 33
+    },
+    {
+     "age": 22,
+     "stressStart": 33,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 35
+    },
+    {
+     "age": 23,
+     "stressStart": 35,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 36
+    },
+    {
+     "age": 24,
+     "stressStart": 36,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 37
+    },
+    {
+     "age": 25,
+     "stressStart": 37,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 40
+    },
+    {
+     "age": 26,
+     "stressStart": 40,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 40
+    },
+    {
+     "age": 27,
+     "stressStart": 40,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 41
+    },
+    {
+     "age": 28,
+     "stressStart": 41,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 44
+    },
+    {
+     "age": 29,
+     "stressStart": 44,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 46
+    },
+    {
+     "age": 30,
+     "stressStart": 46,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 47
+    },
+    {
+     "age": 31,
+     "stressStart": 47,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 52
+    },
+    {
+     "age": 32,
+     "stressStart": 52,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 54
+    },
+    {
+     "age": 33,
+     "stressStart": 54,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 58
+    },
+    {
+     "age": 34,
+     "stressStart": 58,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 60
+    },
+    {
+     "age": 35,
+     "stressStart": 60,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 62
+    },
+    {
+     "age": 36,
+     "stressStart": 62,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 64
+    },
+    {
+     "age": 37,
+     "stressStart": 64,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 69
+    },
+    {
+     "age": 38,
+     "stressStart": 69,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 73
+    },
+    {
+     "age": 39,
+     "stressStart": 73,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 71
+    },
+    {
+     "age": 40,
+     "stressStart": 71,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 71
+    },
+    {
+     "age": 41,
+     "stressStart": 71,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 73
+    },
+    {
+     "age": 42,
+     "stressStart": 73,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 76
+    },
+    {
+     "age": 43,
+     "stressStart": 76,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 74
+    },
+    {
+     "age": 44,
+     "stressStart": 74,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 75
+    },
+    {
+     "age": 45,
+     "stressStart": 75,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 77
+    },
+    {
+     "age": 46,
+     "stressStart": 77,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 76
+    },
+    {
+     "age": 47,
+     "stressStart": 76,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 76
+    },
+    {
+     "age": 48,
+     "stressStart": 76,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 76
+    },
+    {
+     "age": 49,
+     "stressStart": 76,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 77
+    },
+    {
+     "age": 50,
+     "stressStart": 77,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 77
+    },
+    {
+     "age": 51,
+     "stressStart": 77,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 75
+    },
+    {
+     "age": 52,
+     "stressStart": 75,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 75
+    },
+    {
+     "age": 53,
+     "stressStart": 75,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 75
+    },
+    {
+     "age": 54,
+     "stressStart": 75,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 79
+    },
+    {
+     "age": 55,
+     "stressStart": 79,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 82
+    },
+    {
+     "age": 56,
+     "stressStart": 82,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 83
+    },
+    {
+     "age": 57,
+     "stressStart": 83,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 83
+    },
+    {
+     "age": 58,
+     "stressStart": 83,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 82
+    },
+    {
+     "age": 59,
+     "stressStart": 82,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 86
+    },
+    {
+     "age": 60,
+     "stressStart": 86,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 83
+    },
+    {
+     "age": 61,
+     "stressStart": 83,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 85
+    },
+    {
+     "age": 62,
+     "stressStart": 85,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 85
+    },
+    {
+     "age": 63,
+     "stressStart": 85,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 86
+    },
+    {
+     "age": 64,
+     "stressStart": 86,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 86
+    },
+    {
+     "age": 65,
+     "stressStart": 86,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 86
+    },
+    {
+     "age": 66,
+     "stressStart": 86,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 85
+    },
+    {
+     "age": 67,
+     "stressStart": 85,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 84
+    },
+    {
+     "age": 68,
+     "stressStart": 84,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 84
+    },
+    {
+     "age": 69,
+     "stressStart": 84,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 81
+    },
+    {
+     "age": 70,
+     "stressStart": 81,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 81
+    },
+    {
+     "age": 71,
+     "stressStart": 81,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 81
+    },
+    {
+     "age": 72,
+     "stressStart": 81,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 82
+    },
+    {
+     "age": 73,
+     "stressStart": 82,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 84
+    },
+    {
+     "age": 74,
+     "stressStart": 84,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 74
+    },
+    {
+     "age": 75,
+     "stressStart": 74,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 73
+    },
+    {
+     "age": 76,
+     "stressStart": 73,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 73
+    },
+    {
+     "age": 77,
+     "stressStart": 73,
+     "careerKind": "none",
+     "careerStress": 1,
+     "stressEnd": 73
+    }
+   ]
+  }
+ ]
+}

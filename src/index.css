@@ -1,0 +1,1799 @@
+/* 《另一种人生》全局样式：暖纸色主题，桌面与手机均可玩。
+   第 32 轮起为 CSS 自定义属性 token 体系——组件样式只允许引用 token，
+   新增视觉能力（转场/图表/弹层）优先复用既有阶梯，不另起魔数。 */
+:root {
+  color-scheme: light;
+  font-family: 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', system-ui, sans-serif;
+
+  /* ── 色板 · 底面层级（页面底 → 卡片面 → 高层面 / 下陷面） ── */
+  --bg: #f6f3ec;             /* 页面底：米白暖纸 */
+  --card: #fffdf8;           /* 卡片面 */
+  --surface-raised: #ffffff; /* 高层面：可点选项、列表项 */
+  --surface-sunken: #f7f2e9; /* 下陷面：锁定选项等次级底 */
+  --ink: #2d2a24;            /* 主文字 */
+  --muted: #736e63;          /* 次文字（第 55 轮加深：on bg/card ≥4.5 达 WCAG AA） */
+  --line: #e6e0d3;           /* 分隔线与描边 */
+
+  /* ── 色板 · 主题色 ── */
+  --accent: #b0552e;
+  --accent-deep: #8f4223;
+  --accent-soft: #f6e7dc;
+
+  /* ── 色板 · 属性五色（进度条 / 评级徽章共用） ── */
+  --c-health: #4c9a6a;
+  --c-happiness: #d9a021;
+  --c-smarts: #4a7fb5;
+  --c-social: #9067b0;
+  --c-stress: #c4574e;
+
+  /* ── 色板 · 反馈（结果面板增/减/关系标签） ── */
+  --pos-bg: #e3f0e7;
+  --pos-ink: #2c6e45;
+  --neg-bg: #f7e3e1;
+  --neg-ink: #a03c34;
+  --rel-bg: #efe6f4;
+  --rel-ink: #6b4a86;
+
+  /* ── 色板 · 金（成就体系与 S 级评级） ── */
+  --gold: #b8860b;      /* S 级徽章底 */
+  --gold-ink: #7a5a14;  /* 成就章文字 */
+  --gold-bg: #f6ecd4;   /* 成就章底 */
+  --gold-line: #e5d3a1; /* 成就章边 */
+  --gold-wash: #fdf6e7; /* 已解锁成就底 */
+  --gold-edge: #e2b96f; /* 已解锁成就边 */
+
+  /* ── 色板 · 警示（提示横幅、锁定原因） ── */
+  --warn-bg: #fdf6ee;
+  --warn-line: #ecd9b8;
+  --warn-ink: #7a5b2e;
+
+  /* ── 字号阶梯 ── */
+  --fs-xs: 12px;      /* 徽章、标签 */
+  --fs-sm: 13px;      /* 提示、说明、次文字强调 */
+  --fs-md: 14px;      /* 次级正文、列表正文 */
+  --fs-base: 15px;    /* 正文 */
+  --fs-lg: 17px;      /* 强调正文、顶栏数值、大按钮 */
+  --fs-xl: 21px;      /* 事件标题 */
+  --fs-2xl: 24px;     /* 页面标题 */
+  --fs-3xl: 34px;     /* 结局名 */
+  --fs-display: 40px; /* 首页标题 */
+
+  /* ── 间距阶梯（2px 网格；token 名 = 像素值） ── */
+  --sp-2: 2px;
+  --sp-4: 4px;
+  --sp-6: 6px;
+  --sp-8: 8px;
+  --sp-10: 10px;
+  --sp-12: 12px;
+  --sp-14: 14px;
+  --sp-16: 16px;
+  --sp-18: 18px;
+  --sp-22: 22px;
+  --sp-28: 28px;
+  --sp-32: 32px;
+  --sp-40: 40px;
+  --sp-48: 48px;
+  --sp-64: 64px;
+
+  /* ── 圆角阶梯 ── */
+  --radius-xs: 4px;     /* 进度条、小徽章 */
+  --radius-sm: 8px;     /* 列表项、履历条目 */
+  --radius-md: 12px;    /* 按钮、输入框、选项卡 */
+  --radius-lg: 14px;    /* 卡片 */
+  --radius-pill: 999px; /* 胶囊徽章 */
+
+  /* ── 阴影层级 ── */
+  --shadow-sm: 0 1px 4px rgba(60, 50, 30, 0.06);
+  --shadow-md: 0 2px 10px rgba(60, 50, 30, 0.08); /* 卡片默认 */
+  --shadow-lg: 0 6px 24px rgba(60, 50, 30, 0.12); /* 弹层/转场（第 33+ 轮消费） */
+
+  /* ── 层级（第 33+ 轮动效与弹层消费） ── */
+  --z-raised: 10;  /* 悬浮于内容之上（吸底操作栏等） */
+  --z-overlay: 100; /* 跨年转场遮罩 */
+  --z-toast: 1000;  /* 全局提示 */
+
+  /* ── 动效（第 33+ 轮消费；交互态本轮即用） ── */
+  --dur-press: 50ms;  /* 按压反馈，保持即时感 */
+  --dur-fast: 120ms;  /* hover / 边框色过渡 */
+  --dur-base: 200ms;  /* 面板级过渡 */
+  --dur-slow: 320ms;  /* 进度条宽度、转场 */
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+
+  /* ── 触控（第 38 轮）：移动端可点目标最小高度（iOS HIG/Android MD 门槛） ── */
+  --tap: 44px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--bg);
+  color: var(--ink);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* 焦点态统一：所有可交互元素（按钮/输入/summary）键盘可达即有焦点环 */
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.app {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: var(--sp-18) var(--sp-14) var(--sp-48);
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-14);
+}
+
+/* ── 通用卡片与按钮 ─────────────────────────── */
+.card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  padding: var(--sp-16);
+  box-shadow: var(--shadow-md);
+}
+
+.card-subtitle {
+  margin: 0 0 var(--sp-8);
+  font-size: var(--fs-md);
+  color: var(--muted);
+  font-weight: 600;
+}
+
+.btn {
+  font: inherit;
+  border: 1px solid transparent;
+  border-radius: var(--radius-md);
+  padding: var(--sp-10) var(--sp-18);
+  cursor: pointer;
+  transition:
+    transform var(--dur-press) ease,
+    background var(--dur-fast) ease,
+    border-color var(--dur-fast) ease,
+    color var(--dur-fast) ease,
+    box-shadow var(--dur-fast) ease;
+}
+.btn:active {
+  transform: translateY(1px);
+}
+.btn:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+.btn-primary {
+  background: var(--accent);
+  color: var(--surface-raised);
+}
+.btn-primary:hover {
+  background: var(--accent-deep);
+}
+.btn-ghost {
+  background: transparent;
+  color: var(--muted);
+  border-color: var(--line);
+}
+.btn-ghost:hover:not(:disabled) {
+  background: var(--accent-soft);
+  color: var(--accent-deep);
+}
+.btn-lg {
+  width: 100%;
+  padding: var(--sp-14);
+  font-size: var(--fs-lg);
+  font-weight: 600;
+}
+.btn-sm {
+  font-size: var(--fs-sm);
+  padding: var(--sp-8) var(--sp-12);
+  align-self: center;
+}
+
+/* ── 首页 ───────────────────────────────────── */
+.home {
+  text-align: center;
+  padding: var(--sp-64) var(--sp-8) var(--sp-32);
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-18);
+  align-items: center;
+}
+.home-title {
+  font-size: var(--fs-display);
+  margin: 0;
+  letter-spacing: 6px;
+}
+.home-sub {
+  color: var(--muted);
+  line-height: 1.8;
+  margin: 0;
+}
+.home .btn-lg {
+  max-width: 280px;
+}
+.home-hint {
+  font-size: var(--fs-sm);
+  color: var(--muted);
+  margin: 0;
+}
+
+/* ── 角色创建 ───────────────────────────────── */
+.page-title {
+  font-size: var(--fs-2xl);
+  text-align: center;
+  margin: var(--sp-8) 0 var(--sp-16);
+}
+.field-label {
+  display: block;
+  font-size: var(--fs-md);
+  color: var(--muted);
+  margin-bottom: var(--sp-6);
+}
+.name-input {
+  width: 100%;
+  font: inherit;
+  padding: var(--sp-12) var(--sp-14);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  background: var(--card);
+  color: var(--ink);
+}
+.section-title {
+  font-size: var(--fs-base);
+  margin: var(--sp-18) 0 var(--sp-10);
+}
+.opt-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--sp-10);
+}
+.opt-card {
+  font: inherit;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-6);
+  padding: var(--sp-12);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  background: var(--card);
+  cursor: pointer;
+  transition:
+    border-color var(--dur-fast) ease,
+    background var(--dur-fast) ease,
+    transform var(--dur-press) ease;
+}
+.opt-card:hover {
+  border-color: var(--accent);
+}
+.opt-card:active {
+  transform: translateY(1px);
+}
+.opt-card.selected {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+  box-shadow: inset 0 0 0 1px var(--accent);
+}
+.opt-name {
+  font-weight: 700;
+}
+.opt-desc {
+  font-size: var(--fs-sm);
+  color: var(--muted);
+  line-height: 1.6;
+}
+.opt-pros,
+.opt-cons,
+.opt-influence {
+  font-size: var(--fs-xs);
+  line-height: 1.55;
+}
+.opt-pros {
+  color: var(--ink);
+  opacity: 0.85;
+}
+.opt-cons {
+  color: var(--muted);
+}
+.opt-influence {
+  color: var(--accent);
+  opacity: 0.9;
+}
+.preview-card {
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  background: var(--card);
+  padding: var(--sp-14);
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-10);
+}
+.preview-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: var(--fs-md);
+  color: var(--muted);
+}
+.preview-row strong {
+  color: var(--ink);
+  font-variant-numeric: tabular-nums;
+}
+.preview-money strong {
+  color: var(--accent);
+  font-size: var(--fs-base);
+}
+.preview-attrs {
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-6);
+}
+.preview-attr {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-8);
+  font-size: var(--fs-sm);
+}
+.preview-attr-label {
+  width: 30px;
+  color: var(--muted);
+  flex-shrink: 0;
+}
+.preview-bar {
+  flex: 1;
+  height: 6px;
+  border-radius: var(--radius-xs);
+  background: var(--line);
+  overflow: hidden;
+}
+.preview-bar-fill {
+  height: 100%;
+  border-radius: var(--radius-xs);
+  background: var(--accent);
+}
+.preview-attr-num {
+  width: 26px;
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  color: var(--muted);
+}
+.preview-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--sp-6);
+}
+.preview-tag {
+  font-size: var(--fs-xs);
+  padding: var(--sp-2) var(--sp-8);
+  border-radius: var(--radius-pill);
+  background: var(--accent-soft);
+  color: var(--ink);
+  border: 1px solid var(--line);
+}
+.creation-actions {
+  margin-top: var(--sp-22);
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-10);
+  align-items: stretch;
+}
+
+/* ── 顶栏（属性） ───────────────────────────── */
+.topbar-main {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: var(--sp-10);
+}
+.topbar-name {
+  font-size: var(--fs-lg);
+  font-weight: 700;
+  margin-right: var(--sp-10);
+}
+.topbar-age {
+  color: var(--muted);
+}
+.topbar-money {
+  font-size: var(--fs-lg);
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+.topbar-status {
+  margin: -4px 0 var(--sp-10);
+  font-size: var(--fs-sm);
+  color: var(--muted);
+}
+.topbar-skills {
+  margin-left: var(--sp-12);
+}
+.attr-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--sp-6) var(--sp-16);
+}
+.attr {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-8);
+}
+.attr-label {
+  width: 30px;
+  font-size: var(--fs-sm);
+  color: var(--muted);
+  flex: none;
+}
+.attr-track {
+  flex: 1;
+  height: 8px;
+  border-radius: var(--radius-xs);
+  background: var(--line);
+  overflow: hidden;
+}
+.attr-fill {
+  height: 100%;
+  border-radius: var(--radius-xs);
+  transition: width var(--dur-slow) ease;
+}
+.attr-value {
+  width: 30px;
+  text-align: right;
+  font-size: var(--fs-sm);
+  font-variant-numeric: tabular-nums;
+  flex: none;
+}
+
+/* ── 年度结算 ───────────────────────────────── */
+.yearlog ul {
+  margin: 0;
+  padding-left: var(--sp-18);
+  color: var(--muted);
+  font-size: var(--fs-md);
+  line-height: 1.8;
+}
+
+/* ── 事件卡片 ───────────────────────────────── */
+.event-card {
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-10);
+  animation: rise-in var(--dur-slow) var(--ease-out);
+}
+.tag {
+  align-self: flex-start;
+  font-size: var(--fs-xs);
+  padding: var(--sp-2) var(--sp-10);
+  border-radius: var(--radius-pill);
+  background: var(--accent-soft);
+  color: var(--accent-deep);
+}
+.event-title {
+  margin: 0;
+  font-size: var(--fs-xl);
+}
+.event-text {
+  margin: 0;
+  line-height: 1.8;
+  font-size: var(--fs-base);
+  overflow-y: auto;
+  max-height: 240px;
+  overscroll-behavior: contain;
+}
+.choices {
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-10);
+  margin-top: var(--sp-4);
+}
+/* 第 34 轮（动效 II）：选项入场 stagger——依次延迟 --dur-fast 步进，
+   fill backwards 让选项在延迟期保持首帧（隐藏）；当前事件最多 4 个选项，覆盖到 5 留余量 */
+.choices .choice-btn:nth-child(1) { animation-delay: var(--dur-fast); }
+.choices .choice-btn:nth-child(2) { animation-delay: calc(var(--dur-fast) * 2); }
+.choices .choice-btn:nth-child(3) { animation-delay: calc(var(--dur-fast) * 3); }
+.choices .choice-btn:nth-child(4) { animation-delay: calc(var(--dur-fast) * 4); }
+.choices .choice-btn:nth-child(5) { animation-delay: calc(var(--dur-fast) * 5); }
+.choice-btn {
+  font: inherit;
+  display: flex;
+  gap: var(--sp-10);
+  align-items: flex-start;
+  text-align: left;
+  width: 100%;
+  padding: var(--sp-12) var(--sp-14);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  background: var(--surface-raised);
+  cursor: pointer;
+  animation: rise-in var(--dur-slow) var(--ease-out) backwards;
+  transition:
+    border-color var(--dur-fast) ease,
+    background var(--dur-fast) ease,
+    box-shadow var(--dur-fast) ease,
+    transform var(--dur-press) ease;
+}
+.choice-btn:hover {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+  box-shadow: var(--shadow-sm);
+}
+/* 第 33 轮（动效 I）：可点选项按压下沉，与 .btn 按压体系一致；锁定项不可点不参与 */
+.choice-btn:active:not(.locked) {
+  transform: translateY(1px);
+}
+.choice-index {
+  flex: none;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: var(--accent-soft);
+  color: var(--accent-deep);
+  font-size: var(--fs-sm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1px;
+}
+.choice-body {
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-4);
+}
+.choice-text {
+  font-weight: 600;
+}
+.choice-tooltip {
+  font-size: var(--fs-sm);
+  color: var(--muted);
+}
+/* 第 19 轮：被门槛挡住的选项——禁用态 + 锁定原因，让玩家知道路在哪儿 */
+.choice-btn.locked {
+  cursor: not-allowed;
+  background: var(--surface-sunken);
+  border-style: dashed;
+}
+.choice-btn.locked:hover {
+  border-color: var(--line);
+  background: var(--surface-sunken);
+  box-shadow: none;
+}
+.choice-btn.locked .choice-text {
+  font-weight: 500;
+  color: var(--muted);
+}
+.choice-lock {
+  font-size: var(--fs-sm);
+  color: var(--warn-ink);
+}
+
+/* ── 结果面板 ───────────────────────────────── */
+.result-panel {
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-10);
+  /* 第 34 轮（动效 II）：结算卡淡入上移入场；数据即终值，动画只做呈现 */
+  animation: rise-in var(--dur-slow) var(--ease-out);
+}
+.result-label {
+  margin: 0;
+  font-size: var(--fs-sm);
+  color: var(--muted);
+}
+.result-choice {
+  margin: 0;
+  font-size: var(--fs-md);
+  color: var(--muted);
+}
+.result-summary {
+  margin: 0;
+  font-size: var(--fs-lg);
+  font-weight: 600;
+  line-height: 1.7;
+}
+.delta-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--sp-8);
+}
+.delta {
+  font-size: var(--fs-sm);
+  padding: var(--sp-2) var(--sp-10);
+  border-radius: var(--radius-pill);
+  background: var(--line);
+  font-variant-numeric: tabular-nums;
+}
+.delta.pos {
+  background: var(--pos-bg);
+  color: var(--pos-ink);
+}
+.delta.neg {
+  background: var(--neg-bg);
+  color: var(--neg-ink);
+}
+.delta.rel {
+  background: var(--rel-bg);
+  color: var(--rel-ink);
+}
+.topbar-rel {
+  margin-top: -6px;
+}
+/* 成就（第 13 轮）：顶栏计数与结果面板解锁提示 */
+.topbar-ach {
+  margin-left: var(--sp-12);
+  font-variant-numeric: tabular-nums;
+}
+.ach-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--sp-8);
+  margin-top: var(--sp-10);
+}
+.ach-chip {
+  font-size: var(--fs-sm);
+  padding: var(--sp-4) var(--sp-12);
+  border-radius: var(--radius-pill);
+  background: var(--gold-bg);
+  color: var(--gold-ink);
+  border: 1px solid var(--gold-line);
+  font-weight: 600;
+}
+
+/* ── 主动行动条（第 84 轮）：事件结算后、进入下一年前的一次主动选择 ──
+   静态样式零动画（reduced-motion 天然安全）；触控目标 ≥44px（M8 口径）。 */
+.action-bar {
+  margin-top: var(--sp-12);
+  padding-top: var(--sp-10);
+  border-top: 1px solid var(--line);
+}
+.action-bar-label {
+  margin: 0 0 var(--sp-6);
+  font-size: var(--fs-sm);
+  color: var(--muted);
+}
+.action-bar-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--sp-6);
+}
+.action-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--sp-4);
+  min-height: 44px;
+  padding: var(--sp-6) var(--sp-10);
+  font-size: var(--fs-sm);
+  background: var(--surface-raised);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-pill);
+  color: var(--ink);
+}
+.action-btn:not(:disabled):hover {
+  background: var(--surface-sunken);
+}
+.action-btn:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+.action-key {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 20px;
+  height: 20px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-pill);
+  font-size: var(--fs-xs);
+  color: var(--muted);
+}
+.action-cost {
+  font-size: var(--fs-xs);
+  color: var(--muted);
+}
+.action-bar-hint {
+  margin: var(--sp-6) 0 0;
+  font-size: var(--fs-xs);
+  color: var(--muted);
+}
+.action-done-note {
+  margin: var(--sp-10) 0 0;
+  font-size: var(--fs-sm);
+  color: var(--ink);
+  background: var(--surface-sunken);
+  border-radius: var(--radius-xs);
+  padding: var(--sp-6) var(--sp-10);
+}
+.action-done-note b {
+  margin-right: var(--sp-4);
+}
+
+/* ── 动效 II（第 34 轮）：跨年「翻开新的一年」转场 ──
+   纯视觉层：pointer-events none 不挡任何点击，无 JS 定时器、不参与任何状态逻辑；
+   年龄变化时随 GamePage 重挂载重播一次。播完（fill forwards 末帧）与降级
+   （animation: none + 底态 opacity 0）两条路都落在"不可见"，不会永久遮挡。
+   结算卡/事件卡/选项的 rise-in 入场与选项 stagger 挂在上方各自规则里。 */
+.year-flip {
+  position: fixed;
+  inset: 0;
+  z-index: var(--z-overlay);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none;
+}
+.year-flip-band {
+  opacity: 0;
+  width: 100%;
+  padding: var(--sp-14) 0;
+  text-align: center;
+  font-size: var(--fs-lg);
+  font-weight: 600;
+  letter-spacing: 4px;
+  color: var(--accent-deep);
+  background: var(--card);
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  box-shadow: var(--shadow-lg);
+  animation: year-flip-sweep calc(var(--dur-slow) * 2) var(--ease-out) forwards;
+}
+/* 淡入上移入场（结算卡/事件卡/选项共用）；to 省略 = 落回样式本值 */
+@keyframes rise-in {
+  from {
+    opacity: 0;
+    transform: translateY(var(--sp-10));
+  }
+}
+/* 翻页带从上方入场、停在屏幕中腰一瞬、向下扫出（行程用 vh，视口级动效不适合 px token） */
+@keyframes year-flip-sweep {
+  0% {
+    opacity: 0;
+    transform: translateY(-28vh);
+  }
+  20% {
+    opacity: 1;
+  }
+  45% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  62% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(32vh);
+  }
+}
+
+/* ── 履历 ───────────────────────────────────── */
+.history summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--muted);
+  font-size: var(--fs-md);
+}
+.history-list {
+  list-style: none;
+  margin: var(--sp-10) 0 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-12);
+}
+.history-list li {
+  display: flex;
+  gap: var(--sp-10);
+  align-items: flex-start;
+}
+.history-age {
+  flex: none;
+  font-size: var(--fs-sm);
+  color: var(--accent-deep);
+  background: var(--accent-soft);
+  border-radius: var(--radius-xs);
+  padding: var(--sp-2) var(--sp-8);
+  margin-top: 1px;
+  white-space: nowrap;
+}
+.history-body {
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-2);
+  font-size: var(--fs-md);
+}
+.history-body b {
+  font-weight: 700;
+}
+.history-body i {
+  font-style: normal;
+  color: var(--muted);
+}
+/* 第 19 轮：关键经历（毕业/晋升/疏远/成就）在履历中的高亮 */
+.history-list li.history-key {
+  border-left: 3px solid var(--accent);
+  background: var(--accent-soft);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  padding: var(--sp-6) var(--sp-8) var(--sp-6) var(--sp-10);
+}
+.history-star {
+  color: var(--accent-deep);
+  margin-right: var(--sp-2);
+}
+.history-body i::before {
+  content: '「';
+}
+.history-body i::after {
+  content: '」';
+}
+/* 高考放榜/成就达成这类无玩家选择的关键条目 choice 为空，不渲染悬空的「」 */
+.history-body i:empty::before,
+.history-body i:empty::after {
+  content: none;
+}
+.history-body em {
+  font-style: normal;
+  line-height: 1.6;
+}
+.history-empty {
+  color: var(--muted);
+  font-size: var(--fs-md);
+}
+
+/* ── 资产曲线（第 35 轮）：纯 SVG 折线，几何来自年度快照 ──
+   折叠头与履历同款；svg 等比缩放，桌面限宽防放大过度，
+   375px 视口下接近 1:1，坐标文字始终可读 */
+.asset-fold summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--muted);
+  font-size: var(--fs-md);
+}
+.asset-curve {
+  margin: var(--sp-10) 0 0;
+}
+.asset-curve svg {
+  display: block;
+  width: 100%;
+  max-width: 520px;
+  height: auto;
+  margin: 0 auto;
+}
+.asset-curve-note {
+  margin: var(--sp-6) 0 0;
+  font-size: var(--fs-xs);
+  color: var(--muted);
+}
+
+/* ── 属性雷达（第 36 轮）：纯 SVG 五维雷达，终值对比开局基准 ──
+   svg 等比缩放与资产曲线同款（限宽防桌面放大过度，375px 接近 1:1） */
+.life-radar {
+  margin: var(--sp-10) 0 0;
+}
+.life-radar svg {
+  display: block;
+  width: 100%;
+  max-width: 520px;
+  height: auto;
+  margin: 0 auto;
+}
+.radar-legend {
+  margin: var(--sp-6) 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--sp-4) var(--sp-16);
+  font-size: var(--fs-xs);
+  color: var(--muted);
+}
+.radar-legend i {
+  font-style: normal;
+  display: inline-flex;
+  align-items: center;
+  gap: var(--sp-4);
+}
+.radar-legend i::before {
+  content: '';
+  width: var(--sp-8);
+  height: var(--sp-8);
+  border-radius: var(--radius-pill);
+  background: var(--accent);
+}
+.radar-legend i.lg-base::before {
+  background: var(--card);
+  border: 2px dashed var(--muted);
+}
+
+/* ── 人生时间轴（第 36 轮）：结局页履历改竖直主干，★ 关键节点金色放大 ──
+   主干 = 相邻条目的 border-left 相连（末条透明截尾）；节点圆点用 li::before 压在干上，
+   相对 padding box 左缘偏移 -6px/-8px 恰让圆心落在 2px 主干中线上 */
+.life-timeline {
+  list-style: none;
+  margin: var(--sp-10) 0 0;
+  padding: 0;
+}
+.life-timeline li {
+  position: relative;
+  border-left: 2px solid var(--line);
+  padding: 0 0 var(--sp-12) var(--sp-12);
+}
+.life-timeline li:last-child {
+  border-left-color: transparent;
+  padding-bottom: 0;
+}
+.life-timeline li::before {
+  content: '';
+  position: absolute;
+  left: calc(-1 * var(--sp-6));
+  top: var(--sp-6);
+  width: var(--sp-10);
+  height: var(--sp-10);
+  border-radius: var(--radius-pill);
+  background: var(--card);
+  border: 2px solid var(--muted);
+}
+.life-timeline li.tl-key::before {
+  left: calc(-1 * var(--sp-8));
+  top: var(--sp-4);
+  width: var(--sp-14);
+  height: var(--sp-14);
+  background: var(--gold-bg);
+  border-color: var(--gold);
+}
+
+/* ── 结局页 ─────────────────────────────────── */
+.ending {
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-14);
+}
+.ending-card {
+  text-align: center;
+  padding: var(--sp-28) var(--sp-16);
+}
+.ending-kicker {
+  margin: 0;
+  font-size: var(--fs-sm);
+  letter-spacing: 4px;
+  color: var(--muted);
+}
+.ending-name {
+  margin: var(--sp-8) 0;
+  font-size: var(--fs-3xl);
+  letter-spacing: 3px;
+}
+.ending-desc {
+  margin: 0 0 var(--sp-12);
+  color: var(--muted);
+}
+.ending-facts {
+  margin: 0 0 var(--sp-14);
+  font-size: var(--fs-md);
+}
+.ending-attr {
+  font-size: var(--fs-md);
+  color: var(--muted);
+}
+.ending-attr b {
+  color: var(--ink);
+}
+/* 评级印章（第 37 轮报告式改版，原胶囊徽章升级圆章）：五级底色仍复用金/属性五色板，
+   白色虚线内圈是印章内环，微倾 -4° 呈钤印感 */
+.ending-grade {
+  position: relative;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: var(--sp-64);
+  height: var(--sp-64);
+  margin-top: var(--sp-10);
+  border-radius: var(--radius-pill);
+  color: var(--surface-raised);
+  background: var(--muted);
+  transform: rotate(-4deg);
+  box-shadow: var(--shadow-md);
+}
+.ending-grade::after {
+  content: '';
+  position: absolute;
+  inset: var(--sp-4);
+  border: 1px dashed var(--surface-raised);
+  border-radius: inherit;
+  opacity: 0.7;
+}
+.ending-grade b {
+  font-size: var(--fs-2xl);
+  line-height: 1;
+}
+.ending-grade i {
+  font-style: normal;
+  font-size: var(--fs-xs);
+  opacity: 0.85;
+}
+.ending-grade.grade-S,
+.legacy-grade.grade-S { background: var(--gold); }
+.ending-grade.grade-A,
+.legacy-grade.grade-A { background: var(--c-health); }
+.ending-grade.grade-B,
+.legacy-grade.grade-B { background: var(--c-smarts); }
+.ending-grade.grade-C,
+.legacy-grade.grade-C { background: var(--muted); }
+.ending-grade.grade-D,
+.legacy-grade.grade-D { background: var(--c-stress); }
+
+/* 第 53 轮：往生录（首页多周目博物馆）——走既有 card/token 体系 */
+.legacy-list {
+  list-style: none;
+  margin: 0 0 var(--sp-10);
+  padding: 0;
+  display: grid;
+  gap: var(--sp-8);
+}
+.legacy-entry {
+  border-left: 3px solid var(--muted);
+  padding: var(--sp-6) var(--sp-8);
+  display: grid;
+  gap: var(--sp-4);
+}
+.legacy-entry b { font-size: var(--fs-sm); }
+.legacy-grade {
+  display: inline-block;
+  min-width: 20px;
+  text-align: center;
+  border-radius: var(--radius-sm);
+  color: var(--bg);
+  font-weight: 600;
+  padding: 0 var(--sp-4);
+  font-size: var(--fs-xs);
+}
+.legacy-epitaph {
+  color: var(--ink);
+  font-size: var(--fs-sm);
+}
+.legacy-entry .legacy-meta {
+  color: var(--muted);
+  font-size: var(--fs-xs);
+}
+
+/* 第 73 轮：往生录展开式回顾——碑头按钮（全宽左对齐）+ 0fr→1fr 展开动画 */
+.legacy-toggle {
+  all: unset;
+  cursor: pointer;
+  display: block;
+  width: 100%;
+  text-align: left;
+  font-size: var(--fs-sm);
+  border-radius: var(--radius-sm);
+  transition: background var(--dur-fast) ease;
+}
+.legacy-toggle:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 2px;
+}
+.legacy-toggle:hover { background: var(--surface-sunken); }
+.legacy-more {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows var(--dur-base) ease;
+}
+.legacy-more.open { grid-template-rows: 1fr; }
+.legacy-more-inner {
+  overflow: hidden;
+  display: grid;
+  gap: var(--sp-4);
+  padding-top: var(--sp-2);
+}
+.legacy-more-inner .legacy-choices {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: var(--sp-2);
+  font-size: var(--fs-xs);
+  color: var(--ink);
+}
+.legacy-more-inner .legacy-choices li {
+  border-left: 2px solid var(--muted);
+  padding-left: var(--sp-4);
+}
+
+/* 第 75 轮：岁月长河——过滤档 + 年代锚点 + 分段组头与空态 */
+.river-filters {
+  display: flex;
+  gap: var(--sp-4);
+  margin-bottom: var(--sp-4);
+}
+.river-chip {
+  all: unset;
+  cursor: pointer;
+  font-size: var(--fs-xs);
+  padding: var(--sp-2) var(--sp-6);
+  border: 1px solid var(--muted);
+  border-radius: var(--radius-sm);
+  color: var(--muted);
+  transition: background var(--dur-fast) ease, color var(--dur-fast) ease;
+}
+.river-chip.on {
+  background: var(--gold);
+  border-color: var(--gold);
+  color: var(--bg);
+}
+.river-chip:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 2px;
+}
+.river-nav {
+  display: flex;
+  gap: var(--sp-4);
+  flex-wrap: wrap;
+  margin-bottom: var(--sp-6);
+}
+.river-anchor {
+  all: unset;
+  cursor: pointer;
+  font-size: var(--fs-xs);
+  color: var(--ink);
+  padding: var(--sp-2) var(--sp-4);
+  border-bottom: 1px solid var(--gold);
+}
+.river-anchor:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 2px;
+}
+.river-seg {
+  margin-bottom: var(--sp-8);
+}
+.river-seg-head {
+  font-size: var(--fs-sm);
+  color: var(--ink);
+  margin: 0 0 var(--sp-4);
+  padding-bottom: var(--sp-2);
+  border-bottom: 1px solid var(--muted);
+}
+.river-empty {
+  color: var(--muted);
+  font-size: var(--fs-xs);
+  margin: 0;
+}
+
+/* 第 54 轮：分享卡入口（复用按钮体系，仅加居中容器） */
+.share-actions {
+  display: flex;
+  justify-content: center;
+  margin: var(--sp-10) 0;
+}
+
+/* 第 56 轮：首局开场引导浮层（fixed 覆盖层，走既有 card/token 体系） */
+.tutorial-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(45, 42, 36, 0.45);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--sp-10);
+  z-index: var(--z-overlay, 60);
+}
+.tutorial-card {
+  max-width: 420px;
+  display: grid;
+  gap: var(--sp-8);
+}
+.tutorial-step {
+  margin: 0;
+  color: var(--muted);
+  font-size: var(--fs-xs);
+}
+.tutorial-title {
+  margin: 0;
+  font-size: var(--fs-lg);
+}
+.tutorial-body {
+  margin: 0;
+  font-size: var(--fs-sm);
+  line-height: 1.7;
+}
+.tutorial-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: var(--sp-6);
+}
+.ending-dims {
+  margin: 0 0 var(--sp-10);
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--sp-6);
+  justify-content: center;
+}
+.ending-dim {
+  font-size: var(--fs-xs);
+  color: var(--muted);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-pill);
+  padding: 1px var(--sp-10);
+  background: var(--bg);
+}
+.ending-summary p {
+  margin: 0 0 var(--sp-10);
+  line-height: 1.75;
+  text-align: justify;
+}
+.ending-summary p:last-child {
+  margin-bottom: 0;
+}
+.ending-turning-points {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-10);
+}
+.ending-turning-points li {
+  display: flex;
+  gap: var(--sp-10);
+  align-items: baseline;
+}
+
+/* ── 人生报告（第 37 轮）：结局页报告式版面 ──
+   关键数据五格 / 关键抉择金句 / 图表并排 / 后记金边收束；
+   图表并排用 flex-wrap 自动换行（桌面两栏、窄屏堆叠），不新增媒体查询 */
+.report-stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(96px, 1fr));
+  gap: var(--sp-8);
+}
+.report-stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--sp-2);
+  padding: var(--sp-10) var(--sp-6);
+  background: var(--surface-sunken);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  text-align: center;
+}
+.report-stat span {
+  font-size: var(--fs-xs);
+  color: var(--muted);
+}
+.report-stat b {
+  font-size: var(--fs-lg);
+  line-height: 1.2;
+}
+.report-quote {
+  margin: 0;
+  padding: var(--sp-12) var(--sp-16);
+  background: var(--accent-soft);
+  border-left: 3px solid var(--accent);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+}
+.report-quote p {
+  margin: 0;
+  font-size: var(--fs-lg);
+  font-weight: 600;
+  line-height: 1.7;
+}
+.report-quote p::before {
+  content: '「';
+}
+.report-quote p::after {
+  content: '」';
+}
+.report-quote cite {
+  display: block;
+  margin-top: var(--sp-6);
+  font-style: normal;
+  font-size: var(--fs-sm);
+  color: var(--muted);
+}
+.report-charts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--sp-14);
+}
+.report-charts > .card {
+  flex: 1 1 280px;
+}
+.report-epilogue {
+  border-left: 3px solid var(--gold);
+  background: var(--gold-wash);
+}
+/* ── 第 77 轮：报告印刷质感（纯叠加增强——不动断言锚点的计算值：印章 64px/
+/*    圆角/旋转/主色、kicker 文本、结构类名全部保留；纹理走 background-image
+/*    与低透明度叠层，对比度零影响）── */
+.ending {
+  /* 纸纹底：三层极淡渐变细纹（横纹/斜纹/网点），无图片资源 */
+  background-image:
+    repeating-linear-gradient(0deg, rgba(0, 0, 0, 0.014) 0 1px, transparent 1px 3px),
+    repeating-linear-gradient(90deg, rgba(0, 0, 0, 0.01) 0 1px, transparent 1px 4px),
+    repeating-linear-gradient(45deg, rgba(255, 255, 255, 0.012) 0 2px, transparent 2px 6px);
+}
+.ending-grade {
+  /* 金属光泽：conic 高光叠在既有主色之上（background-color 不动，round37 锚点安全） */
+  background-image: conic-gradient(
+    from 210deg,
+    rgba(255, 255, 255, 0.28),
+    rgba(255, 255, 255, 0.02) 25%,
+    rgba(0, 0, 0, 0.08) 50%,
+    rgba(255, 255, 255, 0.16) 75%,
+    rgba(255, 255, 255, 0.28)
+  );
+}
+.ending-grade::after {
+  /* 虚线内圈锐化：双线钤印感（外虚线既有，内加发丝实线圈） */
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.25);
+}
+.report-stat b {
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.01em;
+}
+.report-stat span {
+  letter-spacing: 0.12em;
+}
+.report-quote cite {
+  font-variant-numeric: tabular-nums;
+}
+.ending .card-subtitle {
+  /* 小节标题发丝化：下缘 1px 半透明渐隐线 */
+  padding-bottom: var(--sp-2);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+  letter-spacing: 0.06em;
+}
+
+/* ── 小屏适配 ───────────────────────────────── */
+@media (max-width: 420px) {
+  :root {
+    --fs-display: 32px;
+    --fs-xl: 19px;
+  }
+  /* 第 38 轮：safe-area——刘海/手势条设备上内容与页面底不被裁切 */
+  .app {
+    padding: var(--sp-12) var(--sp-10) calc(var(--sp-40) + env(safe-area-inset-bottom, 0px));
+  }
+  .opt-grid,
+  .attr-grid {
+    grid-template-columns: 1fr;
+  }
+  .attr-grid {
+    gap: var(--sp-6);
+  }
+  /* 第 38 轮：触控目标 ≥ --tap（按钮与折叠头；选项卡加高加大内距） */
+  .btn,
+  .choice-btn,
+  summary {
+    min-height: var(--tap);
+  }
+  .choice-btn {
+    padding: var(--sp-12);
+    font-size: var(--fs-md);
+  }
+  .btn-sm {
+    padding: var(--sp-10) var(--sp-14);
+  }
+  /* 第 38 轮：底部操作栏——结算卡吸底，主操作「进入下一年」常驻拇指区。
+     sticky 不脱离文档流：未滚到时停在视口底缘，滚到底部落回自然位，零遮挡。 */
+  .result-panel {
+    position: sticky;
+    bottom: calc(env(safe-area-inset-bottom, 0px) + var(--sp-10));
+    z-index: var(--z-raised);
+    box-shadow: var(--shadow-lg);
+  }
+  .ach-list {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ── 存档与提示（第 18 轮） ─────────────────────── */
+.banner {
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-10);
+  align-items: flex-start;
+}
+.banner p {
+  margin: 0;
+  line-height: 1.7;
+  text-align: left;
+}
+.warn-card {
+  background: var(--warn-bg);
+  border: 1px solid var(--warn-line);
+  border-radius: var(--radius-lg);
+  padding: var(--sp-12) var(--sp-16);
+  font-size: var(--fs-md);
+  color: var(--warn-ink);
+  width: 100%;
+  box-shadow: var(--shadow-md);
+}
+.banner-actions {
+  display: flex;
+  gap: var(--sp-10);
+  flex-wrap: wrap;
+}
+.save-chip {
+  font-size: var(--fs-sm);
+  color: var(--muted);
+  background: var(--accent-soft);
+  border-radius: var(--radius-pill);
+  padding: var(--sp-6) var(--sp-14);
+}
+.home-secondary {
+  display: flex;
+  gap: var(--sp-10);
+  flex-wrap: wrap;
+  justify-content: center;
+}
+/* 第 19 轮：首页成就入口（SPEC §5） */
+.home-ach {
+  width: 100%;
+  font-size: var(--fs-md);
+}
+.home-ach summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--accent-deep);
+}
+.home-ach-hint {
+  margin: var(--sp-8) 0 0;
+  font-size: var(--fs-sm);
+  color: var(--muted);
+}
+.ach-list {
+  list-style: none;
+  margin: var(--sp-10) 0 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--sp-8) var(--sp-14);
+}
+.ach-list li {
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-2);
+  padding: var(--sp-8) var(--sp-10);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  background: var(--surface-raised);
+}
+.ach-list li b {
+  font-size: var(--fs-sm);
+}
+.ach-list li span {
+  font-size: var(--fs-sm);
+  color: var(--muted);
+}
+.ach-list li.ach-locked {
+  opacity: 0.62;
+}
+.ach-list li.ach-got {
+  border-color: var(--gold-edge);
+  background: var(--gold-wash);
+}
+.game-actions {
+  display: flex;
+  gap: var(--sp-10);
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* ── 动效降级（第 33–34 轮动效 I/II）──────────────────
+   系统开启"减少动态效果"时：关闭过渡、按压位移与入场/转场动画，数据直出不遮挡。
+   数字滚动（count-up）在组件侧探测同一媒体查询，同样直出终值。 */
+@media (prefers-reduced-motion: reduce) {
+  .btn,
+  .choice-btn,
+  .opt-card,
+  .attr-fill {
+    transition: none;
+  }
+  .btn:active,
+  .choice-btn:active,
+  .opt-card:active {
+    transform: none;
+  }
+  /* 第 34 轮：入场与跨年转场动画全部关闭；year-flip-band 底态即不可见，
+     关闭动画后转场遮罩同样不会出现 */
+  .year-flip-band,
+  .result-panel,
+  .event-card,
+  .choice-btn {
+    animation: none;
+  }
+  /* 第 107 轮：抽签卡牌翻转降级为渐显（翻转是 3D 变换，静态阅读体验更差）。
+     注意只关 animation 不改功能时序——组件内定时器照走，状态照样落到 revealed。 */
+  .fortune-card,
+  .fortune-card-shown {
+    animation: none;
+    transform: none;
+  }
+}
+
+/* ── 同龄人对照卡（第 96 轮）：终局四维 vs 千局分位 ──
+   纯展示；行式布局，移动端由既有断点自适应换行。 */
+.peer-compare {
+  margin-top: var(--sp-12);
+}
+.peer-note {
+  margin: 0 0 var(--sp-6);
+  font-size: var(--fs-xs);
+  color: var(--muted);
+}
+.peer-rows {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-6);
+}
+.peer-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: var(--sp-4) var(--sp-10);
+  padding: var(--sp-4) 0;
+  border-bottom: 1px solid var(--line);
+}
+.peer-label {
+  font-weight: 600;
+  min-width: 3em;
+}
+.peer-value {
+  color: var(--muted);
+}
+.peer-tier {
+  margin-left: auto;
+  font-size: var(--fs-sm);
+}
+
+/* ── 另一条路上（第 121 轮）：关键岔路口的克制回望 ──
+   呈现层只读；无合资格转折时组件不渲染（降级）。 */
+.regret-note {
+  color: var(--muted);
+  font-size: var(--fs-sm);
+  margin: 0 0 var(--sp-4);
+}
+.regret-rows {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: var(--sp-4);
+}
+.regret-row {
+  display: grid;
+  gap: var(--sp-2);
+  padding: var(--sp-4);
+  background: var(--surface-sunken);
+  border-radius: var(--radius-md);
+}
+.regret-age {
+  font-size: var(--fs-sm);
+  color: var(--muted);
+}
+.regret-alt {
+  color: var(--ink);
+  line-height: 1.6;
+}
+
+/* ── 家训三选一（第 122 轮）：承继面板的家训横条 ──
+   承继局限定；非承继局不渲染。 */
+.motto-head {
+  font-size: var(--fs-base);
+  margin: 0 0 var(--sp-2);
+}
+.motto-opts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--sp-2);
+}
+.motto-btn {
+  padding: var(--sp-2) var(--sp-4);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  background: var(--surface-sunken);
+  color: var(--ink);
+  cursor: pointer;
+}
+.motto-btn.on {
+  border-color: var(--gold, var(--ink));
+  font-weight: 600;
+}
+.motto-hint {
+  color: var(--muted);
+  font-size: var(--fs-sm);
+  margin: var(--sp-2) 0 0;
+}
+
+
+/* ── 重大时刻全屏演出（第 97 轮）：里程碑大字卡 1.6s 渐显 ──
+   纯展示；reduced-motion 下组件不渲染（JS matchMedia 同判）。 */
+.moment-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: var(--z-overlay, 60);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--sp-10);
+  background: color-mix(in srgb, var(--bg) 72%, transparent);
+  pointer-events: none;
+  opacity: 0;
+  animation: moment-fade 1.6s ease-out forwards;
+}
+@keyframes moment-fade {
+  0% { opacity: 0; }
+  18% { opacity: 1; }
+  78% { opacity: 1; }
+  100% { opacity: 0; }
+}
+.moment-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--sp-6);
+  text-align: center;
+}
+.moment-card-shown .moment-age {
+  font-size: var(--fs-sm);
+  color: var(--muted);
+}
+.moment-card-shown .moment-label {
+  font-size: var(--fs-3xl);
+  font-weight: 700;
+  letter-spacing: 0.12em;
+}
+.moment-card-shown .moment-sentence {
+  font-size: var(--fs-md);
+  color: var(--muted);
+  max-width: 28em;
+}
+
+
+/* ── 人生高光金句卡（第 98 轮）：★转折精选 3～5 张，引号装饰+衬线排版 ── */
+.hl-section {
+  margin-top: var(--sp-12);
+}
+.hl-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: var(--sp-10);
+}
+.hl-card {
+  margin: 0;
+  padding: var(--sp-10);
+  border: 1px solid var(--gold-line);
+  border-radius: var(--radius-xs);
+  background: var(--gold-wash, var(--surface-sunken));
+  position: relative;
+}
+.hl-quote {
+  position: absolute;
+  top: var(--sp-2);
+  left: var(--sp-6);
+  font-size: var(--fs-3xl);
+  color: var(--gold-line);
+  line-height: 1;
+}
+.hl-text {
+  margin: var(--sp-8) 0 0;
+  font-size: var(--fs-md);
+  line-height: 1.7;
+}
+.hl-meta {
+  margin-top: var(--sp-6);
+  display: flex;
+  gap: var(--sp-6);
+  align-items: baseline;
+}
+.hl-age {
+  font-weight: 700;
+  color: var(--gold-ink);
+}
+.hl-title {
+  font-size: var(--fs-sm);
+  color: var(--muted);
+}
+
+/* ── 开局抽签仪式（第 107 轮）：卡牌翻转揭示 + 悬念半句，纯呈现层 ── */
+.fortune {
+  margin-top: 24px;
+  padding: var(--sp-16) var(--sp-16) var(--sp-18);
+  border: 1px dashed var(--gold-line);
+  border-radius: var(--radius-lg);
+  background: var(--gold-wash);
+}
+.fortune .section-title {
+  margin-top: 0;
+}
+.fortune-note {
+  margin: var(--sp-6) 0 var(--sp-12);
+  font-size: var(--fs-sm);
+  color: var(--muted);
+  line-height: 1.7;
+}
+.fortune-stage {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  min-height: 132px;
+}
+.fortune-draw-btn {
+  align-self: center;
+  letter-spacing: 0.2em;
+  padding: var(--sp-12) 24px;
+}
+.fortune-card {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-12);
+  padding: var(--sp-14) var(--sp-16);
+  background: var(--card);
+  border: 1px solid var(--gold-line);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-md);
+  /* 抽签中：卡面自侧向转回观者 */
+  animation: fortune-flip 620ms ease-in-out;
+}
+.fortune-card-shown {
+  animation: fortune-reveal 620ms ease-out;
+}
+.fortune-line {
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-4);
+}
+.fortune-bg {
+  padding-bottom: var(--sp-12);
+  border-bottom: 1px solid var(--line);
+}
+.fortune-trait {
+  padding-top: var(--sp-4);
+}
+.fortune-kicker {
+  font-size: var(--fs-xs);
+  color: var(--muted);
+  letter-spacing: 0.14em;
+}
+.fortune-name {
+  font-size: var(--fs-xl);
+  font-weight: 700;
+  color: var(--accent-deep);
+}
+.fortune-desc {
+  font-size: var(--fs-md);
+  color: var(--ink);
+  line-height: 1.7;
+}
+.fortune-suspense {
+  font-size: var(--fs-md);
+  color: var(--muted);
+  line-height: 1.7;
+  letter-spacing: 0.08em;
+}
+.fortune-actions {
+  margin-top: var(--sp-12);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--sp-10);
+}
+.fortune-hint {
+  font-size: var(--fs-xs);
+  color: var(--muted);
+}
+@keyframes fortune-flip {
+  0% { transform: perspective(700px) rotateY(-92deg); }
+  55% { transform: perspective(700px) rotateY(10deg); }
+  100% { transform: perspective(700px) rotateY(0deg); }
+}
+@keyframes fortune-reveal {
+  0% { transform: perspective(700px) rotateY(72deg); opacity: 0.35; }
+  100% { transform: perspective(700px) rotateY(0deg); opacity: 1; }
+}

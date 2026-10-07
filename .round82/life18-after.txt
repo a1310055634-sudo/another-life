@@ -1,0 +1,19 @@
+18 局（after）已写入 .round82/life18-after.json
+11/ordinary/studious → death_ill 68岁 ¥-600348 峰值压力100 ≥80年26 burnout=0
+20260917/ordinary/studious → death_ill 71岁 ¥-904532 峰值压力100 ≥80年29 burnout=0
+77/ordinary/studious → debt_shadow 77岁 ¥-192491 峰值压力100 ≥80年25 burnout=0
+11/rural/ambitious → debt_shadow 77岁 ¥-599455 峰值压力100 ≥80年31 burnout=0
+20260917/rural/ambitious → debt_shadow 77岁 ¥-589596 峰值压力100 ≥80年31 burnout=0
+77/rural/ambitious → debt_shadow 77岁 ¥-622059 峰值压力100 ≥80年31 burnout=0
+11/wealthy/sociable → legacy_flame 77岁 ¥-462 峰值压力57 ≥80年0 burnout=0
+20260917/wealthy/sociable → legacy_flame 77岁 ¥-1222 峰值压力57 ≥80年0 burnout=0
+77/wealthy/sociable → quiet_life 77岁 ¥5955 峰值压力57 ≥80年0 burnout=0
+11/ordinary/frugal → labor_worn 77岁 ¥38967 峰值压力87 ≥80年16 burnout=0
+20260917/ordinary/frugal → labor_worn 77岁 ¥29267 峰值压力88 ≥80年16 burnout=0
+77/ordinary/frugal → gray_dusk 77岁 ¥63567 峰值压力84 ≥80年11 burnout=0
+11/single_parent/studious → death_ill 46岁 ¥262312 峰值压力100 ≥80年16 burnout=0
+20260917/single_parent/studious → death_ill 46岁 ¥267112 峰值压力100 ≥80年16 burnout=0
+77/single_parent/studious → death_ill 44岁 ¥130324 峰值压力100 ≥80年14 burnout=0
+11/rural/frugal → gray_dusk 77岁 ¥51409 峰值压力100 ≥80年23 burnout=0
+20260917/rural/frugal → gray_dusk 77岁 ¥56123 峰值压力95 ≥80年24 burnout=0
+77/rural/frugal → death_ill 75岁 ¥16749 峰值压力100 ≥80年21 burnout=0

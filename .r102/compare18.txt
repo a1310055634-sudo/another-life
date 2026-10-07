@@ -1,0 +1,58 @@
+
+════ 第 101 轮 G5 · compare18 逐局零位移 ════
+全池 282｜V1 基线池 122（排除表现读 196 条，本轮新增 7 条已入表）
+
+── 证据 B（★合同验收口径）：V1 基线池 18 局 ──
+局 0 ordinary/studious/seed11/rotate：年数=60 位移=0
+局 1 ordinary/studious/seed20260917/study_line：年数=60 位移=0
+局 2 ordinary/studious/seed77/civ_line：年数=60 位移=0
+局 3 ordinary/studious/seed5/balanced：年数=59 位移=0
+局 4 ordinary/studious/seed902/survival_best：年数=60 位移=0
+局 5 ordinary/sociable/seed11/family_line_v2：年数=60 位移=0
+局 6 ordinary/sociable/seed20260917/health_aware：年数=60 位移=0
+局 7 ordinary/sociable/seed77/friend_line：年数=60 位移=0
+局 8 ordinary/sociable/seed5/family_line：年数=60 位移=0
+局 9 ordinary/sociable/seed902/study_line：年数=60 位移=0
+局10 ordinary/ambitious/seed11/rotate：年数=60 位移=0
+局11 ordinary/ambitious/seed20260917/study_line：年数=60 位移=0
+局12 ordinary/ambitious/seed77/civ_line：年数=60 位移=0
+局13 ordinary/ambitious/seed5/balanced：年数=55 位移=0
+局14 ordinary/ambitious/seed902/survival_best：年数=56 位移=0
+局15 ordinary/laid_back/seed11/family_line_v2：年数=60 位移=0
+局16 ordinary/laid_back/seed20260917/health_aware：年数=60 位移=0
+局17 ordinary/laid_back/seed77/friend_line：年数=60 位移=0
+  自洽性位移= 0/18｜零位移 ✓
+  V1 池逐年数：60,60,60,59,60,60,60,60,60,60,60,60,60,55,56,60,60,60
+
+── 证据 A：全池口径与 R100 关账档对照（量化扩容影响，非验收口径）──
+  局 0：R100全池=60 R101全池=60 一致 ✓
+  局 1：R100全池=60 R101全池=60 一致 ✓
+  局 2：R100全池=60 R101全池=60 一致 ✓
+  局 3：R100全池=60 R101全池=60 一致 ✓
+  局 4：R100全池=60 R101全池=60 一致 ✓
+  局 5：R100全池=60 R101全池=60 一致 ✓
+  局 6：R100全池=60 R101全池=60 一致 ✓
+  局 7：R100全池=60 R101全池=60 一致 ✓
+  局 8：R100全池=58 R101全池=60 ★位移
+  局 9：R100全池=60 R101全池=60 一致 ✓
+  局10：R100全池=60 R101全池=60 一致 ✓
+  局11：R100全池=60 R101全池=60 一致 ✓
+  局12：R100全池=60 R101全池=60 一致 ✓
+  局13：R100全池=59 R101全池=58 ★位移
+  局14：R100全池=60 R101全池=60 一致 ✓
+  局15：R100全池=60 R101全池=60 一致 ✓
+  局16：R100全池=60 R101全池=60 一致 ✓
+  局17：R100全池=60 R101全池=60 一致 ✓
+  年数一致 16/18｜位移 2/18
+
+── 证据 C：本轮新增 7 条在全池 18 局被抽中次数 ──
+  late_taoli_chair：2 次
+  late_care_home_visit：6 次
+  late_digital_nomad：0 次
+  late_silver_rework：4 次
+  mid_exam_anchor_wait：2 次
+  mid_livestream_works：4 次
+  mid_gig_and_downsizing：4 次
+  合计 22 次
+
+── 年志覆盖：18 局出现 59 条不同氛围行（池 72 条）──

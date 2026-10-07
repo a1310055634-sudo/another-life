@@ -1,0 +1,103 @@
+
+> another-life@0.1.0 test
+> vitest run
+
+
+[1m[7m[36m RUN [39m[27m[22m [36mv2.1.9 [39m[90mD:/vibe coding/another-life[39m
+
+ [32m✓[39m src/engine/events.test.ts [2m([22m[2m39 tests[22m[2m)[22m[90m 57[2mms[22m[39m
+ [32m✓[39m src/engine/children.test.ts [2m([22m[2m26 tests[22m[2m)[22m[90m 72[2mms[22m[39m
+ [32m✓[39m src/engine/relations.test.ts [2m([22m[2m37 tests[22m[2m)[22m[90m 82[2mms[22m[39m
+ [32m✓[39m src/engine/round29.test.ts [2m([22m[2m23 tests[22m[2m)[22m[90m 104[2mms[22m[39m
+ [32m✓[39m src/engine/round28.test.ts [2m([22m[2m28 tests[22m[2m)[22m[90m 154[2mms[22m[39m
+ [32m✓[39m src/engine/causality.test.ts [2m([22m[2m16 tests[22m[2m)[22m[90m 162[2mms[22m[39m
+ [32m✓[39m src/engine/education.test.ts [2m([22m[2m27 tests[22m[2m)[22m[90m 169[2mms[22m[39m
+ [32m✓[39m src/save/storage.test.ts [2m([22m[2m36 tests[22m[2m)[22m[90m 193[2mms[22m[39m
+ [32m✓[39m src/engine/midlife.test.ts [2m([22m[2m35 tests[22m[2m)[22m[90m 228[2mms[22m[39m
+[90mstdout[2m | src/engine/achievements.test.ts[2m > [22m[2m长线模拟：成就真实可达[2m > [22m[2m5 个 seed 各玩 40+ 年：每年至少解锁 1 个成就，解锁 id 全部在册
+[22m[39m成就解锁数（seed 11/22/33/44/55）: 10/10/7/9/11
+
+ [32m✓[39m src/engine/achievements.test.ts [2m([22m[2m44 tests[22m[2m)[22m[90m 291[2mms[22m[39m
+[90mstdout[2m | src/engine/outcomes.test.ts[2m > [22m[2m成就总量核查与全生涯模拟[2m > [22m[2m18 局全生涯模拟（6 开局 × 3 seed）：全部到达终局、无非法状态、结局分布 ≥3 种、成就并集 ≥12 个
+[22m[39m结局分布（18 局）: death_ill×6 debt_shadow×4 gray_dusk×3 legacy_flame×2 labor_worn×2 quiet_life×1
+成就并集：16 个（ach_pet、ach_final_sendoff、ach_pet_forever、ach_first_job、ach_memoir、ach_comeback、ach_full_lifespan、ach_early_wedding、ach_match_made、ach_family、ach_grow_old_together、ach_100k、ach_single_golden、ach_self_made、ach_young_savings、ach_clean_living）
+
+ [32m✓[39m src/engine/outcomes.test.ts [2m([22m[2m13 tests[22m[2m)[22m[33m 356[2mms[22m[39m
+ [32m✓[39m src/engine/relationDecay.test.ts [2m([22m[2m24 tests[22m[2m)[22m[90m 66[2mms[22m[39m
+ [32m✓[39m src/engine/finance.test.ts [2m([22m[2m35 tests[22m[2m)[22m[90m 76[2mms[22m[39m
+[90mstdout[2m | src/engine/youth.test.ts[2m > [22m[2m长线可达性（固定 seed 批量冒烟）[2m > [22m[2m8 个 seed × 3 背景特质玩到 30 岁：17 个新事件至少 12 个真实出现过一次
+[22m[39m[可达性冒烟] 出现 12/17，未自然出现：youth_exchange_quota, youth_study_abroad, youth_exam_winter, youth_overtime_culture, youth_first_project, youth_resign_impulse, youth_college_jobfair, yk_sudden
+
+ [32m✓[39m src/engine/youth.test.ts [2m([22m[2m24 tests[22m[2m)[22m[90m 169[2mms[22m[39m
+ [32m✓[39m src/engine/round30.test.ts [2m([22m[2m12 tests[22m[2m)[22m[90m 181[2mms[22m[39m
+ [32m✓[39m src/engine/income.test.ts [2m([22m[2m22 tests[22m[2m)[22m[90m 43[2mms[22m[39m
+ [32m✓[39m src/engine/health.test.ts [2m([22m[2m21 tests[22m[2m)[22m[90m 49[2mms[22m[39m
+ [32m✓[39m src/engine/round38.test.tsx [2m([22m[2m21 tests[22m[2m)[22m[90m 42[2mms[22m[39m
+ [32m✓[39m src/engine/parentDeath.test.ts [2m([22m[2m25 tests[22m[2m)[22m[90m 75[2mms[22m[39m
+ [32m✓[39m src/engine/round31.test.tsx [2m([22m[2m24 tests[22m[2m)[22m[90m 71[2mms[22m[39m
+ [32m✓[39m src/engine/round37.test.tsx [2m([22m[2m33 tests[22m[2m)[22m[90m 82[2mms[22m[39m
+ [32m✓[39m src/engine/round19.test.ts [2m([22m[2m30 tests[22m[2m)[22m[33m 381[2mms[22m[39m
+ [32m✓[39m src/engine/round42.test.ts [2m([22m[2m17 tests[22m[2m)[22m[90m 89[2mms[22m[39m
+ [32m✓[39m src/engine/mortgage.test.ts [2m([22m[2m25 tests[22m[2m)[22m[90m 60[2mms[22m[39m
+ [32m✓[39m src/engine/lifestyle.test.ts [2m([22m[2m24 tests[22m[2m)[22m[90m 72[2mms[22m[39m
+ [32m✓[39m src/engine/round36.test.tsx [2m([22m[2m16 tests[22m[2m)[22m[90m 218[2mms[22m[39m
+ [32m✓[39m src/engine/creation.test.ts [2m([22m[2m19 tests[22m[2m)[22m[90m 261[2mms[22m[39m
+ [32m✓[39m src/engine/lifecycle.test.ts [2m([22m[2m23 tests[22m[2m)[22m[90m 72[2mms[22m[39m
+ [32m✓[39m src/engine/round44.test.ts [2m([22m[2m12 tests[22m[2m)[22m[90m 54[2mms[22m[39m
+ [32m✓[39m src/engine/civilservice.test.ts [2m([22m[2m11 tests[22m[2m)[22m[90m 136[2mms[22m[39m
+[90mstdout[2m | src/engine/marriage_v5.test.ts[2m > [22m[2m第 91 轮：单身岁月/再婚窗口（A1 续）[2m > [22m[2m单身岁月：仅离异身份可用；再婚窗口：离异+恋人+无配偶可用
+[22m[39mPROBE avail: [33mtrue[39m reason: null tags: ["divorced"] lifeSeen: [33mfalse[39m choices: [33m2[39m
+
+[90mstdout[2m | src/engine/marriage_v5.test.ts[2m > [22m[2m第 91 轮：丁克压制与不婚（A3）[2m > [22m[2mfam_dink：已婚无娃可、有娃/未婚不可；落地授予 dink
+[22m[39mDINK PROBE avail: [33mtrue[39m reason: null requires: {"tagsAll":["married"],"relationKinds":["spouse"],"relationKindsNone":["child"]} relJSON: [{"id":"p1","kind":"spouse","name":"伴侣","closeness":60,"alive":true}]
+
+ [32m✓[39m src/engine/marriage_v5.test.ts [2m([22m[2m11 tests[22m[2m)[22m[90m 131[2mms[22m[39m
+ [32m✓[39m src/engine/round35.test.tsx [2m([22m[2m16 tests[22m[2m)[22m[90m 162[2mms[22m[39m
+ [32m✓[39m src/engine/insurance.test.ts [2m([22m[2m13 tests[22m[2m)[22m[90m 102[2mms[22m[39m
+ [32m✓[39m src/engine/round49.test.ts [2m([22m[2m9 tests[22m[2m)[22m[90m 43[2mms[22m[39m
+ [32m✓[39m src/engine/round43.test.ts [2m([22m[2m10 tests[22m[2m)[22m[90m 51[2mms[22m[39m
+ [32m✓[39m src/engine/fund.test.ts [2m([22m[2m11 tests[22m[2m)[22m[90m 188[2mms[22m[39m
+ [32m✓[39m src/engine/session.test.ts [2m([22m[2m13 tests[22m[2m)[22m[33m 463[2mms[22m[39m
+ [32m✓[39m src/engine/v5edu.test.ts [2m([22m[2m9 tests[22m[2m)[22m[90m 150[2mms[22m[39m
+ [32m✓[39m src/engine/round64.test.ts [2m([22m[2m6 tests[22m[2m)[22m[90m 40[2mms[22m[39m
+ [32m✓[39m src/engine/home.test.ts [2m([22m[2m13 tests[22m[2m)[22m[90m 137[2mms[22m[39m
+ [32m✓[39m src/engine/fame.test.ts [2m([22m[2m8 tests[22m[2m)[22m[90m 136[2mms[22m[39m
+ [32m✓[39m src/engine/bloodline.test.ts [2m([22m[2m6 tests[22m[2m)[22m[90m 49[2mms[22m[39m
+ [32m✓[39m src/engine/siblings.test.ts [2m([22m[2m10 tests[22m[2m)[22m[90m 47[2mms[22m[39m
+ [32m✓[39m src/engine/city.test.ts [2m([22m[2m10 tests[22m[2m)[22m[90m 118[2mms[22m[39m
+ [32m✓[39m src/engine/round47.test.ts [2m([22m[2m6 tests[22m[2m)[22m[90m 146[2mms[22m[39m
+ [32m✓[39m src/engine/round33.test.tsx [2m([22m[2m13 tests[22m[2m)[22m[90m 54[2mms[22m[39m
+ [32m✓[39m src/engine/round50.test.ts [2m([22m[2m10 tests[22m[2m)[22m[90m 39[2mms[22m[39m
+ [32m✓[39m src/engine/pets.test.ts [2m([22m[2m8 tests[22m[2m)[22m[90m 54[2mms[22m[39m
+ [32m✓[39m src/engine/round83.test.ts [2m([22m[2m10 tests[22m[2m)[22m[90m 43[2mms[22m[39m
+ [32m✓[39m src/engine/round66.test.ts [2m([22m[2m9 tests[22m[2m)[22m[90m 49[2mms[22m[39m
+ [32m✓[39m src/engine/round67.test.ts [2m([22m[2m8 tests[22m[2m)[22m[90m 51[2mms[22m[39m
+ [32m✓[39m src/legacy.test.tsx [2m([22m[2m8 tests[22m[2m)[22m[90m 53[2mms[22m[39m
+ [32m✓[39m src/engine/round34.test.tsx [2m([22m[2m11 tests[22m[2m)[22m[90m 8[2mms[22m[39m
+ [32m✓[39m src/engine/midcareer.test.ts [2m([22m[2m8 tests[22m[2m)[22m[90m 146[2mms[22m[39m
+ [32m✓[39m src/engine/init.test.ts [2m([22m[2m17 tests[22m[2m)[22m[90m 30[2mms[22m[39m
+ [32m✓[39m src/engine/round68.test.ts [2m([22m[2m8 tests[22m[2m)[22m[90m 54[2mms[22m[39m
+ [32m✓[39m src/engine/round72.test.ts [2m([22m[2m7 tests[22m[2m)[22m[90m 22[2mms[22m[39m
+ [32m✓[39m src/engine/round46.test.ts [2m([22m[2m6 tests[22m[2m)[22m[90m 35[2mms[22m[39m
+ [32m✓[39m src/engine/round63.test.ts [2m([22m[2m5 tests[22m[2m)[22m[90m 19[2mms[22m[39m
+ [32m✓[39m src/engine/round39.test.ts [2m([22m[2m8 tests[22m[2m)[22m[90m 11[2mms[22m[39m
+ [32m✓[39m src/engine/round56.test.tsx [2m([22m[2m7 tests[22m[2m)[22m[90m 26[2mms[22m[39m
+ [32m✓[39m src/engine/snapshots.test.ts [2m([22m[2m7 tests[22m[2m)[22m[90m 108[2mms[22m[39m
+ [32m✓[39m src/engine/round54.test.tsx [2m([22m[2m5 tests[22m[2m)[22m[90m 13[2mms[22m[39m
+ [32m✓[39m src/engine/round45.test.ts [2m([22m[2m4 tests[22m[2m)[22m[90m 26[2mms[22m[39m
+ [32m✓[39m src/engine/round82.test.ts [2m([22m[2m5 tests[22m[2m)[22m[90m 37[2mms[22m[39m
+ [32m✓[39m src/engine/round62.test.ts [2m([22m[2m4 tests[22m[2m)[22m[90m 16[2mms[22m[39m
+ [32m✓[39m src/smoke.test.ts [2m([22m[2m1 test[22m[2m)[22m[90m 3[2mms[22m[39m
+ [32m✓[39m src/engine/round71.test.ts [2m([22m[2m5 tests[22m[2m)[22m[90m 45[2mms[22m[39m
+
+[31m⎯⎯⎯⎯⎯⎯[1m[7m Unhandled Errors [27m[22m⎯⎯⎯⎯⎯⎯[39m
+[31m[1m
+Vitest caught 2 unhandled errors during the test run.
+This might cause false positive tests. Resolve unhandled errors to make sure your tests are not affected.[22m[39m
+[31m⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[39m
+[2m Test Files [22m [1m[32m68 passed[39m[22m[90m (68)[39m
+[2m      Tests [22m [1m[32m1067 passed[39m[22m[90m (1067)[39m
+[2m     Errors [22m [1m[31m2 errors[39m[22m
+[2m   Start at [22m 12:15:50
+[2m   Duration [22m 8.44s[2m (transform 2.68s, setup 0ms, collect 26.31s, tests 6.97s, environment 18ms, prepare 13.73s)[22m
+

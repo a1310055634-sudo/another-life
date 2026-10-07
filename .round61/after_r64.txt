@@ -1,0 +1,134 @@
+[策略V2 自检] 9/9 PASS
+=== 第 61 轮千局平衡模拟（池=new）：400 局（session 真实路径；A 轮换 120×8 策略 / B rotate 120 / C random 60 / F family_line_v2 100）===
+
+[结局分布·全部] debt_shadow×124 death_ill×116 legacy_flame×47 gray_dusk×37 comeback×33 labor_worn×18 quiet_life×16 solitude_rich×3 wealth_free×3 family_hearth×3
+[等级分布] A×42 B×16 C×55 D×240 S×47
+[终龄] min=50 max=77 平均=74.0
+[保底] 事件抽取 22385 次，保底 0 次（0.0%）
+[人生结构] 结婚率 32.5% · 有娃率 9.5% · 房贷经历率 6.3%
+
+[B 段·机器人策略结局分布] death_ill×42 comeback×24 gray_dusk×23 debt_shadow×13 legacy_flame×6 quiet_life×5 labor_worn×4 wealth_free×2 family_hearth×1
+[B 段债务结局占比] 10.8%（V1 遗留基准 48%）
+
+[F 段·family_line 专项 100 局] 结婚率 52.0%（机器人混合对照见人生结构行）· 结局 debt_shadow×49 legacy_flame×20 death_ill×15 labor_worn×8 comeback×3 quiet_life×3 gray_dusk×1 solitude_rich×1
+
+[成就解锁率]（46 枚全表，稀有度终校准素材）
+  ach_100k                  229 局（57.3%）[common]
+  ach_chronic_lived          64 局（16.0%）[common]
+  ach_city_rooted           106 局（26.5%）[rare]
+  ach_clean_living          101 局（25.3%）[epic]
+  ach_comeback               23 局（5.8%）[rare]
+  ach_debt_free             220 局（55.0%）[rare]
+  ach_dream_kept             25 局（6.3%）[rare]
+  ach_dream_lived            17 局（4.3%）[epic]
+  ach_dream_passed_on        23 局（5.8%）[epic]
+  ach_dream_trilogy           4 局（1.0%）[epic]
+  ach_early_wedding          32 局（8.0%）[rare]
+  ach_fallen_and_risen        2 局（0.5%）[rare]
+  ach_family                 38 局（9.5%）[rare]
+  ach_final_sendoff         400 局（100.0%）[common]
+  ach_first_degree            3 局（0.8%）[common]
+  ach_first_job             189 局（47.3%）[common]
+  ach_full_lifespan         289 局（72.3%）[common]
+  ach_grandparent             0 局（0.0%）[rare]
+  ach_grandparent_time       34 局（8.5%）[epic]
+  ach_grow_old_together     128 局（32.0%）[rare]
+  ach_health_comeback         2 局（0.5%）[epic]
+  ach_independent            13 局（3.3%）[common]
+  ach_iron_body             124 局（31.0%）[rare]
+  ach_landlord                8 局（2.0%）[rare]
+  ach_match_made             74 局（18.5%）[rare]
+  ach_memoir                165 局（41.3%）[rare]
+  ach_mid_pivot               2 局（0.5%）[epic]
+  ach_million_home           19 局（4.8%）[legendary]
+  ach_mortgage_cleared       25 局（6.3%）[rare]
+  ach_next_door             304 局（76.0%）[common]
+  ach_old_friend              0 局（0.0%）[rare]
+  ach_pet                   119 局（29.8%）[common]
+  ach_phd                     1 局（0.3%）[epic]
+  ach_pillar                 20 局（5.0%）[epic]
+  ach_quit_smoking            2 局（0.5%）[rare]
+  ach_reborn                  0 局（0.0%）[epic]
+  ach_reunion                 0 局（0.0%）[rare]
+  ach_self_made              10 局（2.5%）[rare]
+  ach_senior_level           16 局（4.0%）[common]
+  ach_silver_mentor           7 局（1.8%）[rare]
+  ach_single_golden          20 局（5.0%）[epic]
+  ach_three_generations      37 局（9.3%）[rare]
+  ach_top_level              16 局（4.0%）[epic]
+  ach_torch_passed            5 局（1.3%）[rare]
+  ach_warm_home               3 局（0.8%）[rare]
+  ach_young_savings          20 局（5.0%）[rare]
+
+[父母/搭伴去世覆盖] 经历送别局数 400（100.0%）· 人均送别 2.08 次
+[慢病覆盖] 确诊局 73（18.3%）· 其中存活到 72+（带病延年达标）64 局
+
+[卡死局数] 0
+[NaN/越界局数] 0
+[单选违规] 无
+[once 违规] 无
+
+[V2 新事件触发率]（出现该事件的真实局数 / 400 局）
+  hlt_drink_toast             76 局（19.0%）抽取 76 次
+  hlt_desk_years             146 局（36.5%）抽取 146 次
+  hlt_checkup_mild_flags     129 局（32.3%）抽取 129 次
+  hlt_checkup_red_flags       89 局（22.3%）抽取 89 次
+  hlt_chronic_onset           73 局（18.3%）抽取 73 次
+  rel_friend_checkin          84 局（21.0%）抽取 84 次
+  rel_parent_greeting        298 局（74.5%）抽取 298 次
+  rel_anniversary             87 局（21.8%）抽取 87 次
+  rel_parent_frail           247 局（61.8%）抽取 247 次
+  fam_child_junior            38 局（9.5%）抽取 38 次
+  fam_child_senior            34 局（8.5%）抽取 34 次
+  fam_child_gaokao            37 局（9.3%）抽取 37 次
+  fam_child_first_job         38 局（9.5%）抽取 38 次
+  fam_child_wedding           38 局（9.5%）抽取 38 次
+  fam_grandchild              37 局（9.3%）抽取 37 次
+  youth_livehouse             85 局（21.3%）抽取 85 次
+  mid_nav_memory             136 局（34.0%）抽取 136 次
+  late_group_rumor            94 局（23.5%）抽取 94 次
+  mid_young_boss              36 局（9.0%）抽取 36 次
+  mid_industry_collapse       30 局（7.5%）抽取 30 次
+  mid_second_child            14 局（3.5%）抽取 14 次
+  mid_sandwich                 7 局（1.8%）抽取 7 次
+  mid_partner_career_gap      33 局（8.3%）抽取 33 次
+  mid_friend_fallout          40 局（10.0%）抽取 40 次
+  mid_budget_downgrade         1 局（0.3%）抽取 1 次
+  mid_reunion_compare        133 局（33.3%）抽取 133 次
+  late_smartphone            108 局（27.0%）抽取 108 次
+  late_friends_fade           93 局（23.3%）抽取 93 次
+  late_will                   93 局（23.3%）抽取 93 次
+  late_late_companion         10 局（2.5%）抽取 10 次
+  late_grand_rules             3 局（0.8%）抽取 3 次
+  late_farewell_preparation  298 局（74.5%）抽取 298 次
+  late_volunteer_lead         97 局（24.3%）抽取 97 次
+  late_story_grandchild        0 局（0.0%）抽取 0 次
+  late_senior_college        112 局（28.0%）抽取 112 次
+  rel_parent_critical        400 局（100.0%）抽取 400 次
+  rel_parent_deathbed        383 局（95.8%）抽取 383 次
+  rel_parent_funeral         399 局（99.8%）抽取 399 次
+  rel_parent_memorial        377 局（94.3%）抽取 377 次
+  rel_parent_relics          156 局（39.0%）抽取 156 次
+  rel_parent_last_one        383 局（95.8%）抽取 383 次
+  hlt_chronic_checkup         70 局（17.5%）抽取 70 次
+  hlt_chronic_flare           72 局（18.0%）抽取 72 次
+  fam_grandchild_time         34 局（8.5%）抽取 34 次
+  rel_old_flame               53 局（13.3%）抽取 53 次
+  rel_colleague_crush         13 局（3.3%）抽取 13 次
+  rel_hobby_club              68 局（17.0%）抽取 68 次
+  rel_app_match              116 局（29.0%）抽取 116 次
+  late_morning_walk          371 局（92.8%）抽取 371 次
+  late_teeth                 341 局（85.3%）抽取 341 次
+  late_old_letter             48 局（12.0%）抽取 48 次
+  late_neighbor_watch        351 局（87.8%）抽取 351 次
+  late_cheap_eats             41 局（10.3%）抽取 41 次
+  late_solo_birthday          37 局（9.3%）抽取 37 次
+  late_balcony_plants         56 局（14.0%）抽取 56 次
+  late_old_radio              74 局（18.5%）抽取 74 次
+  edu_exam_prep               47 局（11.8%）抽取 47 次
+  edu_admit_master             1 局（0.3%）抽取 1 次
+  edu_degree_payoff            1 局（0.3%）抽取 1 次
+
+[零触发 V2 事件] late_story_grandchild
+[V1 婚恋链抽取次数] youth_crush=155 rel_blind_date=81 rel_partner_low=160 rel_quarrel_coldwar=129 rel_propose=148 rel_child_question=46 · 求婚资格年=1566
+[结局种类数] 10（要求 ≥8）

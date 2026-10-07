@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "current_round": 126,
+  "round_status": "completed",
+  "last_completed_round": 126,
+  "attempts_on_current_round": 1,
+  "last_verification": "第 126 轮《千局 V7 终校+挂账清偿+全量交付》关账（2026-10-06，V7 收官轮，跨触发分段 2/2）——第一段[千局 1060 局零异常+观察清单+band 清偿 persona weight 14→2（47.9%→7.3% 落 5-10% 带✓，剔除方案 0% 被否两轮对照定案）+稀有度零标签裁决+工程项 5/6 闭环+widow priority=1 裁决落地（round29 两断言同步 23/23）]；第二段[check_all quick/full 分档（quick 5/5 PASS 20s 实测+full 18/18 PASS 4m15s 实测，默认 full 不变）+SPEC §10f《V7 交付总览》15 轮对照表+README V7 重写（349 事件/66 成就/V7 玩法 14 条/1337 测试）+终局三件套复跑 1337/1337+build 703,888 字节自包含]。band 如实登记移交 V8：离婚 0.2%/上岸 2.3% 结构性不硬调；九枚双标记交点 0 抽；pillar/dream_lived 波动。18 局豁免权未动用（数值变更全在排除表事件，结构性零位移）。V5+V6+V7 累计 126 轮全部收官：池 122→349、测试 485→1337、成就 31→66、结局 13→16、存储键 6。V8 须用户新立任务书；此后定时触发读到 126/completed 只输出 V7 完成状态报告、零写入收工。"
+}

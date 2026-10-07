@@ -1,0 +1,300 @@
+[策略V2 自检] 9/9 PASS
+[策略V3 自检] 20/20 PASS
+=== 第 103 轮千局平衡模拟（池=new）：1060 局（session 真实路径；A 轮换 300×9 策略 / B rotate 300 / C random 120 / F family_line_v2 100 / G civ_line 60 / H career_civil 60 / I investor 60 / J action_balanced 60）===
+
+[结局分布·全部] death_ill×239 debt_shadow×223 legacy_flame×185 labor_worn×114 comeback×113 gray_dusk×89 quiet_life×57 philanthropist×15 solitude_rich×13 hermit×5 dream_lived×3 family_hearth×2 wealth_free×2
+[等级分布] A×150 B×57 C×203 D×462 S×188
+[终龄] min=51 max=77 平均=74.8
+[保底] 事件抽取 60232 次，保底 0 次（0.0%）
+[人生结构] 结婚率 14.0% · 有娃率 2.0% · 房贷经历率 2.7%
+
+[B 段·机器人策略结局分布] death_ill×111 comeback×61 gray_dusk×51 debt_shadow×25 labor_worn×17 quiet_life×13 legacy_flame×10 philanthropist×7 solitude_rich×3 wealth_free×2
+[B 段债务结局占比] 8.3%（V1 遗留基准 48%）
+
+[第 103 轮 A3 · V5 新基线观察清单（池=new，1060 局）]
+  上岸率（civil_servant）      0.2%  合理带 5–15%（R104 终校对标）
+  投资参与率（fund 在册）     11.6%  R104 终校对标
+  购房率（homeowner）          13.7%  R104 终校对标
+  离婚率（divorced）           0.0%  合理带 5–12%
+  留学率（overseas/studied）   0.0%  合理带 2–6%
+  走红率（fame_* 标记）        0.8%  合理带 4–10%
+  投保率（保单在册 insurance）  7.3%  R104 标定（R104 订正量测口径，旧判据恒假零）
+  行动采纳率（履历含 action）  5.7%  R104 终校对标
+  行动总次数 / 有行动局均次数 3534 次 / 58.9 次
+  资产分布 money p10/p50/p90   -737174 / 16838 / 760393
+  贫富差距 p90/p50            45.2 倍  合理带 8–20 倍
+  结局种类数                  13 种  合理带 ≥8（R104 核 16 种全现）
+  备考标记残留（civil_exam_prep）275 局
+  ── 分段资产分位（定位 p90 来源）──
+    段 A（300 局）p10/p50/p90 = -750659 / 30740 / 656378  差距 21.4 倍
+    段 B（300 局）p10/p50/p90 = -773281 / 108936 / 1116083  差距 10.2 倍
+    段 C（120 局）p10/p50/p90 = -1010823 / -141347 / 824874  差距 -5.8 倍
+    段 F（100 局）p10/p50/p90 = -688779 / 15304 / 185772  差距 12.1 倍
+    段 G（60 局）p10/p50/p90 = -648289 / 12983 / 180878  差距 13.9 倍
+    段 H（60 局）p10/p50/p90 = -349142 / 18385 / 160961  差距 8.8 倍
+    段 I（60 局）p10/p50/p90 = -448784 / 8862 / 117436  差距 13.3 倍
+    段 J（60 局）p10/p50/p90 = -769911 / 15623 / 117703  差距 7.5 倍
+  传承资格局占比（终局现金>0） 59.3%  R104 标定
+  大病返贫率（慢病∧负债）      13.8%  其中慢病局 374（35.3%）
+  终龄 p10/p50/p90            67 / 77 / 77  min=51 max=77 均值=74.8
+  幸福 p10/p50/p90            0 / 37 / 80  均值=36.9
+  ── A4 结局全现核查：13/16 种出现，缺 3 种 ──
+    ▸ death_young
+      原子·终局 age<40：0 局（0.0%）
+      原子·health≤0：239 局
+      归因：健康归零在 40 岁前——晚年代漂移使 health 缓降，早逝窗口极窄
+    ▸ pillar
+      原子·cared_for_parents：511 局
+      原子·has_child：21 局
+      原子·money≥0：629 局
+      原子·happiness≥40：469 局
+      合取·照护∧有娃：12 局 → 再 ∧money≥0 ∧happiness≥40：1 局
+      归因：四项合取，瓶颈在 has_child（有娃率 2.0%）——前置婚姻链的概率决定
+    ▸ renowned
+      原子·minor_fame：9 局
+      原子·fame 标记全集：9 局
+      原子·成就≥4：1011 局
+      原子·money≥0：629 局
+      合取·fame标记 ∧成就≥4：9 局 → 再 ∧money≥0：2 局
+      有 fame 标记的 9 局，其成就数 min/中位/max = 6/7/12
+      其中 money≥0：2 局 · 结局分布：debt_shadow×6 legacy_flame×2 death_ill×1
+      归因：fame 标记本身仅 9 局（0.8%，合理带 4–10%），前置就稀；
+            且其中仅 2 局终局现金≥0（其余落 debt_shadow/death_ill）——
+            三条件全部满足的 2 局最终仍被更高优先级的结局（debt_shadow 等）截胡，合取与优先级双重收窄
+
+[F 段·family_line 专项 100 局] 结婚率 24.0%（机器人混合对照见人生结构行）· 结局 debt_shadow×25 labor_worn×25 legacy_flame×19 death_ill×13 quiet_life×8 comeback×8 philanthropist×1 dream_lived×1
+
+[成就解锁率]（全表，稀有度终校准素材；R104 订正过期的「46 枚」标签，实测行数=50）
+  ach_100k                  563 局（53.1%）[common]
+  ach_burnout_resilience    108 局（10.2%）[rare]
+  ach_chronic_lived         344 局（32.5%）[common]
+  ach_city_rooted           227 局（21.4%）[rare]
+  ach_civil_anchor            2 局（0.2%）[rare]
+  ach_claim_paid            129 局（12.2%）[rare]
+  ach_clean_living          272 局（25.7%）[epic]
+  ach_comeback               61 局（5.8%）[rare]
+  ach_debt_free             720 局（67.9%）[rare]
+  ach_dink_life              22 局（2.1%）[rare]
+  ach_dream_kept             22 局（2.1%）[rare]
+  ach_dream_lived            14 局（1.3%）[epic]
+  ach_dream_passed_on        34 局（3.2%）[epic]
+  ach_dream_trilogy           0 局（0.0%）[epic]
+  ach_early_wedding          70 局（6.6%）[rare]
+  ach_fallen_and_risen        0 局（0.0%）[rare]
+  ach_family                 21 局（2.0%）[rare]
+  ach_final_sendoff        1056 局（99.6%）[common]
+  ach_first_degree           13 局（1.2%）[rare]
+  ach_first_job             427 局（40.3%）[common]
+  ach_full_lifespan         837 局（79.0%）[common]
+  ach_grad_studies            6 局（0.6%）[rare]
+  ach_grandparent             0 局（0.0%）[rare]
+  ach_grandparent_time       18 局（1.7%）[epic]
+  ach_grow_old_together     147 局（13.9%）[rare]
+  ach_health_comeback         2 局（0.2%）[epic]
+  ach_home_kept              29 局（2.7%）[rare]
+  ach_independent            20 局（1.9%）[common]
+  ach_iron_body             468 局（44.2%）[rare]
+  ach_landlord               31 局（2.9%）[rare]
+  ach_marriage_mended         4 局（0.4%）[rare]
+  ach_match_made             62 局（5.8%）[rare]
+  ach_memoir                442 局（41.7%）[rare]
+  ach_mid_pivot               1 局（0.1%）[epic]
+  ach_million_home           58 局（5.5%）[legendary]
+  ach_monetized_fame          1 局（0.1%）[epic]
+  ach_mortgage_cleared       29 局（2.7%）[rare]
+  ach_next_door             797 局（75.2%）[common]
+  ach_old_friend              0 局（0.0%）[rare]
+  ach_pet                   299 局（28.2%）[common]
+  ach_pet_forever           295 局（27.8%）[rare]
+  ach_phd                     0 局（0.0%）[epic]
+  ach_pillar                 10 局（0.9%）[epic]
+  ach_quit_smoking            1 局（0.1%）[rare]
+  ach_reborn                  1 局（0.1%）[epic]
+  ach_rebuilt_after_divorce    0 局（0.0%）[epic]
+  ach_returnee_studied        2 局（0.2%）[epic]
+  ach_reunion                 0 局（0.0%）[rare]
+  ach_self_made              23 局（2.2%）[rare]
+  ach_senior_level           31 局（2.9%）[common]
+  ach_sibling_bond            0 局（0.0%）[rare]
+  ach_silver_mentor           5 局（0.5%）[rare]
+  ach_single_golden         100 局（9.4%）[epic]
+  ach_soul_buddy              0 局（0.0%）[epic]
+  ach_three_generations      20 局（1.9%）[rare]
+  ach_top_level              30 局（2.8%）[epic]
+  ach_torch_passed            4 局（0.4%）[rare]
+  ach_warm_home               2 局（0.2%）[rare]
+  ach_young_savings          69 局（6.5%）[rare]
+
+[父母/搭伴去世覆盖] 经历送别局数 1056（99.6%）· 人均送别 2.37 次
+[慢病覆盖] 确诊局 374（35.3%）· 其中存活到 72+（带病延年达标）344 局
+
+[卡死局数] 0
+[NaN/越界局数] 0
+[单选违规] 无
+[once 违规] 无
+
+[V2 新事件触发率]（出现该事件的真实局数 / 1060 局）
+  hlt_drink_toast            387 局（36.5%）抽取 387 次
+  hlt_desk_years             450 局（42.5%）抽取 450 次
+  hlt_checkup_mild_flags     458 局（43.2%）抽取 458 次
+  hlt_checkup_red_flags      385 局（36.3%）抽取 385 次
+  hlt_chronic_onset          374 局（35.3%）抽取 374 次
+  rel_friend_checkin         198 局（18.7%）抽取 198 次
+  rel_parent_greeting        643 局（60.7%）抽取 643 次
+  rel_anniversary             91 局（8.6%）抽取 91 次
+  rel_parent_frail           428 局（40.4%）抽取 428 次
+  fam_child_junior            20 局（1.9%）抽取 20 次
+  fam_child_senior            21 局（2.0%）抽取 21 次
+  fam_child_gaokao            21 局（2.0%）抽取 21 次
+  fam_child_first_job         20 局（1.9%）抽取 20 次
+  fam_child_wedding           19 局（1.8%）抽取 19 次
+  fam_grandchild              19 局（1.8%）抽取 19 次
+  youth_livehouse            443 局（41.8%）抽取 443 次
+  mid_nav_memory             249 局（23.5%）抽取 249 次
+  late_group_rumor           202 局（19.1%）抽取 202 次
+  mid_young_boss              30 局（2.8%）抽取 30 次
+  mid_industry_collapse       33 局（3.1%）抽取 33 次
+  mid_second_child             0 局（0.0%）抽取 0 次
+  mid_sandwich                 2 局（0.2%）抽取 2 次
+  mid_partner_career_gap       7 局（0.7%）抽取 7 次
+  mid_friend_fallout          47 局（4.4%）抽取 47 次
+  mid_budget_downgrade         0 局（0.0%）抽取 0 次
+  mid_reunion_compare        196 局（18.5%）抽取 196 次
+  late_smartphone            181 局（17.1%）抽取 181 次
+  late_friends_fade          188 局（17.7%）抽取 188 次
+  late_will                  126 局（11.9%）抽取 126 次
+  late_late_companion         38 局（3.6%）抽取 38 次
+  late_grand_rules             2 局（0.2%）抽取 2 次
+  late_farewell_preparation  805 局（75.9%）抽取 805 次
+  late_volunteer_lead        165 局（15.6%）抽取 165 次
+  late_story_grandchild        0 局（0.0%）抽取 0 次
+  late_senior_college        249 局（23.5%）抽取 249 次
+  rel_parent_critical        1056 局（99.6%）抽取 1056 次
+  rel_parent_deathbed        1025 局（96.7%）抽取 1025 次
+  rel_parent_funeral         1055 局（99.5%）抽取 1055 次
+  rel_parent_memorial        965 局（91.0%）抽取 965 次
+  rel_parent_relics          256 局（24.2%）抽取 256 次
+  rel_parent_last_one        1035 局（97.6%）抽取 1035 次
+  hlt_chronic_checkup        352 局（33.2%）抽取 352 次
+  hlt_chronic_flare          368 局（34.7%）抽取 368 次
+  fam_grandchild_time         18 局（1.7%）抽取 18 次
+  rel_old_flame              141 局（13.3%）抽取 141 次
+  rel_colleague_crush         44 局（4.2%）抽取 44 次
+  rel_hobby_club             146 局（13.8%）抽取 146 次
+  rel_app_match              226 局（21.3%）抽取 226 次
+  late_morning_walk          1022 局（96.4%）抽取 1022 次
+  late_teeth                 940 局（88.7%）抽取 940 次
+  late_old_letter             95 局（9.0%）抽取 95 次
+  late_neighbor_watch        955 局（90.1%）抽取 955 次
+  late_cheap_eats            101 局（9.5%）抽取 101 次
+  late_solo_birthday          71 局（6.7%）抽取 71 次
+  late_balcony_plants        114 局（10.8%）抽取 114 次
+  late_old_radio              41 局（3.9%）抽取 41 次
+  edu_exam_prep               93 局（8.8%）抽取 93 次
+  edu_admit_master             1 局（0.1%）抽取 1 次
+  edu_degree_payoff            0 局（0.0%）抽取 0 次
+  sib_loan                   176 局（16.6%）抽取 176 次
+  sib_venture                 52 局（4.9%）抽取 52 次
+  sib_care_split              91 局（8.6%）抽取 91 次
+  sib_inheritance            385 局（36.3%）抽取 385 次
+  sib_fallout_reconcile      157 局（14.8%）抽取 157 次
+  sib_reunion                  7 局（0.7%）抽取 7 次
+  sib_old_companion           97 局（9.2%）抽取 97 次
+  sib_memorial               121 局（11.4%）抽取 121 次
+  frd_late_talk               40 局（3.8%）抽取 40 次
+  frd_bestman                 57 局（5.4%）抽取 57 次
+  frd_cross_city             163 局（15.4%）抽取 163 次
+  frd_quarrel_reconcile      134 局（12.6%）抽取 134 次
+  mar_seven_year              44 局（4.2%）抽取 44 次
+  mar_cold_war                50 局（4.7%）抽取 50 次
+  mar_distance                11 局（1.0%）抽取 11 次
+  mar_repair_trip              2 局（0.2%）抽取 2 次
+  mar_counseling               2 局（0.2%）抽取 2 次
+  mid_burnout_onset          198 局（18.7%）抽取 198 次
+  mid_burnout_insomnia        77 局（7.3%）抽取 77 次
+  mid_burnout_slump            1 局（0.1%）抽取 1 次
+  mid_burnout_therapy          9 局（0.8%）抽取 9 次
+  mid_burnout_sabbatical       1 局（0.1%）抽取 1 次
+  late_burnout_rekindle        7 局（0.7%）抽取 7 次
+  pet_vet_visit               46 局（4.3%）抽取 46 次
+  pet_companion               13 局（1.2%）抽取 13 次
+  pet_aging_care              32 局（3.0%）抽取 32 次
+  pet_farewell_choice        265 局（25.0%）抽取 265 次
+  youth_takeout_shelf         74 局（7.0%）抽取 74 次
+  mid_livestream_cart        147 局（13.9%）抽取 147 次
+  mid_rideshare_story        135 局（12.7%）抽取 135 次
+  late_family_group_rumor     98 局（9.2%）抽取 98 次
+  late_teach_ride_hailing     81 局（7.6%）抽取 81 次
+  late_old_phone_decade       74 局（7.0%）抽取 74 次
+  ins_buy_young              446 局（42.1%）抽取 446 次
+  ins_buy_mid                297 局（28.0%）抽取 297 次
+  ins_declined               159 局（15.0%）抽取 159 次
+  hlt_major_surgery          129 局（12.2%）抽取 129 次
+  home_living                 13 局（1.2%）抽取 13 次
+  home_sell_forced            17 局（1.6%）抽取 17 次
+  fin_fund_start             441 局（41.6%）抽取 441 次
+  fin_fund_take_profit        16 局（1.5%）抽取 16 次
+  fin_fund_cut_loss           12 局（1.1%）抽取 12 次
+  civ_exam_prep              278 局（26.2%）抽取 278 次
+  civ_exam                    46 局（4.3%）抽取 46 次
+  civ_office_politics          1 局（0.1%）抽取 1 次
+  civ_secondment               0 局（0.0%）抽取 0 次
+  civ_ceiling                  1 局（0.1%）抽取 1 次
+  mc_layoff                   50 局（4.7%）抽取 50 次
+  mc_bench                    68 局（6.4%）抽取 68 次
+  mc_resume                   34 局（3.2%）抽取 34 次
+  mc_free_lance               37 局（3.5%）抽取 37 次
+  mc_moat                      0 局（0.0%）抽取 0 次
+  city_graduate_run           50 局（4.7%）抽取 50 次
+  city_drift_tired             2 局（0.2%）抽取 2 次
+  city_province_hq           272 局（25.7%）抽取 272 次
+  city_return_retire           0 局（0.0%）抽取 0 次
+  div_sign_papers              0 局（0.0%）抽取 0 次
+  div_single_life              0 局（0.0%）抽取 0 次
+  div_remarry                  0 局（0.0%）抽取 0 次
+  fam_dink                     7 局（0.7%）抽取 7 次
+  life_childfree             150 局（14.2%）抽取 150 次
+  ab_choice                    3 局（0.3%）抽取 3 次
+  ab_study                     0 局（0.0%）抽取 0 次
+  ab_job_hunt                  0 局（0.0%）抽取 0 次
+  ab_gap                       0 局（0.0%）抽取 0 次
+  voc_night_school           137 局（12.9%）抽取 137 次
+  voc_craft_master             0 局（0.0%）抽取 0 次
+  fame_start                 540 局（50.9%）抽取 540 次
+  fame_update                136 局（12.8%）抽取 136 次
+  fame_viral                  16 局（1.5%）抽取 16 次
+  fame_cash                    0 局（0.0%）抽取 0 次
+  fame_hate                    0 局（0.0%）抽取 0 次
+  yk_sudden                    0 局（0.0%）抽取 0 次
+  late_donation               39 局（3.7%）抽取 39 次
+  late_taoli_chair            14 局（1.3%）抽取 14 次
+  late_care_home_visit        19 局（1.8%）抽取 19 次
+  late_digital_nomad          22 局（2.1%）抽取 22 次
+  late_silver_rework          15 局（1.4%）抽取 15 次
+  mid_exam_anchor_wait       140 局（13.2%）抽取 140 次
+  mid_livestream_works       146 局（13.8%）抽取 146 次
+  mid_gig_and_downsizing     151 局（14.2%）抽取 151 次
+  mar_money_talk              64 局（6.0%）抽取 64 次
+  mar_new_year_side           53 局（5.0%）抽取 53 次
+  mar_handwritten_letter      43 局（4.1%）抽取 43 次
+  frd_generation_friend      101 局（9.5%）抽取 101 次
+  frd_care_watch             125 局（11.8%）抽取 125 次
+  pet_major_care             298 局（28.1%）抽取 298 次
+  pet_family_dispute          56 局（5.3%）抽取 56 次
+  par_remarry                191 局（18.0%）抽取 191 次
+  par_roles_reverse          150 局（14.2%）抽取 150 次
+  late_half_retire           194 局（18.3%）抽取 194 次
+  late_chronic_routine       176 局（16.6%）抽取 176 次
+  late_elevator_wait         119 局（11.2%）抽取 119 次
+  late_repair_thing           65 局（6.1%）抽取 65 次
+  late_peer_gap               81 局（7.6%）抽取 81 次
+  late_hearing_aid            93 局（8.8%）抽取 93 次
+  late_friend_funeral          6 局（0.6%）抽取 6 次
+  late_kid_faraway             0 局（0.0%）抽取 0 次
+  late_body_shake             99 局（9.3%）抽取 99 次
+  mid_empty_day              101 局（9.5%）抽取 101 次
+  mid_handover_year           91 局（8.6%）抽取 91 次
+
+[零触发 V2 事件] mid_second_child、mid_budget_downgrade、late_story_grandchild、edu_degree_payoff、civ_secondment、mc_moat、city_return_retire、div_sign_papers、div_single_life、div_remarry、ab_study、ab_job_hunt、ab_gap、voc_craft_master、fame_cash、fame_hate、yk_sudden、late_kid_faraway
+[V1 婚恋链抽取次数] youth_crush=375 rel_blind_date=233 rel_partner_low=235 rel_quarrel_coldwar=206 rel_propose=163 rel_child_question=38 · 求婚资格年=4146
+[结局种类数] 13（要求 ≥8）
