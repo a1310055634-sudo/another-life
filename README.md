@@ -47,6 +47,12 @@
   - **千局终校与清偿**（性格授予率 47.9%→7.3% 落带；稀有度全表裁决；§10e 工程项闭环；丧偶首年 priority=1 裁决落地）
 - 完整规格见 [SPEC.md](SPEC.md)，逐轮开发记录见 [PROGRESS.md](PROGRESS.md)
 
+## 在线游玩
+
+**https://a1310055634-sudo.github.io/another-life/**
+
+GitHub Pages 自动部署：push 到 main 即触发构建发布（`.github/workflows/deploy-pages.yml`），线上始终是最新构建的自包含产物。存档保存在浏览器 localStorage，同浏览器下次打开可继续。
+
 ## 快速开始
 
 ```bash
